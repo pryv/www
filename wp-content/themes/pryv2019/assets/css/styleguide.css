@@ -1,0 +1,52 @@
+article h1 {
+  font-family: "Roboto Medium", sans-serif;
+  font-size: 32px !important;
+  line-height: 38px !important;
+  font-weight: 500 !important;
+}
+article h2 {
+  font-family: "Roboto Medium", sans-serif;
+  font-size: 24px !important;
+  line-height: 30px !important;
+  font-weight: 500 !important;
+}
+article h3 {
+  font-family: "Roboto Medium", sans-serif;
+  font-size: 20px !important;
+  line-height: 26px !important;
+  font-weight: 500 !important;
+}
+article p {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px !important;
+  line-height: 26px !important;
+  font-weight: normal !important;
+}
+article blockquote p {
+  font-family: "Roboto Light", sans-serif;
+  font-size: 24px !important;
+  line-height: 34px !important;
+  font-weight: normal !important;
+}
+article a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+}
+article a:hover {
+  color: #BD1026;
+}
+article ul {
+  list-style: square;
+}
+article ul li {
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: normal;
+}
+article b,
+article strong {
+  font-weight: 600 !important;
+}

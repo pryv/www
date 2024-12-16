@@ -1,0 +1,117 @@
+@media screen and (min-width: 1200px) {
+  .home-markets .action-block h5 {
+    font-size: 22px;
+  }
+}
+@media screen and (min-width: 993px) {
+  .home-markets .action-block .content {
+    height: 100%;
+  }
+  .home-markets .action-block h5 {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .home-markets .action-block h5 {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .home-markets .action-block .content .bottom {
+    height: calc(100% - 95px);
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .home-markets .action-block .content .bottom div {
+    text-align: center;
+  }
+}
+
+.products {
+  margin-top: 55px;
+}
+.products .col-12 {
+  margin-bottom: 30px;
+}
+.products h3 {
+  text-transform: uppercase;
+  font-size: 16px !important;
+  font-weight: bold;
+  line-height: 19px !important;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.products .product_card {
+  background-color: #FBF3F4;
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 20px 31px 30px;
+  position: relative;
+  transition: box-shadow 0.3s ease-in-out;
+}
+.products .product_card:hover {
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.products .product_card .highlight {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  font-size: 13px !important;
+  line-height: 15px !important;
+  font-weight: 400 !important;
+  color: #717171;
+  text-transform: uppercase;
+}
+.products .product_card .type {
+  font-size: 13px !important;
+  line-height: 15px !important;
+  font-weight: 400 !important;
+  margin-bottom: 15px;
+  color: #0B0014;
+  text-transform: uppercase;
+}
+.products .product_card .name {
+  font-size: 32px !important;
+  line-height: 38px !important;
+  font-weight: 500 !important;
+  margin-bottom: 15px;
+  color: #BD1026;
+}
+.products .product_card .desc {
+  font-size: 16px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+  margin-bottom: 0px;
+  color: #0B0014;
+}
+.products .product_card .desc span {
+  display: block;
+}
+.products .btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  margin-top: 35px;
+  margin-right: 0;
+}
+@media screen and (max-width: 768px) {
+  .products .product_card {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .products .product_card .name {
+    min-height: 76px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .products .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .products .product_card .name {
+    min-height: initial;
+  }
+}

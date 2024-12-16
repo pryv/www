@@ -1,0 +1,7 @@
+nav.resp ul li > a {
+  display: block;
+  width: 100%;
+  height: 38px;
+  padding-top: 0px;
+  z-index: 999;
+}
