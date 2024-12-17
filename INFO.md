@@ -4,6 +4,9 @@ Uncomment /etc/hosts
 
 Run httrack https://www.pryv.com  -O ./ -%v
 
+Remove with replace regexpe
+
+`</span><a href="https://support.pryv.com/(.*)400;">, `
 
 Replace 
 
