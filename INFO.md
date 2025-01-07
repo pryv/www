@@ -8,7 +8,7 @@ Remove with replace regexpe
 
 `</span><a href="https://support.pryv.com/(.*)400;">, `
 
-Replace 
+Remove development support link
 
 1)
 
