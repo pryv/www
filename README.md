@@ -17,8 +17,8 @@ brew install hugo
 ## Quick Start
 
 ```bash
-# Dev server
-hugo server -D
+# Dev server (http://localhost:1313/www/)
+hugo server -D --baseURL http://localhost:1313/www/ --appendPort=false
 
 # Build (outputs to dist/)
 hugo
