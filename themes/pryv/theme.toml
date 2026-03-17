@@ -1,0 +1,6 @@
+name = "Pryv"
+license = "Proprietary"
+description = "Custom theme for Pryv corporate website"
+
+[author]
+  name = "Pryv"

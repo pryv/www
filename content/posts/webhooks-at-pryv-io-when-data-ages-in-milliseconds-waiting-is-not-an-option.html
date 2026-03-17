@@ -1,0 +1,46 @@
+---
+title: "Webhooks at Pryv.io: When data ages in milliseconds, waiting is not an option."
+date: "2020-01-03T20:01:46+00:00"
+lastmod: "2020-06-04T12:47:16+00:00"
+description: Worth-to-know insights on how Pryv.io notifies your app of any data changes from now; what are webhooks and how to integrate them into your infrastructure
+author: Evelina
+tags:
+  - features
+categories:
+  - blog
+  - pryv-updates
+readingTime: 4 minutes
+slug: webhooks-at-pryv-io-when-data-ages-in-milliseconds-waiting-is-not-an-option
+---
+
+<p><strong>Pryv.io notifies your app of any data changes from now.</strong></p>
+<p><i>Fast world, fast life- technology made the world change in milliseconds. Every second, a new piece of personal information is born. It begins its long journey in this digital world from being created, updated, acknowledged … leaving digital footprints with the purpose to be transferred into valuable insight to someone. Regulators made it clear, as owners of these pieces of information, each individual (user) can execute his rights to demand their full traceability at any given time. </i></p>
+<p><i>Wait a second?!? Sometimes even a delay of several microseconds is not acceptable. </i></p>
+<p><b><i>For the app developers of personal-data fed solutions, delivering</i></b><b><i> on this is </i></b><b><i>challenging.</i></b></p>
+<p><i>In this article, we provide you with worth-to-know insights on how Pryv.io notifies your app of any data changes from now; what are webhooks, why you’d better use them and how to integrate webhooks into your infrastructure with Pryv.io. </i></p>
+<h1><b>The wait is over : webhooks update data before you know it</b></h1>
+<p>If transfer of information is happening in real-time, users expect to get updates on what is being done in the blink of an eye. <b>Having to wait until your app or your server goes to check on its own if something new happened with the data you are collecting is not acceptable anymore.</b></p>
+<p>Well, this is exactly why webhooks have been created; and this is also the reason why we decided to implement them on Pryv.io. When you require real-time notifications of events, using a webhook is really your best option.</p>
+<h3><b>What exactly are Webhooks?</b></h3>
+<p>By definition, webhooks are a way to set up a push notification to a predefined URL endpoint. It is triggered by some event that one wishes to be alerted of, mostly in order to act on it. These are automated messages sent from web services when something happens. </p>
+<p>It’s how PayPal tells user’s accounting app when their clients pay them, how MailChimp notifies their users of common events such as subscribing, unsubscribing and profile changes, how Shopify keeps some parts of their users’ commerce and fulfilment system up-to-date…and how Pryv.io notifies your app of any data changes from now.</p>
+<p>To put it simply, webhooks act much like push notifications. Each time when a data change occurs in the account of your app users, your web service gets notified. Let’s say for example a new event related to their physical activity. As soon as the new event has been created, your web service gets a message like “Hey, something new just happened on one of the accounts !”. A data change has occurred in your users’ data, and your web service got notified about it. You can now process the fresh and up-to-date data with your algorithms.</p>
+<p> Webhooks work the same way.</p>
+<p>The point of contact between your server and the webhook is the URL that was provided at the creation of the webhook. You get notified of data changes in a web service using webhooks, that send an HTTP POST request to this URL with a payload similar to the notification message below :</p>
+<p><img src="/img/articles/payload.png" alt="" width="427" height="180"></p>
+<p>The server which listens to the provided URL receives the request and only needs to retrieve events and streams since last change to see what’s new. Nothing left to be done. </p>
+<h3><b>Why use webhooks?</b></h3>
+<p>Having up-to-date data is crucial for your process or your algorithms to work properly. You need to have reliable information to be able to keep your algorithm at pace with data changes happening in a few seconds. </p>
+<p>But you don’t want to have to go manually knock on the door and check whether you have some fresh information on your user’s data account, do you ? What you want, and what you actually need, is the information to come to you automatically and tell you : “There is something new waiting for you, just come and have a look.”. </p>
+<p>Automation leads to optimization.</p>
+<p>Still not convinced ? Here is a concrete use case that can fit the service you are offering with your digital app, your clinical trial or any research you are performing with personal data.</p>
+<p>Let’s say that your service integrates health or personal data using your Pryv.io platform, and you’d like to allow your app users to share their data with doctors or any other third parties, and to maintain the aggregated dataset up-to-date. </p>
+<p>You can easily do it now. Thanks to webhooks.</p>
+<p>How ? The user first consents to give access to the doctor or any other third party to his data. Each time he records new data with your app, the data is added and stored on the dedicated Pryv.io platform. The webhook notifies the web service whenever a data change occurs, which automatically maintains the dataset up-to-date. </p>
+<p>The doctor can then retrieve the latest data of any user and consult the updated aggregated dataset whenever he needs.</p>
+<p>The user can revoke his consent at any time, which notifies the web service through webhooks and removes his data from the data record.</p>
+<p>As simple as that !</p>
+<p><img src="/img/articles/webhooks-600x450.png" alt="" width="600" height="450"></p>
+
+<h3><b>Want more ?</b></h3>
+<p>If you are craving for more technical information about Webhooks and how to use them on Pryv.io, check out our <a href="https://pryv.github.io/guides/webhooks/">new dedicated section about Webhooks</a>. </p>

@@ -1,0 +1,37 @@
+/* Pryv Design Tokens — shared across www.pryv.com and dev-site */
+:root {
+  /* Brand colors */
+  --pryv-red: #be2834;
+  --pryv-red-alt: #C63130;
+  --pryv-red-dark: #BD1026;
+  --pryv-cyan: #30BCED;
+  --pryv-cyan-hover: #2ca8d4;
+
+  /* Text */
+  --pryv-text-dark: #353843;
+  --pryv-text-medium: #454955;
+  --pryv-text-body: #6a6d77;
+  --pryv-text-meta: #979797;
+
+  /* Backgrounds */
+  --pryv-bg-light: #f3eff5;
+  --pryv-bg-card: #FBF3F4;
+  --pryv-bg-white: #ffffff;
+
+  /* Borders */
+  --pryv-border: #eaeaea;
+  --pryv-border-medium: #d0d2d9;
+
+  /* Typography */
+  --pryv-font: 'Roboto', sans-serif;
+  --pryv-fw-light: 300;
+  --pryv-fw-regular: 400;
+  --pryv-fw-medium: 500;
+  --pryv-fw-bold: 700;
+
+  /* Shadows */
+  --pryv-shadow-card: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+
+  /* Spacing */
+  --pryv-gutter: 20px;
+}

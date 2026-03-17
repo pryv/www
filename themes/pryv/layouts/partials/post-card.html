@@ -1,0 +1,23 @@
+<article class="post-card">
+  {{ with .Params.featuredImage }}
+    <a href="{{ $.RelPermalink }}">
+      <img class="card-image" src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+    </a>
+  {{ end }}
+  <div class="card-body">
+    <div class="card-meta">{{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} &middot; {{ . }}{{ end }}</div>
+    <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ with .Description }}
+      <p class="card-excerpt">{{ . | truncate 160 }}</p>
+    {{ else }}
+      <p class="card-excerpt">{{ .Plain | truncate 160 }}</p>
+    {{ end }}
+    {{ with .GetTerms "tags" }}
+      <div class="card-tags">
+        {{ range (first 3 .) }}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</article>

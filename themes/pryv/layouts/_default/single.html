@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="single-article">
+  <header>
+    {{ if not (eq .Type "page") }}
+      <p class="entry-meta">
+        {{ with .Params.author }}By {{ . }} on {{ end }}
+        {{ .Date.Format "January 2, 2006" }}
+        {{ with .Params.readingTime }} &middot; {{ . }}{{ end }}
+      </p>
+    {{ end }}
+    <h1 class="entry-title">{{ .Title }}</h1>
+  </header>
+
+  {{ with .Params.featuredImage }}
+    <div class="featured-image">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+    </div>
+  {{ end }}
+
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+
+  {{ with .GetTerms "tags" }}
+    <div class="tag-list">
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+</article>
+{{ end }}

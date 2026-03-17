@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+  <div class="taxonomy-header">
+    <h1>{{ .Title }}</h1>
+  </div>
+  <ul style="columns: 3; list-style: none; padding: 0; margin: 30px 0;">
+    {{ range .Data.Terms.ByCount }}
+      <li style="margin-bottom: 10px;">
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+        <span style="color: var(--pryv-text-meta);">({{ .Count }})</span>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

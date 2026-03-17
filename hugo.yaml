@@ -1,0 +1,59 @@
+theme: pryv
+baseURL: /
+publishDir: dist
+languageCode: en-us
+title: Pryv
+description: "Data & Privacy, Managed."
+
+taxonomies:
+  tag: tags
+  category: categories
+
+params:
+  description: "eHealth Data Middleware"
+  copyright: "2012-2026 Pryv"
+  social:
+    linkedin: "https://www.linkedin.com/company/pryv/"
+    twitter: "https://x.com/pryv"
+    facebook: "https://www.facebook.com/Pryv/"
+  developer_resources: "https://pryv.github.io/"
+
+menu:
+  main:
+    - name: Product
+      weight: 1
+      hasChildren: true
+    - name: Open Pryv.io
+      parent: Product
+      url: /open-pryv/
+      weight: 1
+    - name: Features
+      parent: Product
+      url: /tags/features/
+      weight: 2
+    - name: White Paper
+      parent: Product
+      url: https://pryv.github.io/data-in-pryv/
+      weight: 3
+    - name: Posts
+      url: /posts/
+      weight: 2
+    - name: Developers
+      url: https://pryv.github.io/
+      weight: 3
+    - name: About Pryv
+      url: /about-pryv/
+      weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+pagination:
+  pagerSize: 12
+
+outputs:
+  home:
+    - HTML
+    - RSS

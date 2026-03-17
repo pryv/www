@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div>&copy; {{ .Site.Params.copyright }}</div>
+    <div class="footer-links">
+      <a href="{{ "privacy-policy/" | relURL }}">Privacy Policy</a>
+      <a href="{{ "terms-of-use/" | relURL }}">Terms of Use</a>
+    </div>
+    <div class="footer-social">
+      {{ with .Site.Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener"><img src="{{ "img/linkedin-logo@3x.svg" | relURL }}" alt="LinkedIn"></a>{{ end }}
+      {{ with .Site.Params.social.twitter }}<a href="{{ . }}" target="_blank" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>{{ end }}
+    </div>
+  </div>
+</footer>

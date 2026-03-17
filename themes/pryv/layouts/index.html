@@ -1,0 +1,103 @@
+{{ define "head" }}
+<style>
+  .hero {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 60px 0;
+  }
+  .hero-image {
+    flex: 1;
+    max-width: 50%;
+  }
+  .hero-image img {
+    width: 100%;
+  }
+  .hero-text {
+    flex: 1;
+  }
+  .hero-text h1 {
+    font-size: 2.2em;
+    line-height: 1.15;
+    margin: 0 0 16px;
+  }
+  .hero-text h1 .red {
+    color: var(--pryv-red);
+  }
+  .hero-text p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: var(--pryv-text-body);
+    margin-bottom: 16px;
+  }
+  .hero-text .btn {
+    display: inline-block;
+    padding: 12px 32px;
+    border: 2px solid var(--pryv-cyan);
+    color: var(--pryv-cyan);
+    font-weight: var(--pryv-fw-medium);
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    transition: all 0.2s;
+  }
+  .hero-text .btn:hover {
+    background: var(--pryv-cyan);
+    color: white;
+    text-decoration: none;
+  }
+  .banner {
+    background: var(--pryv-bg-card);
+    padding: 40px 0;
+    text-align: center;
+    border-top: 3px solid var(--pryv-red);
+  }
+  .banner h2 {
+    font-size: 1.5em;
+    font-weight: var(--pryv-fw-bold);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  @media (max-width: 768px) {
+    .hero { flex-direction: column; padding: 30px 0; }
+    .hero-image { max-width: 100%; }
+  }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+  <section class="hero">
+    <div class="hero-image">
+      <img src="{{ "img/Illustration-hero.svg" | relURL }}" alt="Pryv.io personal data middleware">
+    </div>
+    <div class="hero-text">
+      <h1>Open-Source Swiss-made <span class="red">Personal Data &amp; Privacy</span> Management Software</h1>
+      <p><strong>A ready-to-use middleware for personal data and consent management</strong></p>
+      <p>Pryv.io is a solid foundation on which you build your own digital solution, so you can collect, store, share and rightfully use personal data.</p>
+      <p>It comes with must-have consent and auditing tools to keep you compliant with existing and forthcoming regulations.</p>
+      <a class="btn" href="{{ "open-pryv/" | relURL }}">Read More</a>
+    </div>
+  </section>
+</div>
+
+<div class="banner">
+  <div class="container">
+    <h2>Design digital solutions ensuring personal data management in full compliance with the Swiss data protection laws and GDPR</h2>
+  </div>
+</div>
+
+<div class="container">
+  <section id="markets" style="margin: 60px 0;">
+    <h2>Latest Posts</h2>
+    <div class="post-list">
+      {{ range (first 6 (where .Site.RegularPages "Section" "posts")) }}
+        {{ partial "post-card.html" . }}
+      {{ end }}
+    </div>
+    <div style="text-align: center; margin: 30px 0;">
+      <a href="{{ "posts/" | relURL }}" style="padding: 12px 24px; background: var(--pryv-red); color: white; border-radius: 4px; font-weight: 500; display: inline-block;">All Posts</a>
+    </div>
+  </section>
+</div>
+{{ end }}
