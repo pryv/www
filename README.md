@@ -78,7 +78,7 @@ git commit -m "Update site"
 git push origin gh-pages
 ```
 
-The `dist/` directory is a separate git clone of the `gh-pages` branch (set up by `scripts/setup.sh`). Hugo builds into it, then you commit and push from there.
+The `dist/` directory is a separate git clone of the `gh-pages` branch (set up by `scripts/setup.sh`). Hugo builds into it, then you manually commit and push from there. Publishing is never automatic — nothing happens on push to `master`.
 
 ## Content
 
