@@ -27,7 +27,7 @@ slug: webhooks-at-pryv-io-when-data-ages-in-milliseconds-waiting-is-not-an-optio
 <p>To put it simply, webhooks act much like push notifications. Each time when a data change occurs in the account of your app users, your web service gets notified. Let’s say for example a new event related to their physical activity. As soon as the new event has been created, your web service gets a message like “Hey, something new just happened on one of the accounts !”. A data change has occurred in your users’ data, and your web service got notified about it. You can now process the fresh and up-to-date data with your algorithms.</p>
 <p> Webhooks work the same way.</p>
 <p>The point of contact between your server and the webhook is the URL that was provided at the creation of the webhook. You get notified of data changes in a web service using webhooks, that send an HTTP POST request to this URL with a payload similar to the notification message below :</p>
-<p><img src="/img/articles/payload.png" alt="" width="427" height="180"></p>
+<p><img src="img/articles/payload.png" alt="" width="427" height="180"></p>
 <p>The server which listens to the provided URL receives the request and only needs to retrieve events and streams since last change to see what’s new. Nothing left to be done. </p>
 <h3><b>Why use webhooks?</b></h3>
 <p>Having up-to-date data is crucial for your process or your algorithms to work properly. You need to have reliable information to be able to keep your algorithm at pace with data changes happening in a few seconds. </p>
@@ -40,7 +40,7 @@ slug: webhooks-at-pryv-io-when-data-ages-in-milliseconds-waiting-is-not-an-optio
 <p>The doctor can then retrieve the latest data of any user and consult the updated aggregated dataset whenever he needs.</p>
 <p>The user can revoke his consent at any time, which notifies the web service through webhooks and removes his data from the data record.</p>
 <p>As simple as that !</p>
-<p><img src="/img/articles/webhooks-600x450.png" alt="" width="600" height="450"></p>
+<p><img src="img/articles/webhooks-600x450.png" alt="" width="600" height="450"></p>
 
 <h3><b>Want more ?</b></h3>
 <p>If you are craving for more technical information about Webhooks and how to use them on Pryv.io, check out our <a href="https://pryv.github.io/guides/webhooks/">new dedicated section about Webhooks</a>. </p>
