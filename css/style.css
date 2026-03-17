@@ -132,6 +132,15 @@ h3 { font-size: 1.25em; font-weight: var(--pryv-fw-semibold); }
   min-width: 200px;
   z-index: 100;
 }
+/* Invisible bridge covers the gap between trigger and dropdown */
+.main-nav .sub-menu::before {
+  content: '';
+  position: absolute;
+  top: -12px;
+  left: 0;
+  right: 0;
+  height: 12px;
+}
 .main-nav .has-children:hover .sub-menu {
   display: block;
 }
