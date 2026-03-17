@@ -62,23 +62,19 @@ hugo
 
 ## Deployment
 
-The site publishes to GitHub Pages via the `gh-pages` branch.
+The site publishes to GitHub Pages via the `gh-pages` branch. Publishing is manual — nothing happens on push to `master`.
 
 ```bash
 # First time: set up the dist/ folder
 ./scripts/setup.sh
 
-# Build the site
-hugo
-
-# Publish: commit and push inside dist/
-cd dist
-git add -A
-git commit -m "Update site"
-git push origin gh-pages
+# Publish (builds + pushes to gh-pages)
+./scripts/publish.sh
 ```
 
-The `dist/` directory is a separate git clone of the `gh-pages` branch (set up by `scripts/setup.sh`). Hugo builds into it, then you manually commit and push from there. Publishing is never automatic — nothing happens on push to `master`.
+The publish script checks that you're on `master` with a clean working tree, runs `hugo`, then commits and pushes `dist/` to the `gh-pages` branch.
+
+The `dist/` directory is a separate git clone of the `gh-pages` branch (set up by `scripts/setup.sh`).
 
 ## Content
 
