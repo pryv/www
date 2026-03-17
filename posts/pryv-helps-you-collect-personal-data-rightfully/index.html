@@ -122,7 +122,7 @@
 <li style="font-weight: 400;">Your user has the right to revoke his consent and to decline sharing this sensitive data with any other third-parties (such as doctors, in this use case). </li>
 </ul>
 <p>However, your user really wants to use your app to help him and to be guided by his doctor about his allergen exposure. Is this possible? We made a simple way to do it. </p>
-<p><img src="/img/articles/allergens_use_case-600x452.png" alt="" width="600" height="452"></p>
+<p><img src="img/articles/allergens_use_case-600x452.png" alt="" width="600" height="452"></p>
 <h3>Sensitive Personal Data Sharing, Simplified.</h3>
 <p>Only the algorithm needs to see the geolocation data, and nobody else, so why not just restrain the read access of the geolocation data to the algorithm?</p>
 <p>And restrain the allergens data to the user and his doctor?</p>
@@ -130,7 +130,7 @@
 <p>…</p>
 <p>Starts to get a bit more complex, mmh ?</p>
 <p>Let’s draw it simply in “streams” and display the data using <a href="https://pryv.github.io/data-in-pryv/">Pryv Data Model</a> :</p>
-<img src="/img/articles/data_model_structure-600x453.png" alt="Pryv Data Model Allergens" width="600" height="453">
+<img src="img/articles/data_model_structure-600x453.png" alt="Pryv Data Model Allergens" width="600" height="453">
 <p>When structuring the data in “streams” (which act like folders on your computer), you will be adding “events”, corresponding to time-stamped data in the related stream, and managing the level of “access” to this stream (‘read’, ‘manage’, ‘contribute’ or ‘create-only’).</p>
 <p>For example, the stream “Position” will only contain events of type “position/wgs84”, whereas the stream “Allergens” will contain substreams of allergens (“Pollen”, “Cereal crops”, etc) with events of type “density/kg-m3” …</p>
 <p>Now you see how our data model in streams and events is helpful. </p>
@@ -149,16 +149,16 @@
 <li style="font-weight: 400;">want your doctor to give you feedback and advice? Share the stream “Doctor’s feedback” with a “manage” level, enabling the doctor to add his comments in newly created child streams of this stream.</li>
 </ul>
 <p>This can be all automated by creating access requests from your app. It will send a notification to your user to request access to the stream “Position” stream on a “read” level and to “Allergens” on a “manage” level.</p>
-<h3><img src="/img/articles/Screenshot-2020-06-04-at-13.47.53.png" alt="Pryv example Data Allergens" width="199" height="316"></h3>
+<h3><img src="img/articles/Screenshot-2020-06-04-at-13.47.53.png" alt="Pryv example Data Allergens" width="199" height="316"></h3>
 <h3>Building a Trustful Relationship with Your Users, made easy.</h3>
 <p>By structuring the data you collect in this way and sharing the data of your user at a very granular level only to authorized third-parties with the user’s explicit consent, you establish a trustful relationship. </p>
 <p>The more trust your users have in your app, the more data they will share.</p>
 <p>According to the data your users are willing to share, you will be able to adapt the user interfaces to the different third-parties and display only authorized data.</p>
-<img loading="lazy" src="/img/articles/doctor_interface-600x420.png" alt="Data Aggregation Alergens" width="600" height="420">
-<img loading="lazy" src="/img/articles/patient_interface-600x451.png" alt="Allergens Example Data Aggregation Pryv" width="600" height="451">
+<img loading="lazy" src="img/articles/doctor_interface-600x420.png" alt="Data Aggregation Alergens" width="600" height="420">
+<img loading="lazy" src="img/articles/patient_interface-600x451.png" alt="Allergens Example Data Aggregation Pryv" width="600" height="451">
 <p>Respecting your user’s privacy will make your users more prone to share personal information with you. </p>
 <p>And the more data you will get, the more you will be able to provide valuable insights for your customer.</p>
-<img loading="lazy" src="/img/articles/value_loop-600x448.png" alt="Pryv values usecase allergens" width="600" height="448">
+<img loading="lazy" src="img/articles/value_loop-600x448.png" alt="Pryv values usecase allergens" width="600" height="448">
 <p>It has never been so easy to bring confidence to your customers. Simple, fast and effective, building your own solution on top of Pryv.io ensures you a long and trusted relationship with your users. So you can spend less time worrying about how to manage personal data and use this time to increase your users’ engagement. </p>
 <p>Now, focus on your own benefits and return on your data investments.</p>
 <p>With Pryv.io, we enable you to manage personal data rightfully – from the first time and overtime. </p>
