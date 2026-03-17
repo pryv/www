@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diga on Pryv</title>
-    <link>/tags/diga/</link>
+    <link>/www/tags/diga/</link>
     <description>Recent content in Diga on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 16:01:40 +0000</lastBuildDate>
-    <atom:link href="/tags/diga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/diga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build38 and Pryv Team Up to Simplify Mobile Security and Privacy for Digital Health Companies</title>
-      <link>/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</link>
+      <link>/www/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</link>
       <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
-      <guid>/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</guid>
+      <guid>/www/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</guid>
       <description>&lt;p&gt;&lt;em&gt;Lausanne/Switzerland, Munich/Germany 5th May, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and Build38 GmbH, the global provider of mobile application protection solutions, announced a strategic collaboration to address the growing demand for security and privacy compliance for the Digital Health and InsurTech Industry. &lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Security with app hardening and privacy-by-design backend are a top priority for &lt;/strong&gt;&lt;strong&gt;Digital Health Providers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fraud, privacy violations, cyberattacks, unauthorized data collection, outlaw processing, and hacking of connected medical devices and mobile applications are just a few of the threats arising from the digitalization of the healthcare industry. A hack, that can be disastrous for individuals, is just as harmful for businesses, who will face regulatory fines and damage to their reputation. Such threats can be minimized by implementing adequate privacy and security measures right from the very start. Protecting digital channels is invaluable on many levels, saves lives and prevents significant financial losses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DiGA “Fast Track” Kit for Digital Health Innovators</title>
-      <link>/posts/conquering-the-german-market-diga-fast-track-kit-for-digital-health-innovators/</link>
+      <link>/www/posts/conquering-the-german-market-diga-fast-track-kit-for-digital-health-innovators/</link>
       <pubDate>Mon, 23 Mar 2020 23:01:05 +0000</pubDate>
-      <guid>/posts/conquering-the-german-market-diga-fast-track-kit-for-digital-health-innovators/</guid>
+      <guid>/www/posts/conquering-the-german-market-diga-fast-track-kit-for-digital-health-innovators/</guid>
       <description>&lt;p&gt;&lt;i&gt;With its newly adopted Digital Healthcare Act (DHA; Digitale‑Versorgung‑Gesetz, DVG), Germany now positions itself as a top country for digital health innovation. Telemedicine and digitization are becoming the new normal. Funding options are increasing to push back the barriers of digital health innovation. While the Germans were already known for their robust and above-average effective healthcare system, the DHA will now make their healthcare market more attractive than ever, unleashing countless new opportunities for digital health startups and innovators. But how do you conquer such a market?&lt;/i&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get DiGA Fast Track Done Right - just in a heartbeat</title>
-      <link>/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</link>
+      <link>/www/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</link>
       <pubDate>Tue, 23 Sep 2014 23:05:31 +0000</pubDate>
-      <guid>/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</guid>
-      <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;Pryv “Fast Track” Development Kit&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Similar to Life, development is a constant stream of choices: Should you focus your development efforts on launching as early as possible? Or better focus on achieving scalability? Proving compliance? Getting certifications done? Managing the data, correctly? Winning on the UI/UX? …&lt;/p&gt;&#xA;&lt;p&gt;Sometimes not making a choice is still a choice: we made this work for you, having all at once. &lt;/p&gt;&#xA;&#xA;&#xA;&lt;img src=&#34;/img/articles/Pryv-DiGa-Draft-Design-EG-v3-1-600x338.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;338&#34;&gt;&#xA;&#xA;&lt;p&gt;We developed Pryv.io to optimise and de-risk your data management development efforts: from taking care of the entire data-lifecycle, enabling fast data integration, effortless data securing and auditing, ensuring data protection and privacy compliance and delivering to you a scalable data management solution, so you can handle the data of millions, under your control. And the best is yet to come: delivered to you in less than 5 days (!) &lt;/p&gt;</description>
+      <guid>/www/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</guid>
+      <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;Pryv “Fast Track” Development Kit&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Similar to Life, development is a constant stream of choices: Should you focus your development efforts on launching as early as possible? Or better focus on achieving scalability? Proving compliance? Getting certifications done? Managing the data, correctly? Winning on the UI/UX? …&lt;/p&gt;&#xA;&lt;p&gt;Sometimes not making a choice is still a choice: we made this work for you, having all at once. &lt;/p&gt;&#xA;&#xA;&#xA;&lt;img src=&#34;/www/img/articles/Pryv-DiGa-Draft-Design-EG-v3-1-600x338.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;338&#34;&gt;&#xA;&#xA;&lt;p&gt;We developed Pryv.io to optimise and de-risk your data management development efforts: from taking care of the entire data-lifecycle, enabling fast data integration, effortless data securing and auditing, ensuring data protection and privacy compliance and delivering to you a scalable data management solution, so you can handle the data of millions, under your control. And the best is yet to come: delivered to you in less than 5 days (!) &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consent on Pryv</title>
-    <link>/tags/consent/</link>
+    <link>/www/tags/consent/</link>
     <description>Recent content in Consent on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Sep 2020 16:01:40 +0000</lastBuildDate>
-    <atom:link href="/tags/consent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/consent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Loud Silence of Digital Ethics  in personal data mobile apps</title>
-      <link>/posts/the-loud-silence-of-digital-ethics-in-personal-data-mobile-apps/</link>
+      <link>/www/posts/the-loud-silence-of-digital-ethics-in-personal-data-mobile-apps/</link>
       <pubDate>Tue, 08 Sep 2020 06:48:45 +0000</pubDate>
-      <guid>/posts/the-loud-silence-of-digital-ethics-in-personal-data-mobile-apps/</guid>
+      <guid>/www/posts/the-loud-silence-of-digital-ethics-in-personal-data-mobile-apps/</guid>
       <description>&lt;h3&gt;&lt;b&gt;Digital Ethics DNA: still unknown.&lt;/b&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;i&gt;Technology made it possible to have the world at a fingerprint. As a result, every day, millions of users leave their marks in the digital world, making it possible for companies to frame them into predictive, insightful “little boxes”. The question of whether it is for good or not will depend on how they will use this information. Is our personal information treated and used with ethics? Beyond what the law says, personal data and privacy regulations such as the GDPR or CCPA, we all have an inner sense of what is right and what is wrong. Digital Ethics is something that we all wish to believe in, but few know about it.&lt;/i&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Enhancing trust requires rethinking consent</title>
-      <link>/posts/consent/</link>
+      <link>/www/posts/consent/</link>
       <pubDate>Thu, 23 Jan 2020 19:43:37 +0000</pubDate>
-      <guid>/posts/consent/</guid>
+      <guid>/www/posts/consent/</guid>
       <description>&lt;p style=&#34;text-align: left;&#34;&gt;Another year yet we still hear and read about this same new year’s business resolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 style=&#34;text-align: left;&#34;&gt;“2020: Make trust first priority…”&lt;/h4&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p style=&#34;text-align: left;&#34;&gt;So what? Enough with words, actions need to be taken.&lt;/p&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;&lt;b&gt;The loss of trust.&lt;/b&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today, if you’re in the business of collecting sensitive personal data, building trust with your customers is essential for growing your business.&lt;/p&gt;&#xA;&lt;p&gt;For many years now, users have been misguided and left in the dark regarding the processing of their own personal data. As a result, they tend to be more reluctant when it comes to sharing confidential information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design your Remote and Decentralized Clinical Trials with Pryv.io</title>
-      <link>/posts/design-your-remote-and-decentralized-clinical-trials-with-pryv-io/</link>
+      <link>/www/posts/design-your-remote-and-decentralized-clinical-trials-with-pryv-io/</link>
       <pubDate>Wed, 07 Aug 2019 13:29:59 +0000</pubDate>
-      <guid>/posts/design-your-remote-and-decentralized-clinical-trials-with-pryv-io/</guid>
-      <description>&lt;p&gt;&lt;i&gt;Pryv.io is a simple, yet remarkably powerful personal data management platform, used as a foundation to execute clinical trials remotely while keeping participants safe and empowered through digital and mobile technologies, improving patient access, experience and reporting of outcomes in a reduced trial timeline.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Spreading Adoption of Telehealth Solutions&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Fostering eConsent Acceptance&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Leveraging Real World Evidence Data&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Reporting Patient Outcomes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;/img/articles/Pryv-for-Clinical-Trials-v6-2-600x600.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Swiss-made Pryv.io is a ready-to-use personal data lifecycle management software, specifically engineered to empower CRO and Pharma organizations to design and run decentralized, remote and direct-to-patient clinical trials.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/www/posts/design-your-remote-and-decentralized-clinical-trials-with-pryv-io/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Pryv.io is a simple, yet remarkably powerful personal data management platform, used as a foundation to execute clinical trials remotely while keeping participants safe and empowered through digital and mobile technologies, improving patient access, experience and reporting of outcomes in a reduced trial timeline.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Spreading Adoption of Telehealth Solutions&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Fostering eConsent Acceptance&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Leveraging Real World Evidence Data&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;Reporting Patient Outcomes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;/www/img/articles/Pryv-for-Clinical-Trials-v6-2-600x600.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;600&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Swiss-made Pryv.io is a ready-to-use personal data lifecycle management software, specifically engineered to empower CRO and Pharma organizations to design and run decentralized, remote and direct-to-patient clinical trials.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy-centric eCRF for RWD and Informed Consent</title>
-      <link>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</link>
+      <link>/www/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</link>
       <pubDate>Sat, 13 Jul 2019 14:03:22 +0000</pubDate>
-      <guid>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</guid>
+      <guid>/www/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The innovative RWD eConsent solution is ideal for enhancing clinical trials with Real-World Data (RWD), achieving privacy compliance and improving patients’ engagement.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Switzerland, Morges, 12 June 2019 – Pryv, the leading Swiss provider of privacy and personal data management software, and BGO Software, a Bulgaria-based leading software services and product development company, have announced the launch of an innovative eCRF solution to manage Real-World Data (RWD) and informed electronic consent (eConsent).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv introduces Riva Digital oBPM Blood Pressure Monitoring App</title>
-      <link>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</link>
+      <link>/www/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</link>
       <pubDate>Sun, 26 Aug 2018 07:11:14 +0000</pubDate>
-      <guid>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</guid>
-      <description>&lt;p&gt;&lt;span id=&#34;ember6981&#34; class=&#34;ember-view&#34;&gt;Hypertension (High BloodPressure) is the #1 most spread disease in Switzerland- 1 in 5 Swiss is affected.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;“High BloodPressure is a silent killer, it doesn’t hurt and you do not feel it, until it is too late” says Dr. Thomas Guggi, Project and Technical Lead at &lt;a href=&#34;https://www.rivadigital.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riva Digital&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a id=&#34;ember6985&#34; class=&#34;tap-target feed-shared-text-view__mention ember-view&#34; href=&#34;/&#34;&gt;&lt;span data-entity-hovercard-id=&#34;urn:li:fs_miniCompany:2981970&#34;&gt;Pryv&lt;/span&gt;&lt;/a&gt;, we are&lt;span id=&#34;ember6989&#34; class=&#34;ember-view&#34;&gt; honoured to support Riva Digital initiative at its mission to increase the health literacy of the Swiss society by providing a solid data management foundation to enable data collection, structure, storage and sharing.&lt;/span&gt;&lt;/p&gt;</description>
+      <guid>/www/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</guid>
+      <description>&lt;p&gt;&lt;span id=&#34;ember6981&#34; class=&#34;ember-view&#34;&gt;Hypertension (High BloodPressure) is the #1 most spread disease in Switzerland- 1 in 5 Swiss is affected.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;“High BloodPressure is a silent killer, it doesn’t hurt and you do not feel it, until it is too late” says Dr. Thomas Guggi, Project and Technical Lead at &lt;a href=&#34;https://www.rivadigital.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riva Digital&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a id=&#34;ember6985&#34; class=&#34;tap-target feed-shared-text-view__mention ember-view&#34; href=&#34;/www/&#34;&gt;&lt;span data-entity-hovercard-id=&#34;urn:li:fs_miniCompany:2981970&#34;&gt;Pryv&lt;/span&gt;&lt;/a&gt;, we are&lt;span id=&#34;ember6989&#34; class=&#34;ember-view&#34;&gt; honoured to support Riva Digital initiative at its mission to increase the health literacy of the Swiss society by providing a solid data management foundation to enable data collection, structure, storage and sharing.&lt;/span&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get DiGA Fast Track Done Right - just in a heartbeat</title>
-      <link>/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</link>
+      <link>/www/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</link>
       <pubDate>Tue, 23 Sep 2014 23:05:31 +0000</pubDate>
-      <guid>/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</guid>
-      <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;Pryv “Fast Track” Development Kit&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Similar to Life, development is a constant stream of choices: Should you focus your development efforts on launching as early as possible? Or better focus on achieving scalability? Proving compliance? Getting certifications done? Managing the data, correctly? Winning on the UI/UX? …&lt;/p&gt;&#xA;&lt;p&gt;Sometimes not making a choice is still a choice: we made this work for you, having all at once. &lt;/p&gt;&#xA;&#xA;&#xA;&lt;img src=&#34;/img/articles/Pryv-DiGa-Draft-Design-EG-v3-1-600x338.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;338&#34;&gt;&#xA;&#xA;&lt;p&gt;We developed Pryv.io to optimise and de-risk your data management development efforts: from taking care of the entire data-lifecycle, enabling fast data integration, effortless data securing and auditing, ensuring data protection and privacy compliance and delivering to you a scalable data management solution, so you can handle the data of millions, under your control. And the best is yet to come: delivered to you in less than 5 days (!) &lt;/p&gt;</description>
+      <guid>/www/posts/pryv-io-to-boost-your-way-into-diga-official-portfolio-and-conquer-the-digital-world-in-a-heartbeat/</guid>
+      <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;Pryv “Fast Track” Development Kit&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Similar to Life, development is a constant stream of choices: Should you focus your development efforts on launching as early as possible? Or better focus on achieving scalability? Proving compliance? Getting certifications done? Managing the data, correctly? Winning on the UI/UX? …&lt;/p&gt;&#xA;&lt;p&gt;Sometimes not making a choice is still a choice: we made this work for you, having all at once. &lt;/p&gt;&#xA;&#xA;&#xA;&lt;img src=&#34;/www/img/articles/Pryv-DiGa-Draft-Design-EG-v3-1-600x338.png&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;338&#34;&gt;&#xA;&#xA;&lt;p&gt;We developed Pryv.io to optimise and de-risk your data management development efforts: from taking care of the entire data-lifecycle, enabling fast data integration, effortless data securing and auditing, ensuring data protection and privacy compliance and delivering to you a scalable data management solution, so you can handle the data of millions, under your control. And the best is yet to come: delivered to you in less than 5 days (!) &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

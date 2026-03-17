@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Pryv</title>
-    <link>/categories/events/</link>
+    <link>/www/categories/events/</link>
     <description>Recent content in Events on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2019 12:45:13 +0000</lastBuildDate>
-    <atom:link href="/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pierre-Mikael&#39;s Vision: &#34;From Needs to Ideas to Innovation to Market”</title>
-      <link>/posts/hot-topic-discussed-nice/</link>
+      <link>/www/posts/hot-topic-discussed-nice/</link>
       <pubDate>Tue, 06 Feb 2018 11:07:59 +0000</pubDate>
-      <guid>/posts/hot-topic-discussed-nice/</guid>
+      <guid>/www/posts/hot-topic-discussed-nice/</guid>
       <description>&lt;p&gt;For better ageing.&lt;/p&gt;&#xA;&lt;p&gt;Seniors are more susceptible to chronic conditions, which necessitate long-term treatments and numerous check-ups. The negative impact this has on patients’ quality of life can be alleviated by collaborations between caring institutions, ICT companies and researchers.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How can we encourage and fast-track these collaborations?&lt;/li&gt;&#xA;&lt;li&gt;What are the key elements to ensure their funding and success?&lt;/li&gt;&#xA;&lt;li&gt;What is the best-fitting business model?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Understanding the needs of the ageing population can prove challenging, as older people are not usually the focus of marketing studies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv and Nothing Interactive presents their Insurance mHealth platfrom</title>
-      <link>/posts/pryv-and-nothing-interactive-presents-their-insurance-mhealth-platfrom-at-the-insurance-iot-summit-europe/</link>
+      <link>/www/posts/pryv-and-nothing-interactive-presents-their-insurance-mhealth-platfrom-at-the-insurance-iot-summit-europe/</link>
       <pubDate>Mon, 26 Jun 2017 07:36:42 +0000</pubDate>
-      <guid>/posts/pryv-and-nothing-interactive-presents-their-insurance-mhealth-platfrom-at-the-insurance-iot-summit-europe/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;http://events.insurancenexus.com/insuranceioteurope/&#34;&gt;&lt;strong&gt;Insurance IoT Europe&lt;/strong&gt;&lt;/a&gt; conference and exhibition is the only event created tackling the applications of connected devices across all lines of insurance.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/static/Pryv-Nothing-TeamUp.pdf&#34;&gt;&lt;strong&gt;Pryv and Nothing Interactive announces a strategic partnership earlier in June&lt;/strong&gt;&lt;/a&gt;. The fully Swiss-made solution will allow insurances to increase user engagement, reduce costs and improve risk profiling. The customisable solution, a mHealth platform to track and understand health care data from different sources, is ready to be easy adopted and customized by an insurance to meet their needs.&lt;/p&gt;</description>
+      <guid>/www/posts/pryv-and-nothing-interactive-presents-their-insurance-mhealth-platfrom-at-the-insurance-iot-summit-europe/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://events.insurancenexus.com/insuranceioteurope/&#34;&gt;&lt;strong&gt;Insurance IoT Europe&lt;/strong&gt;&lt;/a&gt; conference and exhibition is the only event created tackling the applications of connected devices across all lines of insurance.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/www/static/Pryv-Nothing-TeamUp.pdf&#34;&gt;&lt;strong&gt;Pryv and Nothing Interactive announces a strategic partnership earlier in June&lt;/strong&gt;&lt;/a&gt;. The fully Swiss-made solution will allow insurances to increase user engagement, reduce costs and improve risk profiling. The customisable solution, a mHealth platform to track and understand health care data from different sources, is ready to be easy adopted and customized by an insurance to meet their needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pierre-Mikael Legris shares what it is to be an empowered patient</title>
-      <link>/posts/pryv-ceo-pierre-mikael-legris-shares-what-it-takes-to-be-an-empowered-patient-and-benefit-from-it/</link>
+      <link>/www/posts/pryv-ceo-pierre-mikael-legris-shares-what-it-takes-to-be-an-empowered-patient-and-benefit-from-it/</link>
       <pubDate>Wed, 22 Mar 2017 08:35:21 +0000</pubDate>
-      <guid>/posts/pryv-ceo-pierre-mikael-legris-shares-what-it-takes-to-be-an-empowered-patient-and-benefit-from-it/</guid>
-      <description>&lt;p&gt;Pierre-Mikael Legris shares his experience as a patient and &lt;a title=&#34;“Tracking myself free” by Perki, Pryv co-founder&#34; href=&#34;/posts/tracking-myself-free-by-perki-pryv-co-founder/&#34;&gt;how by tracking himself &lt;/a&gt;he managed to spend more time outside of hospitals during his treatments.&lt;/p&gt;&#xA;&lt;p&gt;Having achieved significant health and social outcomes he has proofed the real-world data coming from the patient-side is crucial for his medical treatments. As a software engineer he decided to give the opportunity other patients be empowered as he was.&lt;/p&gt;</description>
+      <guid>/www/posts/pryv-ceo-pierre-mikael-legris-shares-what-it-takes-to-be-an-empowered-patient-and-benefit-from-it/</guid>
+      <description>&lt;p&gt;Pierre-Mikael Legris shares his experience as a patient and &lt;a title=&#34;“Tracking myself free” by Perki, Pryv co-founder&#34; href=&#34;/www/posts/tracking-myself-free-by-perki-pryv-co-founder/&#34;&gt;how by tracking himself &lt;/a&gt;he managed to spend more time outside of hospitals during his treatments.&lt;/p&gt;&#xA;&lt;p&gt;Having achieved significant health and social outcomes he has proofed the real-world data coming from the patient-side is crucial for his medical treatments. As a software engineer he decided to give the opportunity other patients be empowered as he was.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv goes international. First stop: Silicon Valley, USA</title>
-      <link>/posts/pryv-in-usa/</link>
+      <link>/www/posts/pryv-in-usa/</link>
       <pubDate>Tue, 21 Mar 2017 13:52:08 +0000</pubDate>
-      <guid>/posts/pryv-in-usa/</guid>
+      <guid>/www/posts/pryv-in-usa/</guid>
       <description>&lt;p&gt;“At this stage, having already a fully developed, validated and commercialized product, Pryv begins the execution of its “Growth Strategy”, which includes an investigation of the U.S market opportunities. Silicon Valley is in particular one of our business development destinations because the area allows for a direct access to a well-developed ecosystem of innovative-thinking entrepreneurs, investors and technology adopters to share our vision and innovation with.” says Evelina Georgieva, Chief Business Development Officer and a Founding Member of Pryv.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qualified in Top 10 Digital Health growing European companies</title>
-      <link>/posts/pryv-goes-to-the-european-venture-summit-finals/</link>
+      <link>/www/posts/pryv-goes-to-the-european-venture-summit-finals/</link>
       <pubDate>Fri, 25 Nov 2016 14:08:12 +0000</pubDate>
-      <guid>/posts/pryv-goes-to-the-european-venture-summit-finals/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;We are honoured to receive the “best presentation award” and being ranked TOP 10 #DigitalHealth growing companies in Europe &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/img/articles/digital-health-venture-forum-data-privacy-management-pryv.jpg&#34;&gt;&lt;img class=&#34; wp-image-3433 alignright&#34; src=&#34;/img/articles/digital-health-venture-forum-data-privacy-management-pryv-1024x768.jpg&#34; alt=&#34;img_1319&#34; width=&#34;326&#34; height=&#34;244&#34;&gt;&lt;/a&gt;by the Tech Tour after our presentation during the &lt;a title=&#34;Digital Health Venture Forum 2016 welcomes Pryv as one of the Top 40 of the best European early stage Digital health companies&#34; href=&#34;/posts/digital-health-venture-forum/&#34;&gt;Digital Health Venture Forum which took place in Valencia (Spain) on the 25th and 26th of October 2016.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;As one of the finalist, we are pleased to join the &lt;strong&gt;10th edition of The European Venture Summit &lt;/strong&gt;– Europe’s leading network and investment event for high-growth technological start-ups, venture capital investors and technological corporations is taking place &lt;strong&gt;on 5-6 December 2016 in Düsseldorf&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>/www/posts/pryv-goes-to-the-european-venture-summit-finals/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We are honoured to receive the “best presentation award” and being ranked TOP 10 #DigitalHealth growing companies in Europe &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/www/img/articles/digital-health-venture-forum-data-privacy-management-pryv.jpg&#34;&gt;&lt;img class=&#34; wp-image-3433 alignright&#34; src=&#34;/www/img/articles/digital-health-venture-forum-data-privacy-management-pryv-1024x768.jpg&#34; alt=&#34;img_1319&#34; width=&#34;326&#34; height=&#34;244&#34;&gt;&lt;/a&gt;by the Tech Tour after our presentation during the &lt;a title=&#34;Digital Health Venture Forum 2016 welcomes Pryv as one of the Top 40 of the best European early stage Digital health companies&#34; href=&#34;/www/posts/digital-health-venture-forum/&#34;&gt;Digital Health Venture Forum which took place in Valencia (Spain) on the 25th and 26th of October 2016.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;As one of the finalist, we are pleased to join the &lt;strong&gt;10th edition of The European Venture Summit &lt;/strong&gt;– Europe’s leading network and investment event for high-growth technological start-ups, venture capital investors and technological corporations is taking place &lt;strong&gt;on 5-6 December 2016 in Düsseldorf&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pierre-Mikael Legris, patient representative and co-founder of Pryv</title>
-      <link>/posts/pierre-mikael-legris-to-present-during-symposium/</link>
+      <link>/www/posts/pierre-mikael-legris-to-present-during-symposium/</link>
       <pubDate>Fri, 25 Nov 2016 13:36:38 +0000</pubDate>
-      <guid>/posts/pierre-mikael-legris-to-present-during-symposium/</guid>
-      <description>&lt;p&gt;Pierre-Mikael Legris as a patient representative and co-founder of Pryv will participate to the Symposium “Le dossier électronique du patient dans la pratique : quels seront les changements au quotidien?” which will be held on Tuesday 6 December 2016, 9:00 – 12:50, at the Headquarters of the Swiss Post Wankdorfallee 4, Berne&lt;/p&gt;&#xA;&lt;p&gt;From a patient perspective, Pierre-Mikael will address and present the opportunities and challenges associated with the EPD.&lt;/p&gt;&#xA;&lt;p&gt;The full event information is available here: &lt;a href=&#34;/img/articles/publichealth-flyer-edp-fr-data-privacy-management-pryv.pdf&#34;&gt;publichealth_flyer_edp_fr&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/www/posts/pierre-mikael-legris-to-present-during-symposium/</guid>
+      <description>&lt;p&gt;Pierre-Mikael Legris as a patient representative and co-founder of Pryv will participate to the Symposium “Le dossier électronique du patient dans la pratique : quels seront les changements au quotidien?” which will be held on Tuesday 6 December 2016, 9:00 – 12:50, at the Headquarters of the Swiss Post Wankdorfallee 4, Berne&lt;/p&gt;&#xA;&lt;p&gt;From a patient perspective, Pierre-Mikael will address and present the opportunities and challenges associated with the EPD.&lt;/p&gt;&#xA;&lt;p&gt;The full event information is available here: &lt;a href=&#34;/www/img/articles/publichealth-flyer-edp-fr-data-privacy-management-pryv.pdf&#34;&gt;publichealth_flyer_edp_fr&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv: One of the Best European Early Stage Digital Health Companies</title>
-      <link>/posts/digital-health-venture-forum/</link>
+      <link>/www/posts/digital-health-venture-forum/</link>
       <pubDate>Thu, 20 Oct 2016 12:17:19 +0000</pubDate>
-      <guid>/posts/digital-health-venture-forum/</guid>
-      <description>&lt;p&gt;Assessed on the basis of its business potential, product and technology merit, competitive position, investment or partnering interest, team experience and project profile quality, &lt;a href=&#34;/&#34;&gt;Pryv&lt;/a&gt; is ranked in Top 40 early stage Digital Healthcare Companies in Europe.&lt;/p&gt;&#xA;&lt;p&gt;The Selection and Ranking is performed by the Tech Tour.&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&#34;StrongEmphasis&#34;&gt;The Digital Health Venture Forum (DHVF)&lt;/span&gt; will take place on &lt;strong&gt;&lt;span class=&#34;StrongEmphasis&#34;&gt;25th of October&lt;/span&gt;&lt;/strong&gt; in Valencia at the Las Naves venue.&lt;/p&gt;&#xA;&lt;p&gt;The Forum will focus on the following:&lt;/p&gt;</description>
+      <guid>/www/posts/digital-health-venture-forum/</guid>
+      <description>&lt;p&gt;Assessed on the basis of its business potential, product and technology merit, competitive position, investment or partnering interest, team experience and project profile quality, &lt;a href=&#34;/www/&#34;&gt;Pryv&lt;/a&gt; is ranked in Top 40 early stage Digital Healthcare Companies in Europe.&lt;/p&gt;&#xA;&lt;p&gt;The Selection and Ranking is performed by the Tech Tour.&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&#34;StrongEmphasis&#34;&gt;The Digital Health Venture Forum (DHVF)&lt;/span&gt; will take place on &lt;strong&gt;&lt;span class=&#34;StrongEmphasis&#34;&gt;25th of October&lt;/span&gt;&lt;/strong&gt; in Valencia at the Las Naves venue.&lt;/p&gt;&#xA;&lt;p&gt;The Forum will focus on the following:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv ranked among the best high growth companies</title>
-      <link>/posts/pryv-one-of-the-best-high-growth-companies/</link>
+      <link>/www/posts/pryv-one-of-the-best-high-growth-companies/</link>
       <pubDate>Thu, 20 Oct 2016 12:11:56 +0000</pubDate>
-      <guid>/posts/pryv-one-of-the-best-high-growth-companies/</guid>
+      <guid>/www/posts/pryv-one-of-the-best-high-growth-companies/</guid>
       <description>&lt;p&gt;The Alpine High-tech Venture Forum (AHVF) is an unique event for the most innovative entrepreneurs operating in Switzerland and its surrounding regions focussed on Life Sciences, Clean Technology and Information Technology to meet and present themselves to active international investors and corporations seeking for investment and partnerships.&lt;/p&gt;&#xA;&lt;p&gt;AHVF is hosted by &lt;span id=&#34;ctl00_ContentPlaceHolder1_lblcontent&#34;&gt;&lt;a href=&#34;http://www.vaud.ch/en/&#34;&gt;Canton de Vaud&lt;/a&gt; and is at its fifth edition. It&lt;/span&gt; plays an important role in the promotion of the dynamic and innovative professional entrepreneurs within the Alpine area. It also promotes the venture capitalists in the Alpine area and the rest of Europe to support their partnerships and investments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>how to use Blockchain to validate the data from IoT medical devices</title>
-      <link>/posts/pryv-blockchain-conference/</link>
+      <link>/www/posts/pryv-blockchain-conference/</link>
       <pubDate>Thu, 11 Aug 2016 09:02:25 +0000</pubDate>
-      <guid>/posts/pryv-blockchain-conference/</guid>
+      <guid>/www/posts/pryv-blockchain-conference/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pryv&lt;/strong&gt; is excited to be invited as a speaker and to share how its s&lt;strong&gt;wissmade eHealth Middleware&lt;/strong&gt; addresses in an innovative way the IT &amp;amp;Regulatory healthcare challenges- by &lt;strong&gt;using Blockchain to validate the data from IoT medical devices .&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Innovation World Cup Conference is coming to Switzerland again – on the 21&lt;sup&gt;st&lt;/sup&gt; of September @Microcity! The day will be a great mixture of some of the biggest tech companies in the world as well as up-and-coming Swiss companies showcasing their innovations in the field of Internet of Things, M2M Communications and wearables. Among the companies represented in Neuchâtel are &lt;strong&gt;STMicroelectronics&lt;/strong&gt; – the world leading provider of semiconductor solutions, &lt;strong&gt;Telit&lt;/strong&gt; – the global leader in Internet of Things enablement, &lt;strong&gt;Gemalto&lt;/strong&gt; – the world leader in digital security, &lt;strong&gt;Cicor&lt;/strong&gt; – one of the leading companies for microelectronics and electronics solutions, and &lt;strong&gt;BSH (Bosch Group) – &lt;/strong&gt;the largest home appliance manufacturer in Europe as well as one of the global industry leaders.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Touching Lives with Wearable Technology - Pryv Blog</title>
-      <link>/posts/touching-lives-with-wearable-technology/</link>
+      <link>/www/posts/touching-lives-with-wearable-technology/</link>
       <pubDate>Mon, 14 Mar 2016 19:30:30 +0000</pubDate>
-      <guid>/posts/touching-lives-with-wearable-technology/</guid>
+      <guid>/www/posts/touching-lives-with-wearable-technology/</guid>
       <description>&lt;p&gt;Pierre-Mikael Legris and Pryv participate to the panel discussion ‘Touching Lives with Wearable Technology’ at the Wearable Technology Show in London. 16th March 10.30 on the Wearable Disrupt Mainstage. “Continuous monitoring focuses on the vital signs, sport, training service, identity authentication and detect invasion. Our experts discuss how to detect; ECG, breathing, gait analysis, body temperature, posture and medical health whilst ultimately looking at how bionics and other body medical innovations are helping to revolutionise lives.” Jon us during the day at the Swiss Pavilion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Journée de l’Innovation et des PME - à l&#39;EPFL</title>
-      <link>/posts/la-journee-de-linnovation-et-des-pme/</link>
+      <link>/www/posts/la-journee-de-linnovation-et-des-pme/</link>
       <pubDate>Mon, 11 May 2015 12:18:14 +0000</pubDate>
-      <guid>/posts/la-journee-de-linnovation-et-des-pme/</guid>
+      <guid>/www/posts/la-journee-de-linnovation-et-des-pme/</guid>
       <description>&lt;p&gt;We are glad, our CEO Pierre-Mikael Legris will take part in the panel discussion “Encourager les opportunités du eHealth tout en maîtrisant les risques” tomorrow at La Journée de l’Innovation organised by @LeReseau&lt;/p&gt;&#xA;&lt;p&gt;Find out more about the participants and exhibiting companies&lt;a href=&#34;https://www.linkedin.com/lite/external-redirect?url=https%3A%2F%2Flnkd%2Ein%2FdA2Egjx&amp;amp;urlHash=lxV5&#34;&gt; here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

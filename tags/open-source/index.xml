@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open-Source on Pryv</title>
-    <link>/tags/open-source/</link>
+    <link>/www/tags/open-source/</link>
     <description>Recent content in Open-Source on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jun 2020 05:45:10 +0000</lastBuildDate>
-    <atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pryv releases an Open-Source Solution for Personal Data &amp; Privacy Management</title>
-      <link>/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</link>
+      <link>/www/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</link>
       <pubDate>Mon, 08 Jun 2020 06:38:44 +0000</pubDate>
-      <guid>/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</guid>
+      <guid>/www/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</guid>
       <description>&lt;p&gt;&lt;b&gt;The release of &lt;/b&gt;&lt;b&gt;&lt;i&gt;Open Pryv.io&lt;/i&gt;&lt;/b&gt; &lt;b&gt;delivers a free, full production, easy-to-install open-source solution for the collection and management of sensitive personal and health data.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Lausanne, Switzerland, June 9&lt;/i&gt;&lt;i&gt;th&lt;/i&gt;&lt;i&gt;, 2020&lt;/i&gt; — Today, Pryv, the leading Swiss provider of personal data and privacy management software announced the open-source release of &lt;a href=&#34;https://github.com/pryv/open-pryv.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; data-saferedirecturl=&#34;https://www.google.com/url?q=https://github.com/pryv/open-pryv.io&amp;amp;source=gmail&amp;amp;ust=1591767266336000&amp;amp;usg=AFQjCNE5M5Nwx5D_-qMstxXIdiLE3h7Y7w&#34;&gt;&lt;i&gt;Open Pryv.io&lt;/i&gt;&lt;/a&gt;: a free and scalable personal data lifecycle management platform specifically engineered to empower developers to rapidly create and scale breakthrough, GDPR, and privacy compliant products, services, and experiences.&lt;/p&gt;</description>
     </item>
   </channel>

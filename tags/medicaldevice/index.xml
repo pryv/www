@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medicaldevice on Pryv</title>
-    <link>/tags/medicaldevice/</link>
+    <link>/www/tags/medicaldevice/</link>
     <description>Recent content in Medicaldevice on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 20:28:59 +0000</lastBuildDate>
-    <atom:link href="/tags/medicaldevice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/medicaldevice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get your MDR compliance done right: explained in a less than 5 minutes read</title>
-      <link>/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</link>
+      <link>/www/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</link>
       <pubDate>Tue, 25 Feb 2020 09:18:11 +0000</pubDate>
-      <guid>/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</guid>
+      <guid>/www/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</guid>
       <description>&lt;p&gt;&lt;i&gt;Update May 2020: In regards to Covid-19, the European Parliament adopted the European Commission proposal, allowing the application of the Medical Devices Regulation to be postponed by one year until 26 May 2021&lt;/i&gt;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;i&gt;In May 2021, all companies providing healthcare solutions recognized as “medical devices” under the new EU “Medical Devices Regulation” (MDR) will have to comply with newer, stricter requirements, for which they may not be prepared.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;A number of discussions around MDR and how it might affect our customers and digital health innovators inspired us to write this article: summarizing the “must-knows” of MDR for those of you who are still in doubt about the Regulation, or will have to face it in the future. We hope it will help you get confidence on where to get started, and provide you with the keys to get your MDR compliance done right in a simple yet effective way.&lt;/i&gt;&lt;/p&gt;</description>
     </item>
   </channel>

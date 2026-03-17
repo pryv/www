@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datastorage on Pryv</title>
-    <link>/tags/datastorage/</link>
+    <link>/www/tags/datastorage/</link>
     <description>Recent content in Datastorage on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 13:48:19 +0000</lastBuildDate>
-    <atom:link href="/tags/datastorage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/datastorage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Residency: insights on where to store the personal data you collect -</title>
-      <link>/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</link>
+      <link>/www/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</guid>
+      <guid>/www/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</guid>
       <description>&lt;p&gt;&lt;b&gt;Data Residency: where the&lt;/b&gt;&lt;b&gt; home for your data is.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Data Localization: a business choice or a legal obligation?&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;We live in a world where information can travel across borders within a heartbeat. Yet, if it can be rendered anytime anywhere, it has to be stored somewhere at some point. &lt;/p&gt;&#xA;&lt;p&gt;Finding out where that somewhere should be can be quite a puzzle to solve. Preferably, you want it to be safe, compliant, as well as economically interesting. But mostly, finding the right location for storing valuable information is a legal conundrum that you will have to solve carefully. Especially when managing the personal data of users from various nationalities, as each country poses different geographic limitations as regards to data residency.&lt;/p&gt;</description>
     </item>
   </channel>

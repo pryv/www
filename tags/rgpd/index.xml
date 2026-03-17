@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rgpd on Pryv</title>
-    <link>/tags/rgpd/</link>
+    <link>/www/tags/rgpd/</link>
     <description>Recent content in Rgpd on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2020 19:48:21 +0000</lastBuildDate>
-    <atom:link href="/tags/rgpd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/rgpd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pourquoi la Certification HDS ne garantit pas votre conformité au RGPD?</title>
-      <link>/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</link>
+      <link>/www/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</link>
       <pubDate>Sun, 13 Oct 2019 19:54:32 +0000</pubDate>
-      <guid>/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</guid>
+      <guid>/www/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</guid>
       <description>&lt;p&gt;&lt;em&gt;Contrairement à ce que des entreprises peuvent croire, la Certification HDS de leur hébergeur n’implique en aucun cas leur conformité au RGPD. Tout ce que cela leur indique, c’est que leur hébergeur offre des garanties suffisantes en matière de protection des données.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;La confusion vient du fait que, malgré tout, faire appel à un sous-traitant certifié HDS pourra souvent aider le Responsable du traitement à se conformer au RGPD… Qu’en est-il donc ?&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

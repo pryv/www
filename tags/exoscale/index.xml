@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exoscale on Pryv</title>
-    <link>/tags/exoscale/</link>
+    <link>/www/tags/exoscale/</link>
     <description>Recent content in Exoscale on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Dec 2020 09:15:54 +0000</lastBuildDate>
-    <atom:link href="/tags/exoscale/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/exoscale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pryv.io Open Source Solution now available on Exoscale Cloud Platform</title>
-      <link>/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</link>
+      <link>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</guid>
+      <guid>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</guid>
       <description>&lt;p&gt;&lt;i&gt;Lausanne, Switzerland, December 8th, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and the European alternative cloud platform, Exoscale, announced the deployment of Pryv.io Open Source Solution on Exoscale cloud platform which will empower developers to start creating personal data collecting apps in one click in a privacy-compliant way. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Open Pryv.io software ready-to-go on Exoscale marketplace, allowing you to deploy Open Pryv instantaneously &lt;/b&gt;&lt;b&gt;with minimal start-up configuration.&lt;/b&gt;&lt;/p&gt;</description>
     </item>
   </channel>

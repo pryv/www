@@ -2,717 +2,717 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pryv</title>
-    <link>/tags/</link>
+    <link>/www/tags/</link>
     <description>Recent content in Tags on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 May 2022 07:28:57 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitaethics</title>
-      <link>/tags/digitaethics/</link>
+      <link>/www/tags/digitaethics/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
-      <guid>/tags/digitaethics/</guid>
+      <guid>/www/tags/digitaethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitaltrust</title>
-      <link>/tags/digitaltrust/</link>
+      <link>/www/tags/digitaltrust/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
-      <guid>/tags/digitaltrust/</guid>
+      <guid>/www/tags/digitaltrust/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>/tags/privacy/</link>
+      <link>/www/tags/privacy/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
-      <guid>/tags/privacy/</guid>
+      <guid>/www/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>/tags/security/</link>
+      <link>/www/tags/security/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
-      <guid>/tags/security/</guid>
+      <guid>/www/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Features</title>
-      <link>/tags/features/</link>
+      <link>/www/tags/features/</link>
       <pubDate>Wed, 19 Jan 2022 14:41:12 +0000</pubDate>
-      <guid>/tags/features/</guid>
+      <guid>/www/tags/features/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataintegrity</title>
-      <link>/tags/dataintegrity/</link>
+      <link>/www/tags/dataintegrity/</link>
       <pubDate>Thu, 14 Oct 2021 13:43:03 +0000</pubDate>
-      <guid>/tags/dataintegrity/</guid>
+      <guid>/www/tags/dataintegrity/</guid>
       <description></description>
     </item>
     <item>
       <title>Mhealth</title>
-      <link>/tags/mhealth/</link>
+      <link>/www/tags/mhealth/</link>
       <pubDate>Wed, 06 Oct 2021 19:24:06 +0000</pubDate>
-      <guid>/tags/mhealth/</guid>
+      <guid>/www/tags/mhealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Life-Science</title>
-      <link>/tags/life-science/</link>
+      <link>/www/tags/life-science/</link>
       <pubDate>Tue, 28 Sep 2021 07:52:06 +0000</pubDate>
-      <guid>/tags/life-science/</guid>
+      <guid>/www/tags/life-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Medtech</title>
-      <link>/tags/medtech/</link>
+      <link>/www/tags/medtech/</link>
       <pubDate>Thu, 23 Sep 2021 10:37:02 +0000</pubDate>
-      <guid>/tags/medtech/</guid>
+      <guid>/www/tags/medtech/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifesciences</title>
-      <link>/tags/lifesciences/</link>
+      <link>/www/tags/lifesciences/</link>
       <pubDate>Wed, 19 May 2021 08:59:10 +0000</pubDate>
-      <guid>/tags/lifesciences/</guid>
+      <guid>/www/tags/lifesciences/</guid>
       <description></description>
     </item>
     <item>
       <title>Smartcities</title>
-      <link>/tags/smartcities/</link>
+      <link>/www/tags/smartcities/</link>
       <pubDate>Tue, 23 Feb 2021 08:14:42 +0000</pubDate>
-      <guid>/tags/smartcities/</guid>
+      <guid>/www/tags/smartcities/</guid>
       <description></description>
     </item>
     <item>
       <title>Smartcity</title>
-      <link>/tags/smartcity/</link>
+      <link>/www/tags/smartcity/</link>
       <pubDate>Tue, 23 Feb 2021 08:14:42 +0000</pubDate>
-      <guid>/tags/smartcity/</guid>
+      <guid>/www/tags/smartcity/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitaltransformation</title>
-      <link>/tags/digitaltransformation/</link>
+      <link>/www/tags/digitaltransformation/</link>
       <pubDate>Tue, 16 Feb 2021 09:12:44 +0000</pubDate>
-      <guid>/tags/digitaltransformation/</guid>
+      <guid>/www/tags/digitaltransformation/</guid>
       <description></description>
     </item>
     <item>
       <title>Integrators</title>
-      <link>/tags/integrators/</link>
+      <link>/www/tags/integrators/</link>
       <pubDate>Tue, 16 Feb 2021 09:12:44 +0000</pubDate>
-      <guid>/tags/integrators/</guid>
+      <guid>/www/tags/integrators/</guid>
       <description></description>
     </item>
     <item>
       <title>Developmenttools</title>
-      <link>/tags/developmenttools/</link>
+      <link>/www/tags/developmenttools/</link>
       <pubDate>Mon, 14 Dec 2020 09:16:16 +0000</pubDate>
-      <guid>/tags/developmenttools/</guid>
+      <guid>/www/tags/developmenttools/</guid>
       <description></description>
     </item>
     <item>
       <title>Ehealth</title>
-      <link>/tags/ehealth/</link>
+      <link>/www/tags/ehealth/</link>
       <pubDate>Mon, 14 Dec 2020 09:16:16 +0000</pubDate>
-      <guid>/tags/ehealth/</guid>
+      <guid>/www/tags/ehealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Telemedicine</title>
-      <link>/tags/telemedicine/</link>
+      <link>/www/tags/telemedicine/</link>
       <pubDate>Mon, 14 Dec 2020 09:16:16 +0000</pubDate>
-      <guid>/tags/telemedicine/</guid>
+      <guid>/www/tags/telemedicine/</guid>
       <description></description>
     </item>
     <item>
       <title>Compiance</title>
-      <link>/tags/compiance/</link>
+      <link>/www/tags/compiance/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/tags/compiance/</guid>
+      <guid>/www/tags/compiance/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataaudit</title>
-      <link>/tags/dataaudit/</link>
+      <link>/www/tags/dataaudit/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/tags/dataaudit/</guid>
+      <guid>/www/tags/dataaudit/</guid>
       <description></description>
     </item>
     <item>
       <title>Datamanagement</title>
-      <link>/tags/datamanagement/</link>
+      <link>/www/tags/datamanagement/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/tags/datamanagement/</guid>
+      <guid>/www/tags/datamanagement/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataprotection</title>
-      <link>/tags/dataprotection/</link>
+      <link>/www/tags/dataprotection/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/tags/dataprotection/</guid>
+      <guid>/www/tags/dataprotection/</guid>
       <description></description>
     </item>
     <item>
       <title>Gdpr</title>
-      <link>/tags/gdpr/</link>
+      <link>/www/tags/gdpr/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/tags/gdpr/</guid>
+      <guid>/www/tags/gdpr/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud</title>
-      <link>/tags/cloud/</link>
+      <link>/www/tags/cloud/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/tags/cloud/</guid>
+      <guid>/www/tags/cloud/</guid>
       <description></description>
     </item>
     <item>
       <title>Exoscale</title>
-      <link>/tags/exoscale/</link>
+      <link>/www/tags/exoscale/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/tags/exoscale/</guid>
+      <guid>/www/tags/exoscale/</guid>
       <description></description>
     </item>
     <item>
       <title>Opensource</title>
-      <link>/tags/opensource/</link>
+      <link>/www/tags/opensource/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/tags/opensource/</guid>
+      <guid>/www/tags/opensource/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacyshield</title>
-      <link>/tags/privacyshield/</link>
+      <link>/www/tags/privacyshield/</link>
       <pubDate>Mon, 30 Nov 2020 09:15:06 +0000</pubDate>
-      <guid>/tags/privacyshield/</guid>
+      <guid>/www/tags/privacyshield/</guid>
       <description></description>
     </item>
     <item>
       <title>Eprivacy</title>
-      <link>/tags/eprivacy/</link>
+      <link>/www/tags/eprivacy/</link>
       <pubDate>Sun, 29 Nov 2020 00:28:40 +0000</pubDate>
-      <guid>/tags/eprivacy/</guid>
+      <guid>/www/tags/eprivacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Swissdpa</title>
-      <link>/tags/swissdpa/</link>
+      <link>/www/tags/swissdpa/</link>
       <pubDate>Sun, 29 Nov 2020 00:28:40 +0000</pubDate>
-      <guid>/tags/swissdpa/</guid>
+      <guid>/www/tags/swissdpa/</guid>
       <description></description>
     </item>
     <item>
       <title>Adoption-Telemedicine</title>
-      <link>/tags/adoption-telemedicine/</link>
+      <link>/www/tags/adoption-telemedicine/</link>
       <pubDate>Wed, 04 Nov 2020 12:52:01 +0000</pubDate>
-      <guid>/tags/adoption-telemedicine/</guid>
+      <guid>/www/tags/adoption-telemedicine/</guid>
       <description></description>
     </item>
     <item>
       <title>Telemedicine-Paradox</title>
-      <link>/tags/telemedicine-paradox/</link>
+      <link>/www/tags/telemedicine-paradox/</link>
       <pubDate>Wed, 04 Nov 2020 12:52:01 +0000</pubDate>
-      <guid>/tags/telemedicine-paradox/</guid>
+      <guid>/www/tags/telemedicine-paradox/</guid>
       <description></description>
     </item>
     <item>
       <title>Epd</title>
-      <link>/tags/epd/</link>
+      <link>/www/tags/epd/</link>
       <pubDate>Tue, 27 Oct 2020 10:13:59 +0000</pubDate>
-      <guid>/tags/epd/</guid>
+      <guid>/www/tags/epd/</guid>
       <description></description>
     </item>
     <item>
       <title>Patient-Record</title>
-      <link>/tags/patient-record/</link>
+      <link>/www/tags/patient-record/</link>
       <pubDate>Tue, 27 Oct 2020 10:13:59 +0000</pubDate>
-      <guid>/tags/patient-record/</guid>
+      <guid>/www/tags/patient-record/</guid>
       <description></description>
     </item>
     <item>
       <title>Telehealth</title>
-      <link>/tags/telehealth/</link>
+      <link>/www/tags/telehealth/</link>
       <pubDate>Tue, 27 Oct 2020 10:13:59 +0000</pubDate>
-      <guid>/tags/telehealth/</guid>
+      <guid>/www/tags/telehealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Confidential-Computing</title>
-      <link>/tags/confidential-computing/</link>
+      <link>/www/tags/confidential-computing/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:35 +0000</pubDate>
-      <guid>/tags/confidential-computing/</guid>
+      <guid>/www/tags/confidential-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Personaldata</title>
-      <link>/tags/personaldata/</link>
+      <link>/www/tags/personaldata/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:35 +0000</pubDate>
-      <guid>/tags/personaldata/</guid>
+      <guid>/www/tags/personaldata/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataanalytics</title>
-      <link>/tags/dataanalytics/</link>
+      <link>/www/tags/dataanalytics/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
-      <guid>/tags/dataanalytics/</guid>
+      <guid>/www/tags/dataanalytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataprivacy</title>
-      <link>/tags/dataprivacy/</link>
+      <link>/www/tags/dataprivacy/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
-      <guid>/tags/dataprivacy/</guid>
+      <guid>/www/tags/dataprivacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Fintech</title>
-      <link>/tags/fintech/</link>
+      <link>/www/tags/fintech/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
-      <guid>/tags/fintech/</guid>
+      <guid>/www/tags/fintech/</guid>
       <description></description>
     </item>
     <item>
       <title>Consent</title>
-      <link>/tags/consent/</link>
+      <link>/www/tags/consent/</link>
       <pubDate>Tue, 08 Sep 2020 06:48:45 +0000</pubDate>
-      <guid>/tags/consent/</guid>
+      <guid>/www/tags/consent/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitalethics</title>
-      <link>/tags/digitalethics/</link>
+      <link>/www/tags/digitalethics/</link>
       <pubDate>Tue, 08 Sep 2020 06:48:45 +0000</pubDate>
-      <guid>/tags/digitalethics/</guid>
+      <guid>/www/tags/digitalethics/</guid>
       <description></description>
     </item>
     <item>
       <title>Pesonaldataeconomy</title>
-      <link>/tags/pesonaldataeconomy/</link>
+      <link>/www/tags/pesonaldataeconomy/</link>
       <pubDate>Tue, 08 Sep 2020 06:48:45 +0000</pubDate>
-      <guid>/tags/pesonaldataeconomy/</guid>
+      <guid>/www/tags/pesonaldataeconomy/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitalethucs</title>
-      <link>/tags/digitalethucs/</link>
+      <link>/www/tags/digitalethucs/</link>
       <pubDate>Mon, 24 Aug 2020 20:06:42 +0000</pubDate>
-      <guid>/tags/digitalethucs/</guid>
+      <guid>/www/tags/digitalethucs/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental-Health</title>
-      <link>/tags/mental-health/</link>
+      <link>/www/tags/mental-health/</link>
       <pubDate>Mon, 24 Aug 2020 20:06:42 +0000</pubDate>
-      <guid>/tags/mental-health/</guid>
+      <guid>/www/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Datacollection</title>
-      <link>/tags/datacollection/</link>
+      <link>/www/tags/datacollection/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/tags/datacollection/</guid>
+      <guid>/www/tags/datacollection/</guid>
       <description></description>
     </item>
     <item>
       <title>Datahosting</title>
-      <link>/tags/datahosting/</link>
+      <link>/www/tags/datahosting/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/tags/datahosting/</guid>
+      <guid>/www/tags/datahosting/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataresidency</title>
-      <link>/tags/dataresidency/</link>
+      <link>/www/tags/dataresidency/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/tags/dataresidency/</guid>
+      <guid>/www/tags/dataresidency/</guid>
       <description></description>
     </item>
     <item>
       <title>Datastorage</title>
-      <link>/tags/datastorage/</link>
+      <link>/www/tags/datastorage/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/tags/datastorage/</guid>
+      <guid>/www/tags/datastorage/</guid>
       <description></description>
     </item>
     <item>
       <title>Datausage</title>
-      <link>/tags/datausage/</link>
+      <link>/www/tags/datausage/</link>
       <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
-      <guid>/tags/datausage/</guid>
+      <guid>/www/tags/datausage/</guid>
       <description></description>
     </item>
     <item>
       <title>Darkpatterns</title>
-      <link>/tags/darkpatterns/</link>
+      <link>/www/tags/darkpatterns/</link>
       <pubDate>Mon, 03 Aug 2020 17:49:29 +0000</pubDate>
-      <guid>/tags/darkpatterns/</guid>
+      <guid>/www/tags/darkpatterns/</guid>
       <description></description>
     </item>
     <item>
       <title>Userengagement</title>
-      <link>/tags/userengagement/</link>
+      <link>/www/tags/userengagement/</link>
       <pubDate>Mon, 03 Aug 2020 17:49:29 +0000</pubDate>
-      <guid>/tags/userengagement/</guid>
+      <guid>/www/tags/userengagement/</guid>
       <description></description>
     </item>
     <item>
       <title>Datacompliance</title>
-      <link>/tags/datacompliance/</link>
+      <link>/www/tags/datacompliance/</link>
       <pubDate>Tue, 28 Jul 2020 07:57:17 +0000</pubDate>
-      <guid>/tags/datacompliance/</guid>
+      <guid>/www/tags/datacompliance/</guid>
       <description></description>
     </item>
     <item>
       <title>Softwaredevelopment</title>
-      <link>/tags/softwaredevelopment/</link>
+      <link>/www/tags/softwaredevelopment/</link>
       <pubDate>Tue, 28 Jul 2020 07:57:17 +0000</pubDate>
-      <guid>/tags/softwaredevelopment/</guid>
+      <guid>/www/tags/softwaredevelopment/</guid>
       <description></description>
     </item>
     <item>
       <title>Datamonetization</title>
-      <link>/tags/datamonetization/</link>
+      <link>/www/tags/datamonetization/</link>
       <pubDate>Thu, 23 Jul 2020 06:41:06 +0000</pubDate>
-      <guid>/tags/datamonetization/</guid>
+      <guid>/www/tags/datamonetization/</guid>
       <description></description>
     </item>
     <item>
       <title>Canada</title>
-      <link>/tags/canada/</link>
+      <link>/www/tags/canada/</link>
       <pubDate>Wed, 15 Jul 2020 06:11:17 +0000</pubDate>
-      <guid>/tags/canada/</guid>
+      <guid>/www/tags/canada/</guid>
       <description></description>
     </item>
     <item>
       <title>Hds</title>
-      <link>/tags/hds/</link>
+      <link>/www/tags/hds/</link>
       <pubDate>Wed, 01 Jul 2020 19:28:28 +0000</pubDate>
-      <guid>/tags/hds/</guid>
+      <guid>/www/tags/hds/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>/tags/open-source/</link>
+      <link>/www/tags/open-source/</link>
       <pubDate>Mon, 08 Jun 2020 06:38:44 +0000</pubDate>
-      <guid>/tags/open-source/</guid>
+      <guid>/www/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Clincial-Trials</title>
-      <link>/tags/clincial-trials/</link>
+      <link>/www/tags/clincial-trials/</link>
       <pubDate>Thu, 04 Jun 2020 13:11:58 +0000</pubDate>
-      <guid>/tags/clincial-trials/</guid>
+      <guid>/www/tags/clincial-trials/</guid>
       <description></description>
     </item>
     <item>
       <title>Econsent</title>
-      <link>/tags/econsent/</link>
+      <link>/www/tags/econsent/</link>
       <pubDate>Thu, 04 Jun 2020 13:11:58 +0000</pubDate>
-      <guid>/tags/econsent/</guid>
+      <guid>/www/tags/econsent/</guid>
       <description></description>
     </item>
     <item>
       <title>Diga</title>
-      <link>/tags/diga/</link>
+      <link>/www/tags/diga/</link>
       <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
-      <guid>/tags/diga/</guid>
+      <guid>/www/tags/diga/</guid>
       <description></description>
     </item>
     <item>
       <title>Digitalhealth</title>
-      <link>/tags/digitalhealth/</link>
+      <link>/www/tags/digitalhealth/</link>
       <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
-      <guid>/tags/digitalhealth/</guid>
+      <guid>/www/tags/digitalhealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Gdrp</title>
-      <link>/tags/gdrp/</link>
+      <link>/www/tags/gdrp/</link>
       <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
-      <guid>/tags/gdrp/</guid>
+      <guid>/www/tags/gdrp/</guid>
       <description></description>
     </item>
     <item>
       <title>Mdr</title>
-      <link>/tags/mdr/</link>
+      <link>/www/tags/mdr/</link>
       <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
-      <guid>/tags/mdr/</guid>
+      <guid>/www/tags/mdr/</guid>
       <description></description>
     </item>
     <item>
       <title>Covid19</title>
-      <link>/tags/covid19/</link>
+      <link>/www/tags/covid19/</link>
       <pubDate>Mon, 20 Apr 2020 21:38:59 +0000</pubDate>
-      <guid>/tags/covid19/</guid>
+      <guid>/www/tags/covid19/</guid>
       <description></description>
     </item>
     <item>
       <title>Patientdata</title>
-      <link>/tags/patientdata/</link>
+      <link>/www/tags/patientdata/</link>
       <pubDate>Mon, 20 Apr 2020 21:38:59 +0000</pubDate>
-      <guid>/tags/patientdata/</guid>
+      <guid>/www/tags/patientdata/</guid>
       <description></description>
     </item>
     <item>
       <title>Tracking</title>
-      <link>/tags/tracking/</link>
+      <link>/www/tags/tracking/</link>
       <pubDate>Mon, 20 Apr 2020 21:38:59 +0000</pubDate>
-      <guid>/tags/tracking/</guid>
+      <guid>/www/tags/tracking/</guid>
       <description></description>
     </item>
     <item>
       <title>Medicaldevice</title>
-      <link>/tags/medicaldevice/</link>
+      <link>/www/tags/medicaldevice/</link>
       <pubDate>Tue, 25 Feb 2020 09:18:11 +0000</pubDate>
-      <guid>/tags/medicaldevice/</guid>
+      <guid>/www/tags/medicaldevice/</guid>
       <description></description>
     </item>
     <item>
       <title>Middleware</title>
-      <link>/tags/middleware/</link>
+      <link>/www/tags/middleware/</link>
       <pubDate>Thu, 23 Jan 2020 19:43:37 +0000</pubDate>
-      <guid>/tags/middleware/</guid>
+      <guid>/www/tags/middleware/</guid>
       <description></description>
     </item>
     <item>
       <title>Rgpd</title>
-      <link>/tags/rgpd/</link>
+      <link>/www/tags/rgpd/</link>
       <pubDate>Sun, 13 Oct 2019 19:54:32 +0000</pubDate>
-      <guid>/tags/rgpd/</guid>
+      <guid>/www/tags/rgpd/</guid>
       <description></description>
     </item>
     <item>
       <title>Clinicaltrails</title>
-      <link>/tags/clinicaltrails/</link>
+      <link>/www/tags/clinicaltrails/</link>
       <pubDate>Wed, 07 Aug 2019 13:29:59 +0000</pubDate>
-      <guid>/tags/clinicaltrails/</guid>
+      <guid>/www/tags/clinicaltrails/</guid>
       <description></description>
     </item>
     <item>
       <title>Life-Sciences</title>
-      <link>/tags/life-sciences/</link>
+      <link>/www/tags/life-sciences/</link>
       <pubDate>Wed, 07 Aug 2019 13:29:59 +0000</pubDate>
-      <guid>/tags/life-sciences/</guid>
+      <guid>/www/tags/life-sciences/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifescience</title>
-      <link>/tags/lifescience/</link>
+      <link>/www/tags/lifescience/</link>
       <pubDate>Wed, 07 Aug 2019 13:29:59 +0000</pubDate>
-      <guid>/tags/lifescience/</guid>
+      <guid>/www/tags/lifescience/</guid>
       <description></description>
     </item>
     <item>
       <title>Rwd</title>
-      <link>/tags/rwd/</link>
+      <link>/www/tags/rwd/</link>
       <pubDate>Sat, 13 Jul 2019 14:03:22 +0000</pubDate>
-      <guid>/tags/rwd/</guid>
+      <guid>/www/tags/rwd/</guid>
       <description></description>
     </item>
     <item>
       <title>Bloodpressure</title>
-      <link>/tags/bloodpressure/</link>
+      <link>/www/tags/bloodpressure/</link>
       <pubDate>Sun, 26 Aug 2018 07:11:14 +0000</pubDate>
-      <guid>/tags/bloodpressure/</guid>
+      <guid>/www/tags/bloodpressure/</guid>
       <description></description>
     </item>
     <item>
       <title>Cro</title>
-      <link>/tags/cro/</link>
+      <link>/www/tags/cro/</link>
       <pubDate>Tue, 21 Aug 2018 07:22:13 +0000</pubDate>
-      <guid>/tags/cro/</guid>
+      <guid>/www/tags/cro/</guid>
       <description></description>
     </item>
     <item>
       <title>Prems</title>
-      <link>/tags/prems/</link>
+      <link>/www/tags/prems/</link>
       <pubDate>Tue, 21 Aug 2018 07:22:13 +0000</pubDate>
-      <guid>/tags/prems/</guid>
+      <guid>/www/tags/prems/</guid>
       <description></description>
     </item>
     <item>
       <title>Pros</title>
-      <link>/tags/pros/</link>
+      <link>/www/tags/pros/</link>
       <pubDate>Tue, 21 Aug 2018 07:22:13 +0000</pubDate>
-      <guid>/tags/pros/</guid>
+      <guid>/www/tags/pros/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthanalytics</title>
-      <link>/tags/healthanalytics/</link>
+      <link>/www/tags/healthanalytics/</link>
       <pubDate>Thu, 16 Aug 2018 07:21:41 +0000</pubDate>
-      <guid>/tags/healthanalytics/</guid>
+      <guid>/www/tags/healthanalytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Insurtech</title>
-      <link>/tags/insurtech/</link>
+      <link>/www/tags/insurtech/</link>
       <pubDate>Thu, 16 Aug 2018 07:21:41 +0000</pubDate>
-      <guid>/tags/insurtech/</guid>
+      <guid>/www/tags/insurtech/</guid>
       <description></description>
     </item>
     <item>
       <title>Iot</title>
-      <link>/tags/iot/</link>
+      <link>/www/tags/iot/</link>
       <pubDate>Thu, 16 Aug 2018 07:21:41 +0000</pubDate>
-      <guid>/tags/iot/</guid>
+      <guid>/www/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Wearables</title>
-      <link>/tags/wearables/</link>
+      <link>/www/tags/wearables/</link>
       <pubDate>Thu, 16 Aug 2018 07:21:41 +0000</pubDate>
-      <guid>/tags/wearables/</guid>
+      <guid>/www/tags/wearables/</guid>
       <description></description>
     </item>
     <item>
       <title>Asia</title>
-      <link>/tags/asia/</link>
+      <link>/www/tags/asia/</link>
       <pubDate>Mon, 02 Jul 2018 14:59:44 +0000</pubDate>
-      <guid>/tags/asia/</guid>
+      <guid>/www/tags/asia/</guid>
       <description></description>
     </item>
     <item>
       <title>Epfl</title>
-      <link>/tags/epfl/</link>
+      <link>/www/tags/epfl/</link>
       <pubDate>Mon, 02 Jul 2018 14:59:44 +0000</pubDate>
-      <guid>/tags/epfl/</guid>
+      <guid>/www/tags/epfl/</guid>
       <description></description>
     </item>
     <item>
       <title>Europe</title>
-      <link>/tags/europe/</link>
+      <link>/www/tags/europe/</link>
       <pubDate>Mon, 02 Jul 2018 14:59:44 +0000</pubDate>
-      <guid>/tags/europe/</guid>
+      <guid>/www/tags/europe/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacyservices</title>
-      <link>/tags/privacyservices/</link>
+      <link>/www/tags/privacyservices/</link>
       <pubDate>Mon, 02 Jul 2018 14:59:44 +0000</pubDate>
-      <guid>/tags/privacyservices/</guid>
+      <guid>/www/tags/privacyservices/</guid>
       <description></description>
     </item>
     <item>
       <title>Switzerland</title>
-      <link>/tags/switzerland/</link>
+      <link>/www/tags/switzerland/</link>
       <pubDate>Mon, 02 Jul 2018 14:59:44 +0000</pubDate>
-      <guid>/tags/switzerland/</guid>
+      <guid>/www/tags/switzerland/</guid>
       <description></description>
     </item>
     <item>
       <title>Backup</title>
-      <link>/tags/backup/</link>
+      <link>/www/tags/backup/</link>
       <pubDate>Mon, 25 Jun 2018 09:57:27 +0000</pubDate>
-      <guid>/tags/backup/</guid>
+      <guid>/www/tags/backup/</guid>
       <description></description>
     </item>
     <item>
       <title>Hosting</title>
-      <link>/tags/hosting/</link>
+      <link>/www/tags/hosting/</link>
       <pubDate>Mon, 25 Jun 2018 09:57:27 +0000</pubDate>
-      <guid>/tags/hosting/</guid>
+      <guid>/www/tags/hosting/</guid>
       <description></description>
     </item>
     <item>
       <title>Managedservice</title>
-      <link>/tags/managedservice/</link>
+      <link>/www/tags/managedservice/</link>
       <pubDate>Mon, 25 Jun 2018 09:57:27 +0000</pubDate>
-      <guid>/tags/managedservice/</guid>
+      <guid>/www/tags/managedservice/</guid>
       <description></description>
     </item>
     <item>
       <title>Ownership</title>
-      <link>/tags/ownership/</link>
+      <link>/www/tags/ownership/</link>
       <pubDate>Mon, 25 Jun 2018 09:57:27 +0000</pubDate>
-      <guid>/tags/ownership/</guid>
+      <guid>/www/tags/ownership/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovaton</title>
-      <link>/tags/innovaton/</link>
+      <link>/www/tags/innovaton/</link>
       <pubDate>Tue, 19 Jun 2018 08:32:55 +0000</pubDate>
-      <guid>/tags/innovaton/</guid>
+      <guid>/www/tags/innovaton/</guid>
       <description></description>
     </item>
     <item>
       <title>Highfrequency</title>
-      <link>/tags/highfrequency/</link>
+      <link>/www/tags/highfrequency/</link>
       <pubDate>Thu, 22 Mar 2018 13:01:46 +0000</pubDate>
-      <guid>/tags/highfrequency/</guid>
+      <guid>/www/tags/highfrequency/</guid>
       <description></description>
     </item>
     <item>
       <title>Iomt</title>
-      <link>/tags/iomt/</link>
+      <link>/www/tags/iomt/</link>
       <pubDate>Thu, 22 Mar 2018 13:01:46 +0000</pubDate>
-      <guid>/tags/iomt/</guid>
+      <guid>/www/tags/iomt/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataoutcomes</title>
-      <link>/tags/dataoutcomes/</link>
+      <link>/www/tags/dataoutcomes/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/dataoutcomes/</guid>
+      <guid>/www/tags/dataoutcomes/</guid>
       <description></description>
     </item>
     <item>
       <title>Eclinicaltrials</title>
-      <link>/tags/eclinicaltrials/</link>
+      <link>/www/tags/eclinicaltrials/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/eclinicaltrials/</guid>
+      <guid>/www/tags/eclinicaltrials/</guid>
       <description></description>
     </item>
     <item>
       <title>Epharma</title>
-      <link>/tags/epharma/</link>
+      <link>/www/tags/epharma/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/epharma/</guid>
+      <guid>/www/tags/epharma/</guid>
       <description></description>
     </item>
     <item>
       <title>Healthit</title>
-      <link>/tags/healthit/</link>
+      <link>/www/tags/healthit/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/healthit/</guid>
+      <guid>/www/tags/healthit/</guid>
       <description></description>
     </item>
     <item>
       <title>Patientcentricity</title>
-      <link>/tags/patientcentricity/</link>
+      <link>/www/tags/patientcentricity/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/patientcentricity/</guid>
+      <guid>/www/tags/patientcentricity/</guid>
       <description></description>
     </item>
     <item>
       <title>Real-World</title>
-      <link>/tags/real-world/</link>
+      <link>/www/tags/real-world/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/real-world/</guid>
+      <guid>/www/tags/real-world/</guid>
       <description></description>
     </item>
     <item>
       <title>Rwe</title>
-      <link>/tags/rwe/</link>
+      <link>/www/tags/rwe/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/tags/rwe/</guid>
+      <guid>/www/tags/rwe/</guid>
       <description></description>
     </item>
     <item>
       <title>Diga-Fast-Track</title>
-      <link>/tags/diga-fast-track/</link>
+      <link>/www/tags/diga-fast-track/</link>
       <pubDate>Tue, 23 Sep 2014 23:05:31 +0000</pubDate>
-      <guid>/tags/diga-fast-track/</guid>
+      <guid>/www/tags/diga-fast-track/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy-Fast-Track</title>
-      <link>/tags/privacy-fast-track/</link>
+      <link>/www/tags/privacy-fast-track/</link>
       <pubDate>Tue, 23 Sep 2014 23:05:31 +0000</pubDate>
-      <guid>/tags/privacy-fast-track/</guid>
+      <guid>/www/tags/privacy-fast-track/</guid>
       <description></description>
     </item>
   </channel>

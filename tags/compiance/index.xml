@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compiance on Pryv</title>
-    <link>/tags/compiance/</link>
+    <link>/www/tags/compiance/</link>
     <description>Recent content in Compiance on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Dec 2020 13:29:05 +0000</lastBuildDate>
-    <atom:link href="/tags/compiance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/compiance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Master the GDPR Compliance Checklist with Pryv.io</title>
-      <link>/posts/gdpr-checklist-pryv/</link>
+      <link>/www/posts/gdpr-checklist-pryv/</link>
       <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
-      <guid>/posts/gdpr-checklist-pryv/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Master the GDPR Compliance Checklist with Pryv.io&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;It’s not news: from two years already, if you’re a company operating with EU citizens personal data, you have to comply with the &lt;/i&gt;&lt;a href=&#34;/posts/gdpr-swiss-dpa-e-privacy/&#34;&gt;&lt;i&gt;GDPR&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (General Data Protection Regulation). Effective since 25 May 2018, the regulation sets out a number of legal obligations to be met in terms of privacy requirements and generous fines to be paid for those who don’t play by its rules. Yet in spite of its not-so newness, a lot of questions are still arising when it comes to GDPR compliance: how to achieve it? Where to start? How to leverage its requirements into a competitive advantage?&lt;/i&gt;&lt;/p&gt;</description>
+      <guid>/www/posts/gdpr-checklist-pryv/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Master the GDPR Compliance Checklist with Pryv.io&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;It’s not news: from two years already, if you’re a company operating with EU citizens personal data, you have to comply with the &lt;/i&gt;&lt;a href=&#34;/www/posts/gdpr-swiss-dpa-e-privacy/&#34;&gt;&lt;i&gt;GDPR&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (General Data Protection Regulation). Effective since 25 May 2018, the regulation sets out a number of legal obligations to be met in terms of privacy requirements and generous fines to be paid for those who don’t play by its rules. Yet in spite of its not-so newness, a lot of questions are still arising when it comes to GDPR compliance: how to achieve it? Where to start? How to leverage its requirements into a competitive advantage?&lt;/i&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

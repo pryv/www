@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Pryv</title>
-    <link>/events/</link>
+    <link>/www/events/</link>
     <description>Recent content in Events on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2020 13:36:54 +0000</lastBuildDate>
-    <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Tech Week Paris</title>
-      <link>/events/deep-tech-week-paris/</link>
+      <link>/www/events/deep-tech-week-paris/</link>
       <pubDate>Fri, 06 Mar 2020 13:36:54 +0000</pubDate>
-      <guid>/events/deep-tech-week-paris/</guid>
-      <description>&lt;p class=&#34;elementor-heading-title elementor-size-default&#34;&gt;A week to deepen your knowledge and connect with the very best in Deep Tech: &lt;em&gt;Unlocking the power of deep tech to solve our toughest global challenges. &lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Book your meeting with:&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/francoisrecorbet/&#34;&gt;Francois Recorbet&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/douaa-bouhalla-a8b309125/&#34;&gt;Douaa Bouhalla.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;@&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.deeptechweek.com/agenda-deeptechweek/?oaq%5Bfrom%5D=2020-03-10&amp;amp;oaq%5Buid%5D=93436453&#34;&gt;Launch of the DeepTech Plan @Bpifrance&lt;/a&gt;, March 10th, 17:15-21:30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medicen.org/fr/evenements/masterclass-eic-accelerator-toutes-les-cles-pour-etre-laureat/&#34;&gt;EIC Accelerator Masterclass @Medicen,&lt;/a&gt; March 11th, 8:30-12:30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dtw-international-tech-matchmaking-event.b2match.io/&#34;&gt; International Tech Matchmaking @Bpifrance&lt;/a&gt;, March 11th, 14:00-17:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://openagenda.com/agendas/31457059/embeds/33269636/events/68949875?oaq%5Btags%5D%5B0%5D=cybersecurity&amp;amp;lang=en&#34;&gt;Quantum CyberSecurity Impact and Challenges,&lt;/a&gt; March 11th, 09-12.30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.deeptechweek.com/agenda-deeptechweek/?oaq%5Btags%5D%5B0%5D=digital-health&amp;amp;oaq%5Buid%5D=86681144&#34;&gt;Totem Healthtech | Ensuring access to innovative medical solutions&lt;/a&gt;, March 11th, 18.30-21.00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;Find out what our customers say about Pryv:&lt;a href=&#34;/tags/mhealth/&#34;&gt; https://pryv.github.io/www/tags/mhealth/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>/www/events/deep-tech-week-paris/</guid>
+      <description>&lt;p class=&#34;elementor-heading-title elementor-size-default&#34;&gt;A week to deepen your knowledge and connect with the very best in Deep Tech: &lt;em&gt;Unlocking the power of deep tech to solve our toughest global challenges. &lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Book your meeting with:&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/francoisrecorbet/&#34;&gt;Francois Recorbet&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/douaa-bouhalla-a8b309125/&#34;&gt;Douaa Bouhalla.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;@&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.deeptechweek.com/agenda-deeptechweek/?oaq%5Bfrom%5D=2020-03-10&amp;amp;oaq%5Buid%5D=93436453&#34;&gt;Launch of the DeepTech Plan @Bpifrance&lt;/a&gt;, March 10th, 17:15-21:30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medicen.org/fr/evenements/masterclass-eic-accelerator-toutes-les-cles-pour-etre-laureat/&#34;&gt;EIC Accelerator Masterclass @Medicen,&lt;/a&gt; March 11th, 8:30-12:30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dtw-international-tech-matchmaking-event.b2match.io/&#34;&gt; International Tech Matchmaking @Bpifrance&lt;/a&gt;, March 11th, 14:00-17:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://openagenda.com/agendas/31457059/embeds/33269636/events/68949875?oaq%5Btags%5D%5B0%5D=cybersecurity&amp;amp;lang=en&#34;&gt;Quantum CyberSecurity Impact and Challenges,&lt;/a&gt; March 11th, 09-12.30&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.deeptechweek.com/agenda-deeptechweek/?oaq%5Btags%5D%5B0%5D=digital-health&amp;amp;oaq%5Buid%5D=86681144&#34;&gt;Totem Healthtech | Ensuring access to innovative medical solutions&lt;/a&gt;, March 11th, 18.30-21.00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;Find out what our customers say about Pryv:&lt;a href=&#34;/www/tags/mhealth/&#34;&gt; https://pryv.github.io/www/tags/mhealth/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AgeingFit: Innovation driving the healthy ageing sector</title>
-      <link>/events/ageingfit-innovation-driving-the-healthy-ageing-sector/</link>
+      <link>/www/events/ageingfit-innovation-driving-the-healthy-ageing-sector/</link>
       <pubDate>Wed, 15 Jan 2020 12:29:59 +0000</pubDate>
-      <guid>/events/ageingfit-innovation-driving-the-healthy-ageing-sector/</guid>
+      <guid>/www/events/ageingfit-innovation-driving-the-healthy-ageing-sector/</guid>
       <description>&lt;p&gt;AgeingFit is the European event fostering innovation in the healthy ageing sector. Silver Health covers the fields of prevention allowing seniors to be autonomous and in « good health » as long as possible, and also the care of old and sick people staying in hospitals or geriatric homes.&lt;/p&gt;&#xA;&lt;p&gt;We will present how our compliance software for personal health data privacy and consent. Used by number of healthcare organizations, pryv.io has already proven turning compliance investments into a competitive advantage by breaking data silos, differentiating products and services, and attracting end-users with trust, transparency and empowerment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meet us at Medica: DigitalHealth enabled via pryv.io</title>
-      <link>/events/meet-us-at-medica-digitalhealth-enabled-via-pryv-io/</link>
+      <link>/www/events/meet-us-at-medica-digitalhealth-enabled-via-pryv-io/</link>
       <pubDate>Thu, 07 Nov 2019 12:05:40 +0000</pubDate>
-      <guid>/events/meet-us-at-medica-digitalhealth-enabled-via-pryv-io/</guid>
+      <guid>/www/events/meet-us-at-medica-digitalhealth-enabled-via-pryv-io/</guid>
       <description>&lt;p&gt;This year, Medica will welcome several hundred of DigitalHealth innovators among thousands of medical professionals which will present their ideas and sparkling new innovations to them.&lt;/p&gt;&#xA;&lt;p&gt;We will be one of these innovators, presenting how our compliance software for personal health data privacy and consent. Used by number of healthcare organizations, pryv.io has already proven turning compliance investments into a competitive advantage by breaking data silos, differentiating products and services, and attracting end-users with trust, transparency and empowerment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Let us answer your privacy questions @ Websummit</title>
-      <link>/events/let-us-answer-your-privacy-and-personal-data-management-questions-websummit/</link>
+      <link>/www/events/let-us-answer-your-privacy-and-personal-data-management-questions-websummit/</link>
       <pubDate>Thu, 31 Oct 2019 10:31:05 +0000</pubDate>
-      <guid>/events/let-us-answer-your-privacy-and-personal-data-management-questions-websummit/</guid>
+      <guid>/www/events/let-us-answer-your-privacy-and-personal-data-management-questions-websummit/</guid>
       <description>&lt;p&gt;Pryv will join ‘The largest tech conference on the planet’ (Forbes) to showcase its solution for personal data privacy and consent management.&lt;/p&gt;&#xA;&lt;p&gt;Personal Data has always been a hot topic for any industry player aiming at providing personalized services and building a long-term trusted relationship with their end-users. In healthcare, having access and analysing personal data is even more important as it accelerates the delivery of more personalized care, early diagnosis, chronic disease management and “smart” drugs prescription.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hacking Health – 3ème marathon de l’innovation ouverte en santé</title>
-      <link>/events/hackinghealth-3e-marathon-de-linnovation-ouverte-besancon-france/</link>
+      <link>/www/events/hackinghealth-3e-marathon-de-linnovation-ouverte-besancon-france/</link>
       <pubDate>Thu, 10 Oct 2019 08:14:27 +0000</pubDate>
-      <guid>/events/hackinghealth-3e-marathon-de-linnovation-ouverte-besancon-france/</guid>
+      <guid>/www/events/hackinghealth-3e-marathon-de-linnovation-ouverte-besancon-france/</guid>
       <description>&lt;p&gt;Do not miss the opportunity to meet &lt;a href=&#34;https://www.linkedin.com/in/francoisrecorbet/&#34;&gt;Francois Recorbet&lt;/a&gt; and attend his keynote speech at the &lt;a href=&#34;https://hacking-health.org/event/3ehackathon/&#34;&gt;HackingHealth event in Besançon.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div id=&#34;c-message_list__1570635851.001900&#34; class=&#34;c-virtual_list__item&#34; tabindex=&#34;-1&#34; role=&#34;listitem&#34; aria-expanded=&#34;false&#34;&gt;&#xA;&lt;div class=&#34;c-message c-message--light&#34; role=&#34;document&#34; data-qa=&#34;message_container&#34; data-qa-placeholder=&#34;false&#34;&gt;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;c-message_list__1570635952.003000&#34; class=&#34;c-virtual_list__item&#34; tabindex=&#34;-1&#34; role=&#34;listitem&#34; aria-expanded=&#34;false&#34;&gt;&#xA;&lt;div data-qa=&#34;message_content&#34;&gt;&#xA;&lt;p&gt;He will share with you the inspiring story of how Pryv was born and what it takes to be positioned today as a European leading provider of privacy and personal data management software.&lt;br&gt;&#xA;Furthermore, you will learn about must-apply rules in managing personal data in your Medtech and digital health projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>European AI for Health</title>
-      <link>/events/european-ai-for-health/</link>
+      <link>/www/events/european-ai-for-health/</link>
       <pubDate>Tue, 24 Sep 2019 13:03:01 +0000</pubDate>
-      <guid>/events/european-ai-for-health/</guid>
+      <guid>/www/events/european-ai-for-health/</guid>
       <description>&lt;p&gt;Pryv participates to the AI for Health is the European leading AI for Healthcare initiative which links expertise to design our vision of tomorrow’s European healthcare.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;&lt;a href=&#34;https://www.aiforhealth.fr/&#34;&gt;European AI for Health&lt;/a&gt; &lt;/strong&gt;aims to address the issue by gathering all the actors from the worlds of science, technology, laboratories, major groups and politicians on a European scale.&lt;/p&gt;&#xA;&lt;p&gt;This conference is part of the AI for Good initiative, which objective is to respond, through Artificial Intelligence, to the 17 Sustainable Development Goals of the United Nations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Connected Health Techmeeting</title>
-      <link>/events/connected-health-techmeeting/</link>
+      <link>/www/events/connected-health-techmeeting/</link>
       <pubDate>Sat, 15 Jun 2019 11:11:37 +0000</pubDate>
-      <guid>/events/connected-health-techmeeting/</guid>
+      <guid>/www/events/connected-health-techmeeting/</guid>
       <description>&lt;p&gt;Meet &lt;a href=&#34;https://www.linkedin.com/in/francoisrecorbet/&#34;&gt;François Recorbet&lt;/a&gt; in Paris during the Connected Health Techmeeting event on June 27th to learn how Pryv.io accelerates the development of health apps and connected devices and speeds up their go-to-market.&lt;/p&gt;&#xA;&lt;p&gt;Personal Data &amp;amp; Privacy Compliance done right.&lt;/p&gt;&#xA;&lt;p&gt;https://www.innovation-prime.com/events/connected-health-techmeeting-in-paris/&lt;/p&gt;</description>
     </item>
     <item>
       <title>PrivacyTogether @Microsoft</title>
-      <link>/events/privacytogether-microsoft/</link>
+      <link>/www/events/privacytogether-microsoft/</link>
       <pubDate>Sat, 15 Jun 2019 10:52:31 +0000</pubDate>
-      <guid>/events/privacytogether-microsoft/</guid>
+      <guid>/www/events/privacytogether-microsoft/</guid>
       <description>&lt;p&gt;Come meet with us at #PrivacyTogether, event that Pryv will be attending and where prestigious speakers will bring up the debate on GDPR, followed by round-tables of operational panelists who will explain how to implement and manage GDPR compliance in a simple, efficient, durable and low-cost way.&lt;/p&gt;&#xA;&lt;p&gt;https://www.weezevent.com/privacytogether&lt;/p&gt;&#xA;&lt;div class=&#34;bloc_evenement_lieu&#34;&gt;Microsoft&lt;/div&gt;&#xA;&lt;div class=&#34;bloc_evenement_lieu&#34;&gt;41 quai du Président Roosevelt&lt;br&gt;&#xA;92130 Issy Les Moulineaux&lt;/div&gt;</description>
     </item>
     <item>
       <title>MedFit</title>
-      <link>/events/medfit/</link>
+      <link>/www/events/medfit/</link>
       <pubDate>Sat, 15 Jun 2019 10:33:29 +0000</pubDate>
-      <guid>/events/medfit/</guid>
+      <guid>/www/events/medfit/</guid>
       <description>&lt;p&gt;Held on the 25th and 26th of June 2019 in Lille – France, and gathering 700 international participants from over 25 countries, MedFIT is the leading European business convention dedicated to innovation partnerships in the fields of medical technology, diagnostics and digital health sector.&lt;/p&gt;&#xA;&lt;p&gt;MedFIT is the place-to-be to identify innovative products and technologies, to build R&amp;amp;amp;D, find&lt;br&gt;&#xA;licensing opportunities and financial partnerships.&lt;/p&gt;&#xA;&lt;p&gt;MedFIT brings together industry leaders, innovative MedTechs, diagnostics start-ups, TTOs, academic&lt;br&gt;&#xA;institutions, R&amp;amp;amp;D services as well as companies and investors to help facilitate market access for&lt;br&gt;&#xA;innovations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Roche Partnering for Innovation Summit</title>
-      <link>/events/pryv-presents-at-roche-partnering-for-innovation-summit/</link>
+      <link>/www/events/pryv-presents-at-roche-partnering-for-innovation-summit/</link>
       <pubDate>Sat, 15 Jun 2019 10:32:41 +0000</pubDate>
-      <guid>/events/pryv-presents-at-roche-partnering-for-innovation-summit/</guid>
+      <guid>/www/events/pryv-presents-at-roche-partnering-for-innovation-summit/</guid>
       <description>&lt;p&gt;Meet &lt;a href=&#34;https://www.linkedin.com/in/perki/&#34;&gt;Pierre-Mikael Legris&lt;/a&gt; in Basel at Roche during Roche Partnering for Innovation Summit.&lt;/p&gt;&#xA;&lt;p&gt;Meet him to learn how pryv.io allows to capture RWD and manage dynamically patient’s consent during clinical trials&lt;/p&gt;</description>
     </item>
     <item>
       <title>HPE Innosquare IoT</title>
-      <link>/events/hpe-innosquare-geneva/</link>
+      <link>/www/events/hpe-innosquare-geneva/</link>
       <pubDate>Mon, 20 May 2019 09:12:08 +0000</pubDate>
-      <guid>/events/hpe-innosquare-geneva/</guid>
+      <guid>/www/events/hpe-innosquare-geneva/</guid>
       <description>&lt;p&gt;Meet &lt;a href=&#34;https://www.linkedin.com/feed/?trk=nav_responsive_tab_home&#34;&gt;Evelina Georgieva&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/perki/&#34;&gt;Pierre-Mikael Legris&lt;/a&gt; at Innosquare’19 IoT event at HPE Geneva on May 20th&lt;/p&gt;&#xA;&lt;p&gt;During the event, there will be presented both 15 exclusive prototypes and technologies from the Swiss universities and 18 startups of the field.&lt;/p&gt;&#xA;&lt;p&gt;Don’t miss the occasion to meet with your peers and to discover the solutions that will enhance your portfolio and change your future in the next years in presence of Claudie Haigneré, first french woman in space.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv presents pryv.io: data &amp; privacy management solution at Paris Healthcare Week</title>
-      <link>/events/paris-healthcare-week/</link>
+      <link>/www/events/paris-healthcare-week/</link>
       <pubDate>Mon, 20 May 2019 09:11:40 +0000</pubDate>
-      <guid>/events/paris-healthcare-week/</guid>
+      <guid>/www/events/paris-healthcare-week/</guid>
       <description>&lt;p&gt;Meet &lt;a href=&#34;https://www.linkedin.com/in/perki/&#34;&gt;Pierre-Mikael Legris&lt;/a&gt; , &lt;a href=&#34;https://www.linkedin.com/in/francoisrecorbet/&#34;&gt;Francois Recorbet&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/lucas-perez-688616b9/&#34;&gt;Lucas Perez&lt;/a&gt; in Paris during the Paris Healthcare week 21st-23th of May&lt;/p&gt;&#xA;&lt;p&gt;3 days dedicated to the Health players&lt;/p&gt;&#xA;&lt;p&gt;More information about the event can be found here: &lt;a href=&#34;https://www.parishealthcareweek.com/en/&#34;&gt;https://e-healthworld.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SIDO</title>
-      <link>/events/sido-10-11th-april-in-lyon/</link>
+      <link>/www/events/sido-10-11th-april-in-lyon/</link>
       <pubDate>Wed, 03 Apr 2019 13:06:06 +0000</pubDate>
-      <guid>/events/sido-10-11th-april-in-lyon/</guid>
+      <guid>/www/events/sido-10-11th-april-in-lyon/</guid>
       <description>&lt;p&gt;Book a meeting with &lt;a href=&#34;https://www.linkedin.com/in/lucas-perez-688616b9/&#34;&gt;Lucas Perez&lt;/a&gt; at SIDO, the groundbreaking event of the IoT industry, is bringing down the barriers between technologies and, &lt;strong&gt;for its 5th edition, announces a unique forum in Europe combining IoT, AI &amp;amp; Robotics!&lt;/strong&gt;&lt;br&gt;&#xA;From enabling technologies to comprehensive solutions, SIDO drives innovation and brings together 3 converging ecosystems for projects that are connected, autonomous and increasingly smarter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monaco</title>
-      <link>/events/monaco/</link>
+      <link>/www/events/monaco/</link>
       <pubDate>Tue, 19 Mar 2019 14:04:50 +0000</pubDate>
-      <guid>/events/monaco/</guid>
+      <guid>/www/events/monaco/</guid>
       <description>&lt;p&gt;Meet &lt;a href=&#34;https://www.linkedin.com/in/perki/&#34;&gt;Pierre-Mikael Legris&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/lucas-perez-688616b9/&#34;&gt;Lucas Perez&lt;/a&gt; in Monaco during the eHealthWorld on 26th and 27th of March.&lt;/p&gt;&#xA;&lt;p&gt;More information about the event can be found here: https://e-healthworld.com/&lt;/p&gt;</description>
     </item>
   </channel>

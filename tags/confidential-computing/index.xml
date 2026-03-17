@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confidential-Computing on Pryv</title>
-    <link>/tags/confidential-computing/</link>
+    <link>/www/tags/confidential-computing/</link>
     <description>Recent content in Confidential-Computing on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Jan 2021 11:37:16 +0000</lastBuildDate>
-    <atom:link href="/tags/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/confidential-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pryv and CYSEC launch an integrated solution for collection and confidential computing of personal data at scale</title>
-      <link>/posts/pryv-and-cysec-launch-an-integrated-solution-for-collection-and-confidential-computing-of-personal-data-at-scale/</link>
+      <link>/www/posts/pryv-and-cysec-launch-an-integrated-solution-for-collection-and-confidential-computing-of-personal-data-at-scale/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:35 +0000</pubDate>
-      <guid>/posts/pryv-and-cysec-launch-an-integrated-solution-for-collection-and-confidential-computing-of-personal-data-at-scale/</guid>
+      <guid>/www/posts/pryv-and-cysec-launch-an-integrated-solution-for-collection-and-confidential-computing-of-personal-data-at-scale/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pryv and CYSEC launch an integrated privacy-preserving solution for collection and confidential computing of personal data at scale.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lausanne, Switzerland – October 6&lt;sup&gt;th&lt;/sup&gt;, 2020&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Two leading Swiss providers of privacy and security solutions, Pryv and CYSEC, announce a strategic collaboration focused on integrating their products: the personal data &amp;amp; consent management middleware Pryv.io and the confidential computing solution ARCA from CYSEC. The two Swiss trust-tech companies are jointly pursuing strategic opportunities as part of their growth strategies.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

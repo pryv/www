@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smartcities on Pryv</title>
-    <link>/tags/smartcities/</link>
+    <link>/www/tags/smartcities/</link>
     <description>Recent content in Smartcities on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Feb 2021 08:17:13 +0000</lastBuildDate>
-    <atom:link href="/tags/smartcities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/smartcities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Privacy-Preserving Smart Cities: Myth or Reality?</title>
-      <link>/posts/building-privacy-preserving-smart-cities-myth-or-reality/</link>
+      <link>/www/posts/building-privacy-preserving-smart-cities-myth-or-reality/</link>
       <pubDate>Tue, 23 Feb 2021 08:14:42 +0000</pubDate>
-      <guid>/posts/building-privacy-preserving-smart-cities-myth-or-reality/</guid>
+      <guid>/www/posts/building-privacy-preserving-smart-cities-myth-or-reality/</guid>
       <description>&lt;p&gt;&lt;b&gt;Building Privacy-Preserving Smart Cities: Myth or Reality?&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;From traffic congestion reduction to utility consumption improvement, care services optimization, new environmental and circular economy perspective, smart cities promise to enhance our lives in almost any aspects. Who hasn’t dreamt of such a utopia?&lt;/p&gt;&#xA;&lt;p&gt;For every improvement in the city, though, there are significant risks for privacy that if neglected could lead to very damaging results for us all, if not the ultimate rise of surveillance capitalism, turning utopian intentions into dystopian catastrophe. In this context, solving the underlying privacy issue has become a must-have priority for anyone involved in smart city developments.&lt;/p&gt;</description>
     </item>
   </channel>

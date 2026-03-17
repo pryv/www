@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Pryv</title>
-    <link>/categories/uncategorized/</link>
+    <link>/www/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Mar 2023 10:49:20 +0000</lastBuildDate>
-    <atom:link href="/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open-Pryv.io is recognized as a digital public good by DPGAlliance a UN-endorsed initiative that facilitates the discovery and deployment of open-source technologies.</title>
-      <link>/posts/pryv-a-digital-public-good/</link>
+      <link>/www/posts/pryv-a-digital-public-good/</link>
       <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
-      <guid>/posts/pryv-a-digital-public-good/</guid>
+      <guid>/www/posts/pryv-a-digital-public-good/</guid>
       <description>&lt;p&gt;&lt;b&gt;April 2024&lt;/b&gt;&lt;/p&gt;&#xA;&#x9;&#x9;&lt;p style=&#34;text-align: left;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;The &lt;a href=&#34;https://digitalpublicgoods.net/registry/&#34; target=&#34;_new&#34;&gt;DPGAlliance&lt;/a&gt; granted the status of Digital public good to Open-Pryv.io&lt;br&gt;&#xA;&#x9;&#x9;&#x9;&#x9;With the description:&lt;br&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;i&gt;Personal Data &amp;amp; Privacy Management Software A ready-to-use solution for personal data and consent management. Pryv.io is a solid foundation on which you build your own digital health solution, so you can collect, store, share and rightfully use personal data.&lt;/i&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;br&gt;&lt;br&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;a href=&#34;https://www.digitalpublicgoods.net/r/open-pryvio&#34; target=&#34;_new&#34;&gt;Open-Pryv.io on DPGAlliance website&lt;/a&gt;.&#xA;&#x9;&#x9;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv.io consent and data management software is used in the SWISSNEUROREHAB, a project integrating neurotechnologies and neurorehabilitation to allow comprehensive, effective and efficient care all along the continuum of care</title>
-      <link>/posts/pryv-io-consent-and-data-management-software-is-used-in-the-swissneurorehab-a-project-integrating-neurotechnologies-and-neurorehabilitation-to-allow-comprehensive-effective-and-efficient-care-all-al/</link>
+      <link>/www/posts/pryv-io-consent-and-data-management-software-is-used-in-the-swissneurorehab-a-project-integrating-neurotechnologies-and-neurorehabilitation-to-allow-comprehensive-effective-and-efficient-care-all-al/</link>
       <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
-      <guid>/posts/pryv-io-consent-and-data-management-software-is-used-in-the-swissneurorehab-a-project-integrating-neurotechnologies-and-neurorehabilitation-to-allow-comprehensive-effective-and-efficient-care-all-al/</guid>
-      <description>&lt;p style=&#34;text-align: left;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;/&#34;&gt;Pryv&lt;/a&gt; and &lt;a href=&#34;https://www.cara.ch/fr/Accueil/Avec-CARA-restez-connecte-a-votre-sante.html&#34;&gt;Cara&lt;/a&gt; are the organizations in charge of the electronic patients records for the SWISSNEUROREHAB project. Pryv.io software is a consent, privacy and data management tool which is to be integrated by the HES-SO Valais team of Profs. Michael Schumacher, &lt;/strong&gt;&lt;strong&gt;Henning Müller, Jean-Paul Calbimonte&lt;/strong&gt;&lt;strong&gt; as co-investigators of the sub-project 3 “data infrastructure &amp;amp; data capture”, and Prof. David Issom as coordinator of this sub-project, focusing on building an interoperable data platform.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>/www/posts/pryv-io-consent-and-data-management-software-is-used-in-the-swissneurorehab-a-project-integrating-neurotechnologies-and-neurorehabilitation-to-allow-comprehensive-effective-and-efficient-care-all-al/</guid>
+      <description>&lt;p style=&#34;text-align: left;&#34;&gt;&lt;strong&gt;&lt;a href=&#34;/www/&#34;&gt;Pryv&lt;/a&gt; and &lt;a href=&#34;https://www.cara.ch/fr/Accueil/Avec-CARA-restez-connecte-a-votre-sante.html&#34;&gt;Cara&lt;/a&gt; are the organizations in charge of the electronic patients records for the SWISSNEUROREHAB project. Pryv.io software is a consent, privacy and data management tool which is to be integrated by the HES-SO Valais team of Profs. Michael Schumacher, &lt;/strong&gt;&lt;strong&gt;Henning Müller, Jean-Paul Calbimonte&lt;/strong&gt;&lt;strong&gt; as co-investigators of the sub-project 3 “data infrastructure &amp;amp; data capture”, and Prof. David Issom as coordinator of this sub-project, focusing on building an interoperable data platform.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv.io software has been fully released in open-sourced and placed under the control of a Swiss Association to develop, promote and lead a community of interest.</title>
-      <link>/posts/pryv-fully-open-sourced/</link>
+      <link>/www/posts/pryv-fully-open-sourced/</link>
       <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
-      <guid>/posts/pryv-fully-open-sourced/</guid>
+      <guid>/www/posts/pryv-fully-open-sourced/</guid>
       <description>&lt;p&gt;&lt;b&gt;March 2025&lt;/b&gt;&lt;/p&gt;&#xA;&#x9;&#x9;&lt;p style=&#34;text-align: left;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;b&gt;Pryv is a Swiss-based non-for-profit association&lt;/b&gt;as per Article 60 of the &#34;Code civil suisse&#34; with the following purpose&lt;br&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/p&gt;&lt;ul&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;li&gt;Maintain and develop Pryv.io as an open-source software.&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;li&gt;Publicize and promote the Pryv.io software free of charge.&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;li&gt;Organize and lead a community of interest around the Pryv.io software&lt;/li&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/ul&gt;&#xA;&#x9;&#x9;&#x9;&#x9;Pryv association status are available online &lt;a href=&#34;Statuts_Association_Pryv.pdf&#34;&gt;-here-&lt;/a&gt; (in French).</description>
     </item>
     <item>
       <title>“Data Integrity” is key to safeguard data, trust and business reputation</title>
-      <link>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</link>
+      <link>/www/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</link>
       <pubDate>Thu, 14 Oct 2021 13:43:03 +0000</pubDate>
-      <guid>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</guid>
+      <guid>/www/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</guid>
       <description>&lt;p&gt;&lt;i&gt;Whether intentionally or not, when data integrity has been compromised, it can not only result in serious risks for the data subjects concerned, but also make the company appear untrustworthy. Data with compromised integrity can not only create risks for the data subject itself, but also position the entire company’s reputation and operations at risk.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Once lost, trust cannot be easily found, or not at all.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data tampering attacks are a serious threat. And as recent news indicates an upsurge of cyber-attacks against personal data-fueled businesses worldwide, one that should be taken seriously. Imagine the repercussions of a clinical trial results based on data altered by an attacker.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data pooling: Get the most out of the data you collect</title>
-      <link>/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</link>
+      <link>/www/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</link>
       <pubDate>Sun, 26 Jan 2020 12:30:00 +0000</pubDate>
-      <guid>/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</guid>
+      <guid>/www/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</guid>
       <description>&lt;p&gt;&lt;i&gt;Harvard Business Review &lt;/i&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;&lt;i&gt;called&lt;/i&gt;&lt;/a&gt;&lt;i&gt; “data scientist the sexiest job of the 21st century”. Unlocking data value inspires you to look forward to finding out more. Dissecting data is what makes your business services worth; allowing you to bring value to your customers and to stay competitive. The more you collect, the better. But is it really about data collection?&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Flip the coin and you’ll see that the true potential of the data that you collect lies in its aggregation. Your data scientists will only be able to unlock its value when identifying rich data sources, aggregating them with others, and pooling large quantities of formless data.&lt;/i&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Audit logs in Pryv.io : When every single piece of information matters</title>
-      <link>/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</link>
+      <link>/www/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</link>
       <pubDate>Sat, 25 Jan 2020 08:14:40 +0000</pubDate>
-      <guid>/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</guid>
+      <guid>/www/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</guid>
       <description>&lt;p&gt;&lt;i&gt;Managing vast amounts of personal data has become “the new normal”, many would think. Wrong! Regulations race to implement adequate measures to protect personal data. Proving compliance is an increasingly pressing topic for any IT development team of a mobile (app) solution, based on personal data aggregation. Privacy-compliance is the new normal. Developing an effective privacy-preserving data management solution is imperative. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;In this article, we will show you the power of using Pryv.io data-audit to de-risk your compliance. &lt;/i&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond data: Pryv.io helps you win users’ trust: collect and use their personal data rightly -</title>
-      <link>/posts/pryv-helps-you-collect-personal-data-rightfully/</link>
+      <link>/www/posts/pryv-helps-you-collect-personal-data-rightfully/</link>
       <pubDate>Sun, 12 Jan 2020 11:57:00 +0000</pubDate>
-      <guid>/posts/pryv-helps-you-collect-personal-data-rightfully/</guid>
+      <guid>/www/posts/pryv-helps-you-collect-personal-data-rightfully/</guid>
       <description>&lt;h3&gt;&lt;strong&gt;Managing Personal Data Rightfully from The First Time and Overtime&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;i&gt;Today, collecting personal data is made easy, many would say. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;While collecting data can be easy, getting valuable insights from it is certainly not. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Even more, managing it properly so that you win your users’ trust and stay on top of the regulations is the hard job to do.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could spend less time worrying about how to manage personal data?&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could use this time to increase your users’ trust and engagement?&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could focus on your own benefits and return on your data investments?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With Pryv.io, we enable you to manage personal data rightfully – from the first time and overtime. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Swiss-made eHealth tool umana selects pryv.io to ensure the privacy of patient-doctor communication</title>
-      <link>/posts/swiss-made-ehealth-tool-umana-selects-pryv-io-to-ensure-the-privacy-of-patient-doctor-communication/</link>
+      <link>/www/posts/swiss-made-ehealth-tool-umana-selects-pryv-io-to-ensure-the-privacy-of-patient-doctor-communication/</link>
       <pubDate>Sun, 29 Sep 2019 07:48:55 +0000</pubDate>
-      <guid>/posts/swiss-made-ehealth-tool-umana-selects-pryv-io-to-ensure-the-privacy-of-patient-doctor-communication/</guid>
+      <guid>/www/posts/swiss-made-ehealth-tool-umana-selects-pryv-io-to-ensure-the-privacy-of-patient-doctor-communication/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lausanne/Bern, Switzerland, October 29&lt;sup&gt;th&lt;/sup&gt;, 2019 – &lt;/strong&gt;The Swiss leading provider of privacy and personal data management software, Pryv, was selected by the family practice Huttwil GmbH to enhance the patient-doctor communication of its intelligent booking tool, umana, by providing advanced privacy-preserving capabilities. Scheduled to launch in Q1 of 2020, the eHealth solution allows patients to send relevant data directly to their doctor while scheduling an appointment. Patients can book appointments and complete online evidence-based health check-ups in the app. For doctors, umana can help manage their agenda, set online appointments and perform check-ups. Through all this, Pryv ensures that the patient-doctor relationship is built on a foundation of trust by integrating comprehensive consent management and secure data management capabilities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discover Pryv.io API and Facilitate Pryv.io integration with Postman</title>
-      <link>/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</link>
+      <link>/www/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</link>
       <pubDate>Sun, 24 Mar 2019 19:11:00 +0000</pubDate>
-      <guid>/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</guid>
-      <description>&lt;p&gt;Looking for a way to facilitate &amp;amp; accelerate &lt;a href=&#34;/&#34;&gt;Pryv.io&lt;/a&gt; integration? Use &lt;b&gt;Postman&lt;/b&gt;, the #1 solution to faster your way through an API. In just a few clicks, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;visualize how Pryv.io works,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;skip documentation reading,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;get your job done quicker!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Even more, Postman also lets you generate &lt;strong&gt;snippets of code&lt;/strong&gt; that will help you further cut your overall integration time and costs while fasting your way to compliance.&lt;/p&gt;</description>
+      <guid>/www/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</guid>
+      <description>&lt;p&gt;Looking for a way to facilitate &amp;amp; accelerate &lt;a href=&#34;/www/&#34;&gt;Pryv.io&lt;/a&gt; integration? Use &lt;b&gt;Postman&lt;/b&gt;, the #1 solution to faster your way through an API. In just a few clicks, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;visualize how Pryv.io works,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;skip documentation reading,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;get your job done quicker!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Even more, Postman also lets you generate &lt;strong&gt;snippets of code&lt;/strong&gt; that will help you further cut your overall integration time and costs while fasting your way to compliance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv &amp; RodanoTech Team up to Optimise Clinical Research (CRO) / Trials</title>
-      <link>/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</link>
+      <link>/www/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</link>
       <pubDate>Tue, 21 Aug 2018 07:22:13 +0000</pubDate>
-      <guid>/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</guid>
+      <guid>/www/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</guid>
       <description>&lt;p style=&#34;text-align: left;&#34;&gt;Lausanne, 21 August 2018 – Pryv, the leading provider of privacy and personal data management software, today announced a &lt;a href=&#34;https://www.rodanotech.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;milestone partnership with RodanoTech&lt;/a&gt;, the leading Swiss-based CRO specialised in clinical data management services. &lt;/p&gt;&#xA;&lt;p&gt;The collaboration includes the development of an innovative clinical data management solution providing a comprehensive picture of each patient’s journey – one which combines patient reported outcome (PRO) data with clinical records collected by healthcare professionals. The platform is designed to meet the unique needs of the investigational research as well as the post approval market, including phase IV studies, registries and online medical communities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv is a TOP VENTURE LEADER IN TECHNOLOGY</title>
-      <link>/posts/pryv-is-a-top-venture-leader-in-technology/</link>
+      <link>/www/posts/pryv-is-a-top-venture-leader-in-technology/</link>
       <pubDate>Thu, 09 Feb 2017 10:26:14 +0000</pubDate>
-      <guid>/posts/pryv-is-a-top-venture-leader-in-technology/</guid>
+      <guid>/www/posts/pryv-is-a-top-venture-leader-in-technology/</guid>
       <description>&lt;h2&gt;The new Swiss startup Technology team 2017 will shine in Silicon Valley and impact the world&lt;/h2&gt;&#xA;&lt;p&gt;We are very proud and excited about being part of the new Swiss startup Technology team 2017 that will shine in Silicon Valley and impact the world.&lt;/p&gt;&#xA;&lt;p&gt;The winners of venture leaders Technology 2017 have been selected among more than 100 applications and convinced a jury comprising investors from Waypoint Capital, Rothschild Bank and Swisscom Ventures.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv joins Startup Health Annual Festival in San Francisco</title>
-      <link>/archive/the-healthcare-transformer-pryv-joins-the-jp-morgan-annual-investments-conference-startup-health-annual-festival/</link>
+      <link>/www/archive/the-healthcare-transformer-pryv-joins-the-jp-morgan-annual-investments-conference-startup-health-annual-festival/</link>
       <pubDate>Thu, 05 Jan 2017 14:09:43 +0000</pubDate>
-      <guid>/archive/the-healthcare-transformer-pryv-joins-the-jp-morgan-annual-investments-conference-startup-health-annual-festival/</guid>
+      <guid>/www/archive/the-healthcare-transformer-pryv-joins-the-jp-morgan-annual-investments-conference-startup-health-annual-festival/</guid>
       <description>&lt;p&gt;Pryv is selected as a “leading global healthcare transformer” by the StartupHealth.&lt;/p&gt;&#xA;&lt;p&gt;Join us in San Francisco where the World’s Health Transformers Head to The StartUp Health Festival.&lt;/p&gt;&#xA;&lt;p&gt;We are excited and looking forward to great networking, experience and learnings during the parallel conferences JP Morgan Healthcare Annual Investment Conference and Biotech Showcase.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qualified in Top 10 Digital Health growing European companies</title>
-      <link>/posts/pryv-goes-to-the-european-venture-summit-finals/</link>
+      <link>/www/posts/pryv-goes-to-the-european-venture-summit-finals/</link>
       <pubDate>Fri, 25 Nov 2016 14:08:12 +0000</pubDate>
-      <guid>/posts/pryv-goes-to-the-european-venture-summit-finals/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;We are honoured to receive the “best presentation award” and being ranked TOP 10 #DigitalHealth growing companies in Europe &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/img/articles/digital-health-venture-forum-data-privacy-management-pryv.jpg&#34;&gt;&lt;img class=&#34; wp-image-3433 alignright&#34; src=&#34;/img/articles/digital-health-venture-forum-data-privacy-management-pryv-1024x768.jpg&#34; alt=&#34;img_1319&#34; width=&#34;326&#34; height=&#34;244&#34;&gt;&lt;/a&gt;by the Tech Tour after our presentation during the &lt;a title=&#34;Digital Health Venture Forum 2016 welcomes Pryv as one of the Top 40 of the best European early stage Digital health companies&#34; href=&#34;/posts/digital-health-venture-forum/&#34;&gt;Digital Health Venture Forum which took place in Valencia (Spain) on the 25th and 26th of October 2016.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;As one of the finalist, we are pleased to join the &lt;strong&gt;10th edition of The European Venture Summit &lt;/strong&gt;– Europe’s leading network and investment event for high-growth technological start-ups, venture capital investors and technological corporations is taking place &lt;strong&gt;on 5-6 December 2016 in Düsseldorf&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>/www/posts/pryv-goes-to-the-european-venture-summit-finals/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We are honoured to receive the “best presentation award” and being ranked TOP 10 #DigitalHealth growing companies in Europe &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;/www/img/articles/digital-health-venture-forum-data-privacy-management-pryv.jpg&#34;&gt;&lt;img class=&#34; wp-image-3433 alignright&#34; src=&#34;/www/img/articles/digital-health-venture-forum-data-privacy-management-pryv-1024x768.jpg&#34; alt=&#34;img_1319&#34; width=&#34;326&#34; height=&#34;244&#34;&gt;&lt;/a&gt;by the Tech Tour after our presentation during the &lt;a title=&#34;Digital Health Venture Forum 2016 welcomes Pryv as one of the Top 40 of the best European early stage Digital health companies&#34; href=&#34;/www/posts/digital-health-venture-forum/&#34;&gt;Digital Health Venture Forum which took place in Valencia (Spain) on the 25th and 26th of October 2016.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;As one of the finalist, we are pleased to join the &lt;strong&gt;10th edition of The European Venture Summit &lt;/strong&gt;– Europe’s leading network and investment event for high-growth technological start-ups, venture capital investors and technological corporations is taking place &lt;strong&gt;on 5-6 December 2016 in Düsseldorf&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv is selected in Bilan &#34;50 swiss start-ups to invest in&#34; selection</title>
-      <link>/posts/50-swiss-start-ups-to-invest-in/</link>
+      <link>/www/posts/50-swiss-start-ups-to-invest-in/</link>
       <pubDate>Tue, 09 Feb 2016 11:21:09 +0000</pubDate>
-      <guid>/posts/50-swiss-start-ups-to-invest-in/</guid>
+      <guid>/www/posts/50-swiss-start-ups-to-invest-in/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Pryv&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Montant recherché : 1,6 millions de francs&lt;/p&gt;&#xA;&lt;p&gt;De la balance de votre salle de bain aux pacemakers, les dispositifs médicaux produisent quantité de données hétérogènes et donc difficiles à intégrer en dépit que cela améliorerait les diagnostics et la personnalisation des thérapies. Pryv a développé une plateforme qui collecte, conserve et distribue ces données tout en respectant les législations et la vie privée. La pharma s’y intéresse pour ses essais cliniques et les medtechs pour lesquels c’est une base pour construire des applications de e-santé.&lt;/p&gt;</description>
     </item>
   </channel>

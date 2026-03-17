@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Real-World on Pryv</title>
-    <link>/tags/real-world/</link>
+    <link>/www/tags/real-world/</link>
     <description>Recent content in Real-World on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2019 10:37:59 +0000</lastBuildDate>
-    <atom:link href="/tags/real-world/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/real-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pryv joins The Pistoia Alliance</title>
-      <link>/archive/pryv-joins-the-pistoia-alliance/</link>
+      <link>/www/archive/pryv-joins-the-pistoia-alliance/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/archive/pryv-joins-the-pistoia-alliance/</guid>
+      <guid>/www/archive/pryv-joins-the-pistoia-alliance/</guid>
       <description>&lt;h3&gt;As a new member at Pistoia Alliance, Pryv joins with the mission to address the growing needs for improving the adoption of innovative technologies for patient and real-world data.&lt;/h3&gt;&#xA;&lt;p&gt;Positioning itself as the next industry standard for personal and real-world data standard, Pryv is looking forward to participating in the Pistoia Alliance Community to promote collaboration as many organisations would benefit significantly from industry-wide pre-competitive collaboration.&lt;/p&gt;&#xA;&lt;p&gt;Still, one of the biggest challenges the industry has, is transforming the growing number of collected data sets into meaningful insights via developing and implementing machine and deep learning systems.&lt;/p&gt;</description>
     </item>
   </channel>

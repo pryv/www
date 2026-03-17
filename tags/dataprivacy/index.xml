@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dataprivacy on Pryv</title>
-    <link>/tags/dataprivacy/</link>
+    <link>/www/tags/dataprivacy/</link>
     <description>Recent content in Dataprivacy on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 08:51:53 +0000</lastBuildDate>
-    <atom:link href="/tags/dataprivacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/dataprivacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Banking: Mastering privacy &amp; consent  to unlock the personal data superpower</title>
-      <link>/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</link>
+      <link>/www/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
-      <guid>/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</guid>
+      <guid>/www/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Open banking: Whereas initially seen as a way to enable exchanges between financial institutions, it is now spreading faster and even beyond expectations.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;i&gt;Once upon a time &lt;/i&gt;&lt;/b&gt;&lt;i&gt;we&lt;/i&gt; &lt;i&gt;used to think of banking as private safes and white collars. Today, it is certainly one of the most promising areas for data-driven innovation. Each time a user pays online, it leaves behind a digital trail of information, allowing for infinite data-fueled possibilities. Yet just like banknotes, personal financial data needs to be kept safely. This means in this case: in compliance with the GDPR, Swiss DPA or any other relevant data protection regulation.&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Are developers the new lawyers to be?  Embedding privacy into software apps</title>
-      <link>/posts/embedding-privacy-into-software-applications/</link>
+      <link>/www/posts/embedding-privacy-into-software-applications/</link>
       <pubDate>Tue, 28 Jul 2020 07:57:17 +0000</pubDate>
-      <guid>/posts/embedding-privacy-into-software-applications/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Embedding privacy into software apps.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications. But ask a thousand people to define what privacy is and you’ll get a thousand different answers.&lt;/p&gt;&#xA;&lt;p&gt;For some, privacy is nothing more than secrecy. For others, it is everything related to their lives. Yet somehow, we expect developers to know what&lt;a href=&#34;/posts/10-facts-developers-should-know-when-developing-personal-data-collecting-apps/&#34;&gt; the “right” answer is for everyone. Arguing that all they have to do is to “respect users’ privacy” when developing personal data collecting apps.&lt;/a&gt; But how exactly? This is the part that we never talk about: how privacy should effectively be embedded into existing and forthcoming designs.&lt;/p&gt;</description>
+      <guid>/www/posts/embedding-privacy-into-software-applications/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Embedding privacy into software apps.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications. But ask a thousand people to define what privacy is and you’ll get a thousand different answers.&lt;/p&gt;&#xA;&lt;p&gt;For some, privacy is nothing more than secrecy. For others, it is everything related to their lives. Yet somehow, we expect developers to know what&lt;a href=&#34;/www/posts/10-facts-developers-should-know-when-developing-personal-data-collecting-apps/&#34;&gt; the “right” answer is for everyone. Arguing that all they have to do is to “respect users’ privacy” when developing personal data collecting apps.&lt;/a&gt; But how exactly? This is the part that we never talk about: how privacy should effectively be embedded into existing and forthcoming designs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pryv joins The Pistoia Alliance</title>
-      <link>/archive/pryv-joins-the-pistoia-alliance/</link>
+      <link>/www/archive/pryv-joins-the-pistoia-alliance/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
-      <guid>/archive/pryv-joins-the-pistoia-alliance/</guid>
+      <guid>/www/archive/pryv-joins-the-pistoia-alliance/</guid>
       <description>&lt;h3&gt;As a new member at Pistoia Alliance, Pryv joins with the mission to address the growing needs for improving the adoption of innovative technologies for patient and real-world data.&lt;/h3&gt;&#xA;&lt;p&gt;Positioning itself as the next industry standard for personal and real-world data standard, Pryv is looking forward to participating in the Pistoia Alliance Community to promote collaboration as many organisations would benefit significantly from industry-wide pre-competitive collaboration.&lt;/p&gt;&#xA;&lt;p&gt;Still, one of the biggest challenges the industry has, is transforming the growing number of collected data sets into meaningful insights via developing and implementing machine and deep learning systems.&lt;/p&gt;</description>
     </item>
   </channel>

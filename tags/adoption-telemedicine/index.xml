@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adoption-Telemedicine on Pryv</title>
-    <link>/tags/adoption-telemedicine/</link>
+    <link>/www/tags/adoption-telemedicine/</link>
     <description>Recent content in Adoption-Telemedicine on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Nov 2020 13:33:46 +0000</lastBuildDate>
-    <atom:link href="/tags/adoption-telemedicine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/adoption-telemedicine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Paradox of TeleMedicine in Pandemia - beyond the buzzword, an (un)expected reality</title>
-      <link>/posts/6940/</link>
+      <link>/www/posts/6940/</link>
       <pubDate>Wed, 04 Nov 2020 12:52:01 +0000</pubDate>
-      <guid>/posts/6940/</guid>
+      <guid>/www/posts/6940/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TeleMedicine in Pandemia &lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;There have been many expectations towards telemedicine during the last few months. While sanitary measures were rapidly put in place to decrease the spread of the disease, a suitable solution had yet to be found to ensure that sick patients would not be denied access to primary care in the pursuit of containing the epidemic. Telemedicine was expected to address this concern and make it possible for everyone to get medical help in this time of crisis. &lt;i&gt;Is this really what happened though?&lt;/i&gt;&lt;/p&gt;</description>
     </item>
   </channel>

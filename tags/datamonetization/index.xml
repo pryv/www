@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datamonetization on Pryv</title>
-    <link>/tags/datamonetization/</link>
+    <link>/www/tags/datamonetization/</link>
     <description>Recent content in Datamonetization on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 06:41:06 +0000</lastBuildDate>
-    <atom:link href="/tags/datamonetization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/datamonetization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Monetization: how to profit from rightfully managing personal data</title>
-      <link>/posts/data-monetization-how-to-profit-from-rightfully-managing-personal-data/</link>
+      <link>/www/posts/data-monetization-how-to-profit-from-rightfully-managing-personal-data/</link>
       <pubDate>Thu, 23 Jul 2020 06:41:06 +0000</pubDate>
-      <guid>/posts/data-monetization-how-to-profit-from-rightfully-managing-personal-data/</guid>
+      <guid>/www/posts/data-monetization-how-to-profit-from-rightfully-managing-personal-data/</guid>
       <description>&lt;h3&gt;&lt;b&gt;Privacy and Data Monetization: a conflict of interests? Really?&lt;/b&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Privacy and data monetization are often seen as two antagonistic concepts. While the privacy-respect represents something that costs time, resources and money, the data monetization on the contrary, is what allows you to bring money &lt;i&gt;in&lt;/i&gt;. Thus, when thinking about a successful strategy for bringing economic value to personal data, most companies only think of this data as an asset, and tend to forget about their responsibility.&lt;/p&gt;</description>
     </item>
   </channel>

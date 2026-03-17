@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patient-Record on Pryv</title>
-    <link>/tags/patient-record/</link>
+    <link>/www/tags/patient-record/</link>
     <description>Recent content in Patient-Record on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Dec 2020 16:38:57 +0000</lastBuildDate>
-    <atom:link href="/tags/patient-record/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www/tags/patient-record/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From paper to digital: Pryv selected as the data storage &amp; privacy platform for the digital “Patient support personal record” by UniRares, LivingLab and the HES-SO Valais Wallis.</title>
-      <link>/posts/from-paper-to-digital-pryv-selected-as-the-data-storage-privacy-platform-for-the-digital-patient-support-personal-record-by-unirares-livinglab-and-the-hes-so-valais-wallis/</link>
+      <link>/www/posts/from-paper-to-digital-pryv-selected-as-the-data-storage-privacy-platform-for-the-digital-patient-support-personal-record-by-unirares-livinglab-and-the-hes-so-valais-wallis/</link>
       <pubDate>Tue, 27 Oct 2020 10:13:59 +0000</pubDate>
-      <guid>/posts/from-paper-to-digital-pryv-selected-as-the-data-storage-privacy-platform-for-the-digital-patient-support-personal-record-by-unirares-livinglab-and-the-hes-so-valais-wallis/</guid>
+      <guid>/www/posts/from-paper-to-digital-pryv-selected-as-the-data-storage-privacy-platform-for-the-digital-patient-support-personal-record-by-unirares-livinglab-and-the-hes-so-valais-wallis/</guid>
       <description>&lt;p&gt;&lt;strong&gt;UniRares (www.UniRares.ch) presents Patient support personal record: Empowering patients to take active role in their medical care&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In its first year of operation, the association UniRares has developed a paper version of the PSPR in order to help patients take an active role in their medical care, as they are often the best-placed to know their own disease, for better or worse.&lt;/p&gt;&#xA;&lt;p&gt;This summary document aims at gathering and structuring all the different medical information that has been built over time, and should be presented to physicians during consultations. It can also serve as a reminder for the patient on the questions that he would want to ask during a medical consultation, and helps the isolated patient to gather on one single document the medical history, the identity card of the patient, the symptoms, the medical journey, the successful or unsuccessful drugs, the analysis results and the positive or rejected diagnoses. The “patient support personal record” can also be a tool for patients to set and prepare questions for the medical specialist in order to set short-term, mid-term and long-term goals together.&lt;/p&gt;</description>
     </item>
   </channel>

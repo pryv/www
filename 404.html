@@ -4,18 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <base href="/www/">
-  <title>Prems - Pryv</title>
+  <title>404 Page not found - Pryv</title>
   <meta name="description" content="eHealth Data Middleware">
-  <meta property="og:url" content="/www/tags/prems/">
+  <meta property="og:url" content="/www/404.html">
   <meta property="og:site_name" content="Pryv">
-  <meta property="og:title" content="Prems">
+  <meta property="og:title" content="404 Page not found">
   <meta property="og:description" content="eHealth Data Middleware">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Prems">
+  <meta name="twitter:title" content="404 Page not found">
   <meta name="twitter:description" content="eHealth Data Middleware">
       <meta name="twitter:site" content="@https://x.com/pryv">
 
@@ -26,7 +26,7 @@
   <link rel="stylesheet" href="/www/css/style.css">
   
 </head>
-<body class="type-tags">
+<body class="type-page">
 
   <header class="site-header">
   <div class="container header-inner">
@@ -75,40 +75,29 @@
 
   <div class="site-content">
     
-<div class="container">
-  <div class="taxonomy-header">
-    <h1>Prems</h1>
-  </div>
-  <div class="post-list">
-    
-      <article class="post-card">
-  
-  <div class="card-body">
-    <div class="card-meta">August 21, 2018 &middot; Evelina</div>
-    <h3 class="card-title"><a href="/www/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/">Pryv &amp; RodanoTech Team up to Optimise Clinical Research (CRO) / Trials</a></h3>
-    
-      <p class="card-excerpt">CRO: Clinical Research Optimization. Partnership for an innovative clinical data management solution providing a complete picture of each patient’s journey.</p>
-    
-    
-      <div class="card-tags">
-        
-          <a href="/www/tags/clinicaltrails/">Clinicaltrails</a>
-        
-          <a href="/www/tags/cro/">Cro</a>
-        
-          <a href="/www/tags/datamanagement/">Datamanagement</a>
-        
-      </div>
-    
-  </div>
-</article>
-
-    
-  </div>
-  
-
-
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 50vh; text-align: center; padding: 60px 24px;">
+  <div style="font-size: 120px; font-weight: 700; color: var(--pryv-border); line-height: 1; letter-spacing: -0.05em;">404</div>
+  <h1 style="font-size: 1.6em; margin: 16px 0 12px; color: var(--pryv-text-dark);">Page not found</h1>
+  <p style="color: var(--pryv-text-meta); font-size: 1.05em; max-width: 420px; margin: 0 0 32px;">
+    The page you're looking for doesn't exist or has been moved.<br>
+    Redirecting to the homepage in <span id="countdown">5</span> seconds...
+  </p>
+  <a class="btn-primary" href="/">Go to Homepage</a>
 </div>
+<script>
+  (function() {
+    var seconds = 5;
+    var el = document.getElementById('countdown');
+    var timer = setInterval(function() {
+      seconds--;
+      el.textContent = seconds;
+      if (seconds <= 0) {
+        clearInterval(timer);
+        window.location.href = '\/';
+      }
+    }, 1000);
+  })();
+</script>
 
   </div>
 
