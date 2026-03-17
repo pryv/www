@@ -1,5 +1,5 @@
 theme: pryv
-baseURL: /
+baseURL: /www/
 publishDir: dist
 languageCode: en-us
 title: Pryv

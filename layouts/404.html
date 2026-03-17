@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 50vh; text-align: center; padding: 60px 24px;">
+  <div style="font-size: 120px; font-weight: 700; color: var(--pryv-border); line-height: 1; letter-spacing: -0.05em;">404</div>
+  <h1 style="font-size: 1.6em; margin: 16px 0 12px; color: var(--pryv-text-dark);">Page not found</h1>
+  <p style="color: var(--pryv-text-meta); font-size: 1.05em; max-width: 420px; margin: 0 0 32px;">
+    The page you're looking for doesn't exist or has been moved.<br>
+    Redirecting to the homepage in <span id="countdown">5</span> seconds...
+  </p>
+  <a class="btn-primary" href="{{ "/" | relURL }}">Go to Homepage</a>
+</div>
+<script>
+  (function() {
+    var seconds = 5;
+    var el = document.getElementById('countdown');
+    var timer = setInterval(function() {
+      seconds--;
+      el.textContent = seconds;
+      if (seconds <= 0) {
+        clearInterval(timer);
+        window.location.href = '{{ "/" | absURL }}';
+      }
+    }, 1000);
+  })();
+</script>
+{{ end }}
