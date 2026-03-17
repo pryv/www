@@ -2,34 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/www/open-pryv/</loc>
-    <lastmod>2024-12-17T07:32:28+00:00</lastmod>
+    <loc>/www/categories/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/consent/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/ehealth/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/posts/health-data-safe-foundation-embraces-open-pryv/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/mhealth/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/opensource/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/categories/partnership/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/personaldata/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/posts/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/privacy/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/www/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/categories/pryv-updates/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/categories/topnews/</loc>
+    <lastmod>2026-03-17T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/open-pryv/</loc>
     <lastmod>2024-12-17T07:32:28+00:00</lastmod>
   </url><url>
     <loc>/www/pryvlab-privacy/</loc>
     <lastmod>2023-11-09T07:58:16+00:00</lastmod>
   </url><url>
-    <loc>/www/categories/</loc>
-    <lastmod>2023-03-09T10:49:20+00:00</lastmod>
-  </url><url>
     <loc>/www/posts/pryv-a-digital-public-good/</loc>
-    <lastmod>2023-03-09T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>/www/posts/</loc>
-    <lastmod>2023-03-09T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>/www/categories/pryv-updates/</loc>
     <lastmod>2023-03-09T10:49:20+00:00</lastmod>
   </url><url>
     <loc>/www/posts/pryv-io-consent-and-data-management-software-is-used-in-the-swissneurorehab-a-project-integrating-neurotechnologies-and-neurorehabilitation-to-allow-comprehensive-effective-and-efficient-care-all-al/</loc>
     <lastmod>2023-03-09T10:49:20+00:00</lastmod>
   </url><url>
     <loc>/www/posts/pryv-fully-open-sourced/</loc>
-    <lastmod>2023-03-09T10:49:20+00:00</lastmod>
-  </url><url>
-    <loc>/www/categories/topnews/</loc>
     <lastmod>2023-03-09T10:49:20+00:00</lastmod>
   </url><url>
     <loc>/www/categories/uncategorized/</loc>
@@ -50,19 +77,10 @@
     <loc>/www/posts/evelina-georgieva-pryv-investing-in-data-privacy-is-not-only-about-fulfilling-a-requirement-to-achieve-compliance/</loc>
     <lastmod>2022-05-06T07:28:57+00:00</lastmod>
   </url><url>
-    <loc>/www/tags/privacy/</loc>
-    <lastmod>2022-05-06T07:28:57+00:00</lastmod>
-  </url><url>
     <loc>/www/tags/security/</loc>
     <lastmod>2022-05-06T07:28:57+00:00</lastmod>
   </url><url>
-    <loc>/www/tags/</loc>
-    <lastmod>2022-05-06T07:28:57+00:00</lastmod>
-  </url><url>
     <loc>/www/posts/in-cooperation-with-the-team-of-pryv-sa-open-web-technology-launches-its-data-privacy-excellence-practice-to-design-digital-solutions-ensuring-personal/</loc>
-    <lastmod>2022-07-18T06:59:40+00:00</lastmod>
-  </url><url>
-    <loc>/www/categories/partnership/</loc>
     <lastmod>2022-07-18T06:59:40+00:00</lastmod>
   </url><url>
     <loc>/www/tags/features/</loc>
@@ -76,9 +94,6 @@
   </url><url>
     <loc>/www/tags/dataintegrity/</loc>
     <lastmod>2021-10-14T13:53:39+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/mhealth/</loc>
-    <lastmod>2021-10-06T20:06:30+00:00</lastmod>
   </url><url>
     <loc>/www/posts/respiratory-data-privacy-covid-19/</loc>
     <lastmod>2021-10-06T20:06:30+00:00</lastmod>
@@ -143,9 +158,6 @@
     <loc>/www/tags/developmenttools/</loc>
     <lastmod>2020-12-17T07:45:15+00:00</lastmod>
   </url><url>
-    <loc>/www/tags/ehealth/</loc>
-    <lastmod>2020-12-17T07:45:15+00:00</lastmod>
-  </url><url>
     <loc>/www/tags/telemedicine/</loc>
     <lastmod>2020-12-17T07:45:15+00:00</lastmod>
   </url><url>
@@ -171,9 +183,6 @@
     <lastmod>2020-12-08T09:15:54+00:00</lastmod>
   </url><url>
     <loc>/www/tags/exoscale/</loc>
-    <lastmod>2020-12-08T09:15:54+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/opensource/</loc>
     <lastmod>2020-12-08T09:15:54+00:00</lastmod>
   </url><url>
     <loc>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</loc>
@@ -227,9 +236,6 @@
     <loc>/www/tags/confidential-computing/</loc>
     <lastmod>2021-01-14T11:37:16+00:00</lastmod>
   </url><url>
-    <loc>/www/tags/personaldata/</loc>
-    <lastmod>2021-01-14T11:37:16+00:00</lastmod>
-  </url><url>
     <loc>/www/posts/pryv-and-cysec-launch-an-integrated-solution-for-collection-and-confidential-computing-of-personal-data-at-scale/</loc>
     <lastmod>2021-01-14T11:37:16+00:00</lastmod>
   </url><url>
@@ -244,9 +250,6 @@
   </url><url>
     <loc>/www/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</loc>
     <lastmod>2020-09-15T08:51:53+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/consent/</loc>
-    <lastmod>2020-09-16T16:01:40+00:00</lastmod>
   </url><url>
     <loc>/www/tags/digitalethics/</loc>
     <lastmod>2020-09-08T06:48:45+00:00</lastmod>

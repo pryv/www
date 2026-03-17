@@ -6,8 +6,50 @@
     <description>Recent content in Tags on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2022 07:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="/www/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consent</title>
+      <link>/www/tags/consent/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/consent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ehealth</title>
+      <link>/www/tags/ehealth/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/ehealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mhealth</title>
+      <link>/www/tags/mhealth/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/mhealth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>/www/tags/opensource/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personaldata</title>
+      <link>/www/tags/personaldata/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/personaldata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>/www/tags/privacy/</link>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>/www/tags/privacy/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Digitaethics</title>
       <link>/www/tags/digitaethics/</link>
@@ -20,13 +62,6 @@
       <link>/www/tags/digitaltrust/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
       <guid>/www/tags/digitaltrust/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>/www/tags/privacy/</link>
-      <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
-      <guid>/www/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +83,6 @@
       <link>/www/tags/dataintegrity/</link>
       <pubDate>Thu, 14 Oct 2021 13:43:03 +0000</pubDate>
       <guid>/www/tags/dataintegrity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mhealth</title>
-      <link>/www/tags/mhealth/</link>
-      <pubDate>Wed, 06 Oct 2021 19:24:06 +0000</pubDate>
-      <guid>/www/tags/mhealth/</guid>
       <description></description>
     </item>
     <item>
@@ -114,13 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Ehealth</title>
-      <link>/www/tags/ehealth/</link>
-      <pubDate>Mon, 14 Dec 2020 09:16:16 +0000</pubDate>
-      <guid>/www/tags/ehealth/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Telemedicine</title>
       <link>/www/tags/telemedicine/</link>
       <pubDate>Mon, 14 Dec 2020 09:16:16 +0000</pubDate>
@@ -174,13 +195,6 @@
       <link>/www/tags/exoscale/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
       <guid>/www/tags/exoscale/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Opensource</title>
-      <link>/www/tags/opensource/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/www/tags/opensource/</guid>
       <description></description>
     </item>
     <item>
@@ -247,13 +261,6 @@
       <description></description>
     </item>
     <item>
-      <title>Personaldata</title>
-      <link>/www/tags/personaldata/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:35 +0000</pubDate>
-      <guid>/www/tags/personaldata/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Dataanalytics</title>
       <link>/www/tags/dataanalytics/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
@@ -272,13 +279,6 @@
       <link>/www/tags/fintech/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
       <guid>/www/tags/fintech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consent</title>
-      <link>/www/tags/consent/</link>
-      <pubDate>Tue, 08 Sep 2020 06:48:45 +0000</pubDate>
-      <guid>/www/tags/consent/</guid>
       <description></description>
     </item>
     <item>
