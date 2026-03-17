@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datamanagement on Pryv</title>
+    <link>/tags/datamanagement/</link>
+    <description>Recent content in Datamanagement on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:21:30 +0000</lastBuildDate>
+    <atom:link href="/tags/datamanagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master the GDPR Compliance Checklist with Pryv.io</title>
+      <link>/posts/gdpr-checklist-pryv/</link>
+      <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
+      <guid>/posts/gdpr-checklist-pryv/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Master the GDPR Compliance Checklist with Pryv.io&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;It’s not news: from two years already, if you’re a company operating with EU citizens personal data, you have to comply with the &lt;/i&gt;&lt;a href=&#34;/posts/gdpr-swiss-dpa-e-privacy/&#34;&gt;&lt;i&gt;GDPR&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (General Data Protection Regulation). Effective since 25 May 2018, the regulation sets out a number of legal obligations to be met in terms of privacy requirements and generous fines to be paid for those who don’t play by its rules. Yet in spite of its not-so newness, a lot of questions are still arising when it comes to GDPR compliance: how to achieve it? Where to start? How to leverage its requirements into a competitive advantage?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Residency: insights on where to store the personal data you collect -</title>
+      <link>/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</link>
+      <pubDate>Mon, 03 Aug 2020 18:19:07 +0000</pubDate>
+      <guid>/posts/data-residency-insights-on-where-to-store-the-personal-data-you-collect/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Data Residency: where the&lt;/b&gt;&lt;b&gt; home for your data is.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Data Localization: a business choice or a legal obligation?&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;We live in a world where information can travel across borders within a heartbeat. Yet, if it can be rendered anytime anywhere, it has to be stored somewhere at some point. &lt;/p&gt;&#xA;&lt;p&gt;Finding out where that somewhere should be can be quite a puzzle to solve. Preferably, you want it to be safe, compliant, as well as economically interesting. But mostly, finding the right location for storing valuable information is a legal conundrum that you will have to solve carefully. Especially when managing the personal data of users from various nationalities, as each country poses different geographic limitations as regards to data residency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>50 Shades of “Dark Patterns” to deceive privacy regulations</title>
+      <link>/posts/50-shades-of-dark-patterns-to-deceive-privacy-regulations/</link>
+      <pubDate>Mon, 03 Aug 2020 17:49:29 +0000</pubDate>
+      <guid>/posts/50-shades-of-dark-patterns-to-deceive-privacy-regulations/</guid>
+      <description>&lt;h4&gt;&lt;b&gt;Dark Patterns in Action: Privacy-by-design or Deceived-by-design?&lt;/b&gt;&lt;/h4&gt;&#xA;&lt;h3&gt;&lt;b&gt;Enlightenment in Delusion&lt;/b&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The trust in the Internet has been lost. Yet we use technology more than ever before. Every single day, millions of applications are being downloaded and fed by personal data. Whoever knows what it is being used for. We have been promised to be protected. We have heard “privacy-by-design” many times now, but have we understood it? Probably we did not. As we are still being deceived-by-design by many applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Euris Health Cloud &amp; Pryv: GDPR compliance and HDS compliance</title>
+      <link>/posts/euris-and-pryv-simplify-personal-data-management-a-ready-to-use-solution-to-meet-gdpr-and-health-data-hosting-requirements/</link>
+      <pubDate>Wed, 01 Jul 2020 19:28:28 +0000</pubDate>
+      <guid>/posts/euris-and-pryv-simplify-personal-data-management-a-ready-to-use-solution-to-meet-gdpr-and-health-data-hosting-requirements/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Lausanne, Switzerland – Paris, France, July 2nd, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and the leading connected health operator in France, Euris Health Cloud®, announced a strategic partnership for delivering a ready-to-be used solution for rightfully managing and securely storing personal health data.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A ready-to-use data management solution to achieve GDPR compliance and meet health data hosting &lt;/strong&gt;&lt;strong&gt;requirements. &lt;/strong&gt;&lt;br&gt;&#xA;Companies willing to collect and use personal health data can now benefit from a complete, ready-to-use, and scalable solution, offered by Euris Health Cloud® (health data hosting) and Pryv (personal data and privacy compliance middleware). In Europe, the solution combines a certified HDS (*) hosting offer for security and a personal healthcare data management service for privacy, allowing e-health actors to rigorously manage personal health data and quickly create applications that respect the rights of the patient at an attractive cost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv releases an Open-Source Solution for Personal Data &amp; Privacy Management</title>
+      <link>/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</link>
+      <pubDate>Mon, 08 Jun 2020 06:38:44 +0000</pubDate>
+      <guid>/posts/pryv-sa-releases-an-open-source-solution-for-personal-data-privacy-management/</guid>
+      <description>&lt;p&gt;&lt;b&gt;The release of &lt;/b&gt;&lt;b&gt;&lt;i&gt;Open Pryv.io&lt;/i&gt;&lt;/b&gt; &lt;b&gt;delivers a free, full production, easy-to-install open-source solution for the collection and management of sensitive personal and health data.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Lausanne, Switzerland, June 9&lt;/i&gt;&lt;i&gt;th&lt;/i&gt;&lt;i&gt;, 2020&lt;/i&gt; — Today, Pryv, the leading Swiss provider of personal data and privacy management software announced the open-source release of &lt;a href=&#34;https://github.com/pryv/open-pryv.io&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; data-saferedirecturl=&#34;https://www.google.com/url?q=https://github.com/pryv/open-pryv.io&amp;amp;source=gmail&amp;amp;ust=1591767266336000&amp;amp;usg=AFQjCNE5M5Nwx5D_-qMstxXIdiLE3h7Y7w&#34;&gt;&lt;i&gt;Open Pryv.io&lt;/i&gt;&lt;/a&gt;: a free and scalable personal data lifecycle management platform specifically engineered to empower developers to rapidly create and scale breakthrough, GDPR, and privacy compliant products, services, and experiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy-centric eCRF for RWD and Informed Consent</title>
+      <link>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</link>
+      <pubDate>Sat, 13 Jul 2019 14:03:22 +0000</pubDate>
+      <guid>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The innovative RWD eConsent solution is ideal for enhancing clinical trials with Real-World Data (RWD), achieving privacy compliance and improving patients’ engagement.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Switzerland, Morges, 12 June 2019 – Pryv, the leading Swiss provider of privacy and personal data management software, and BGO Software, a Bulgaria-based leading software services and product development company, have announced the launch of an innovative eCRF solution to manage Real-World Data (RWD) and informed electronic consent (eConsent).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv introduces Riva Digital oBPM Blood Pressure Monitoring App</title>
+      <link>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</link>
+      <pubDate>Sun, 26 Aug 2018 07:11:14 +0000</pubDate>
+      <guid>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</guid>
+      <description>&lt;p&gt;&lt;span id=&#34;ember6981&#34; class=&#34;ember-view&#34;&gt;Hypertension (High BloodPressure) is the #1 most spread disease in Switzerland- 1 in 5 Swiss is affected.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;“High BloodPressure is a silent killer, it doesn’t hurt and you do not feel it, until it is too late” says Dr. Thomas Guggi, Project and Technical Lead at &lt;a href=&#34;https://www.rivadigital.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riva Digital&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a id=&#34;ember6985&#34; class=&#34;tap-target feed-shared-text-view__mention ember-view&#34; href=&#34;/&#34;&gt;&lt;span data-entity-hovercard-id=&#34;urn:li:fs_miniCompany:2981970&#34;&gt;Pryv&lt;/span&gt;&lt;/a&gt;, we are&lt;span id=&#34;ember6989&#34; class=&#34;ember-view&#34;&gt; honoured to support Riva Digital initiative at its mission to increase the health literacy of the Swiss society by providing a solid data management foundation to enable data collection, structure, storage and sharing.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv &amp; RodanoTech Team up to Optimise Clinical Research (CRO) / Trials</title>
+      <link>/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</link>
+      <pubDate>Tue, 21 Aug 2018 07:22:13 +0000</pubDate>
+      <guid>/posts/pryv-and-rodanotech-team-up-to-optimise-clinical-research-trials-with-patient-generated-health-data/</guid>
+      <description>&lt;p style=&#34;text-align: left;&#34;&gt;Lausanne, 21 August 2018 – Pryv, the leading provider of privacy and personal data management software, today announced a &lt;a href=&#34;https://www.rodanotech.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;milestone partnership with RodanoTech&lt;/a&gt;, the leading Swiss-based CRO specialised in clinical data management services. &lt;/p&gt;&#xA;&lt;p&gt;The collaboration includes the development of an innovative clinical data management solution providing a comprehensive picture of each patient’s journey – one which combines patient reported outcome (PRO) data with clinical records collected by healthcare professionals. The platform is designed to meet the unique needs of the investigational research as well as the post approval market, including phase IV studies, registries and online medical communities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure Hosted Solution Accelerates Time to GDPR Compliance</title>
+      <link>/posts/pryv-partners-with-net4all-to-launch-a-managed-hosting-solution-for-privacy-and-personal-data-management-gdpr/</link>
+      <pubDate>Mon, 25 Jun 2018 09:57:27 +0000</pubDate>
+      <guid>/posts/pryv-partners-with-net4all-to-launch-a-managed-hosting-solution-for-privacy-and-personal-data-management-gdpr/</guid>
+      <description>&lt;h2&gt;Secure hosted solution enables innovation and accelerates time to GDPR compliance for Swiss startups and SMEs&lt;/h2&gt;&#xA;&#xA;&lt;a href=&#34;https://www.net4all.ch/&#34;&gt;&lt;img src=&#34;/img/articles/data-privacy-management-pryv-net4all-partners-600x241.png&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;121&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;/about-pryv/&#34;&gt;&lt;img src=&#34;/img/articles/logo-data-privacy-management-pryv.png&#34; alt=&#34;&#34; width=&#34;256&#34; height=&#34;100&#34;&gt;&lt;/a&gt;&#xA;&#xA;&#xA;&lt;p&gt;&lt;b&gt;Lausanne, June 26th, 2018&lt;/b&gt; — Pryv, the leading provider of privacy and personal data management software, today announced a partnership with &lt;a href=&#34;https://www.net4all.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Net4all &lt;/a&gt;which will give Swiss startups and SMEs access to a secure, compliant and fully managed cloud hosting solution for &lt;a href=&#34;/&#34;&gt;Pryv.io&lt;/a&gt;. This partnership will ensure that sensitive personal data is duly managed thru its lifecycle and kept completely secure under the stringent standards of the &lt;a href=&#34;https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html&#34;&gt;Swiss LDP&lt;/a&gt; and &lt;a href=&#34;https://ec.europa.eu/commission/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules_en&#34;&gt;GDPR legislation&lt;/a&gt;. Net4All, one of the top hosting providers in Switzerland, is specialized in Web Hosting, Managed Services and Cyber Security for information systems and digital platforms. The company is ISO 27001 compliant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Altran &amp; Pryv Partner for GDPR-Proof Path Connected Health Applications</title>
+      <link>/posts/altran-switzerland-and-pryv-join-forces-to-give-life-sciences-customers-a-gdpr-proof-path-to-connected-health-applications/</link>
+      <pubDate>Tue, 19 Jun 2018 08:32:55 +0000</pubDate>
+      <guid>/posts/altran-switzerland-and-pryv-join-forces-to-give-life-sciences-customers-a-gdpr-proof-path-to-connected-health-applications/</guid>
+      <description>&lt;h2&gt;New partner alliance agreement set to benefit the connected health sector with smart, patient-centric medical devices meeting the highest levels of data safety, privacy and user empowerment.&lt;/h2&gt;&#xA;&lt;p&gt;Lausanne, June. 15, 2018 — Pryv, the leading provider of privacy and personal data management software, announces that it has signed a partnership agreement with Altran, the leader in Engineering and R&amp;amp;D services empowering the next generation of healthcare evolution.&lt;/p&gt;&#xA;&lt;p&gt;This partnership puts the patients at the heart of MedTech innovation and protects their privacy complying the most stringent data regulations with Altran acting as an end-to-end R&amp;amp;D engineering partner developing smart, patient-centric and compliant medical devices. Pryv brings trust, transparency and control over the use of sensitive medical data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv Unleashes IoT Connectivity with High Throughput Data Ingestion</title>
+      <link>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</link>
+      <pubDate>Thu, 22 Mar 2018 13:01:46 +0000</pubDate>
+      <guid>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</guid>
+      <description>&lt;p&gt;Lausanne, 20 March 2018 – Pryv, the leading provider of privacy and personal data management solutions, announced today &lt;a href=&#34;http://pryv.io/&#34;&gt;Pryv.io&lt;/a&gt; High Frequency, a new software release capable of ingesting high-throughput IoT data at scale and with optimal storage density. The new release addresses growing customer demand for mission-critical healthcare services with many devices connected. &lt;/p&gt;&#xA;&lt;p&gt;“One of the key challenges of IoT data streams is to handle high volumes of data with fast connectivity without compromising on security.” says Stephan Bachofen, VP Software at Biovotion AG. “Pryv’s high throughput data ingestion will allow medical trackers to cope with future large volumes of telemetry data overcoming surges with guaranteed low-latency at affordable costs.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv joins The Pistoia Alliance</title>
+      <link>/archive/pryv-joins-the-pistoia-alliance/</link>
+      <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
+      <guid>/archive/pryv-joins-the-pistoia-alliance/</guid>
+      <description>&lt;h3&gt;As a new member at Pistoia Alliance, Pryv joins with the mission to address the growing needs for improving the adoption of innovative technologies for patient and real-world data.&lt;/h3&gt;&#xA;&lt;p&gt;Positioning itself as the next industry standard for personal and real-world data standard, Pryv is looking forward to participating in the Pistoia Alliance Community to promote collaboration as many organisations would benefit significantly from industry-wide pre-competitive collaboration.&lt;/p&gt;&#xA;&lt;p&gt;Still, one of the biggest challenges the industry has, is transforming the growing number of collected data sets into meaningful insights via developing and implementing machine and deep learning systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Pryv</title>
+    <link>/tags/features/</link>
+    <description>Recent content in Features on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jan 2022 15:43:18 +0000</lastBuildDate>
+    <atom:link href="/tags/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pryv.io Personal Data Mapping to enable automatic integration with existing warehouses</title>
+      <link>/posts/pryv-personal-data-mapping-enables-automatic-integration-with-existing-warehouses-bridging-the-gap-for-privacy-compliance-and-managing-data-subject-requests-on-personal-data-access-and-proce/</link>
+      <pubDate>Wed, 19 Jan 2022 14:41:12 +0000</pubDate>
+      <guid>/posts/pryv-personal-data-mapping-enables-automatic-integration-with-existing-warehouses-bridging-the-gap-for-privacy-compliance-and-managing-data-subject-requests-on-personal-data-access-and-proce/</guid>
+      <description>&lt;p&gt;Bridging the gap for privacy compliance and managing data-subject requests on personal data access and processing&lt;/p&gt;&#xA;&lt;p&gt;Pryv.io Personal Data Mapping to enable automatic integration with existing warehouses.&lt;/p&gt;&#xA;&#xA;&lt;h2&gt;&lt;b&gt;Integrate existing data warehouses with Pryv.io privacy back-end:&lt;/b&gt;&lt;/h2&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34; aria-level=&#34;1&#34;&gt;Make legacy systems (warehouses) easy to integrate with new external systems within a privacy-compliant environment. &lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34; aria-level=&#34;1&#34;&gt;Significantly reduce time and errors managing data-subject requests.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;Pryv developed and commercialized a privacy-by-design middleware system that provides full, innovative personal data life cycle management. This technology allows for privacy compliance, interoperability and data sharing to a granular-level, using transparent, unambiguous enforcement of consent applied on a data set.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“Data Integrity” is key to safeguard data, trust and business reputation</title>
+      <link>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</link>
+      <pubDate>Thu, 14 Oct 2021 13:43:03 +0000</pubDate>
+      <guid>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Whether intentionally or not, when data integrity has been compromised, it can not only result in serious risks for the data subjects concerned, but also make the company appear untrustworthy. Data with compromised integrity can not only create risks for the data subject itself, but also position the entire company’s reputation and operations at risk.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Once lost, trust cannot be easily found, or not at all.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data tampering attacks are a serious threat. And as recent news indicates an upsurge of cyber-attacks against personal data-fueled businesses worldwide, one that should be taken seriously. Imagine the repercussions of a clinical trial results based on data altered by an attacker.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Master the GDPR Compliance Checklist with Pryv.io</title>
+      <link>/posts/gdpr-checklist-pryv/</link>
+      <pubDate>Fri, 11 Dec 2020 03:59:05 +0000</pubDate>
+      <guid>/posts/gdpr-checklist-pryv/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Master the GDPR Compliance Checklist with Pryv.io&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;It’s not news: from two years already, if you’re a company operating with EU citizens personal data, you have to comply with the &lt;/i&gt;&lt;a href=&#34;/posts/gdpr-swiss-dpa-e-privacy/&#34;&gt;&lt;i&gt;GDPR&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (General Data Protection Regulation). Effective since 25 May 2018, the regulation sets out a number of legal obligations to be met in terms of privacy requirements and generous fines to be paid for those who don’t play by its rules. Yet in spite of its not-so newness, a lot of questions are still arising when it comes to GDPR compliance: how to achieve it? Where to start? How to leverage its requirements into a competitive advantage?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Personal Data LifeCycle, sorted out by Pryv.</title>
+      <link>/posts/data-lifecyle-management/</link>
+      <pubDate>Mon, 27 Jan 2020 13:06:00 +0000</pubDate>
+      <guid>/posts/data-lifecyle-management/</guid>
+      <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;The Data LifeCycl&lt;/i&gt;&lt;/b&gt;&lt;b&gt;e&lt;/b&gt; refers to the sequence of stages a specific unit of data undergoes within an organization: from the time it was generated or collected, to the time it was stored, used, shared, archived and deleted.&lt;/p&gt;&#xA;&lt;p&gt;Companies tend to put their best resources and minds on getting the best product for their users – it’s normal. But in doing so, a number of organizations are failing at organizing their data lifecycle. First, it is not a simple task: it’s a blend of legal, IT and business-logic actions which need to be designed to meet current data and regulatory requirements, as well as to last over time. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data pooling: Get the most out of the data you collect</title>
+      <link>/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</link>
+      <pubDate>Sun, 26 Jan 2020 12:30:00 +0000</pubDate>
+      <guid>/posts/data-pooling-get-the-most-out-of-the-data-you-collect/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Harvard Business Review &lt;/i&gt;&lt;a href=&#34;https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century&#34;&gt;&lt;i&gt;called&lt;/i&gt;&lt;/a&gt;&lt;i&gt; “data scientist the sexiest job of the 21st century”. Unlocking data value inspires you to look forward to finding out more. Dissecting data is what makes your business services worth; allowing you to bring value to your customers and to stay competitive. The more you collect, the better. But is it really about data collection?&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Flip the coin and you’ll see that the true potential of the data that you collect lies in its aggregation. Your data scientists will only be able to unlock its value when identifying rich data sources, aggregating them with others, and pooling large quantities of formless data.&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Audit logs in Pryv.io : When every single piece of information matters</title>
+      <link>/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</link>
+      <pubDate>Sat, 25 Jan 2020 08:14:40 +0000</pubDate>
+      <guid>/posts/audit-logs-in-pryv-io-when-every-single-piece-of-information-matters/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Managing vast amounts of personal data has become “the new normal”, many would think. Wrong! Regulations race to implement adequate measures to protect personal data. Proving compliance is an increasingly pressing topic for any IT development team of a mobile (app) solution, based on personal data aggregation. Privacy-compliance is the new normal. Developing an effective privacy-preserving data management solution is imperative. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;In this article, we will show you the power of using Pryv.io data-audit to de-risk your compliance. &lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond data: Pryv.io helps you win users’ trust: collect and use their personal data rightly -</title>
+      <link>/posts/pryv-helps-you-collect-personal-data-rightfully/</link>
+      <pubDate>Sun, 12 Jan 2020 11:57:00 +0000</pubDate>
+      <guid>/posts/pryv-helps-you-collect-personal-data-rightfully/</guid>
+      <description>&lt;h3&gt;&lt;strong&gt;Managing Personal Data Rightfully from The First Time and Overtime&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;i&gt;Today, collecting personal data is made easy, many would say. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;While collecting data can be easy, getting valuable insights from it is certainly not. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Even more, managing it properly so that you win your users’ trust and stay on top of the regulations is the hard job to do.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could spend less time worrying about how to manage personal data?&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could use this time to increase your users’ trust and engagement?&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;What if you could focus on your own benefits and return on your data investments?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With Pryv.io, we enable you to manage personal data rightfully – from the first time and overtime. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Webhooks at Pryv.io: When data ages in milliseconds, waiting is not an option.</title>
+      <link>/posts/webhooks-at-pryv-io-when-data-ages-in-milliseconds-waiting-is-not-an-option/</link>
+      <pubDate>Fri, 03 Jan 2020 20:01:46 +0000</pubDate>
+      <guid>/posts/webhooks-at-pryv-io-when-data-ages-in-milliseconds-waiting-is-not-an-option/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Pryv.io notifies your app of any data changes from now.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;Fast world, fast life- technology made the world change in milliseconds. Every second, a new piece of personal information is born. It begins its long journey in this digital world from being created, updated, acknowledged … leaving digital footprints with the purpose to be transferred into valuable insight to someone. Regulators made it clear, as owners of these pieces of information, each individual (user) can execute his rights to demand their full traceability at any given time. &lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Discover Pryv.io API and Facilitate Pryv.io integration with Postman</title>
+      <link>/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</link>
+      <pubDate>Sun, 24 Mar 2019 19:11:00 +0000</pubDate>
+      <guid>/posts/discover-pryv-io-api-and-facilitate-pryv-io-integration-with-postman/</guid>
+      <description>&lt;p&gt;Looking for a way to facilitate &amp;amp; accelerate &lt;a href=&#34;/&#34;&gt;Pryv.io&lt;/a&gt; integration? Use &lt;b&gt;Postman&lt;/b&gt;, the #1 solution to faster your way through an API. In just a few clicks, you’ll be able to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;visualize how Pryv.io works,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;skip documentation reading,&lt;/li&gt;&#xA;&lt;li style=&#34;font-weight: 400;&#34;&gt;get your job done quicker!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Even more, Postman also lets you generate &lt;strong&gt;snippets of code&lt;/strong&gt; that will help you further cut your overall integration time and costs while fasting your way to compliance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv Unleashes IoT Connectivity with High Throughput Data Ingestion</title>
+      <link>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</link>
+      <pubDate>Thu, 22 Mar 2018 13:01:46 +0000</pubDate>
+      <guid>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</guid>
+      <description>&lt;p&gt;Lausanne, 20 March 2018 – Pryv, the leading provider of privacy and personal data management solutions, announced today &lt;a href=&#34;http://pryv.io/&#34;&gt;Pryv.io&lt;/a&gt; High Frequency, a new software release capable of ingesting high-throughput IoT data at scale and with optimal storage density. The new release addresses growing customer demand for mission-critical healthcare services with many devices connected. &lt;/p&gt;&#xA;&lt;p&gt;“One of the key challenges of IoT data streams is to handle high volumes of data with fast connectivity without compromising on security.” says Stephan Bachofen, VP Software at Biovotion AG. “Pryv’s high throughput data ingestion will allow medical trackers to cope with future large volumes of telemetry data overcoming surges with guaranteed low-latency at affordable costs.”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extension of HL7 FHIR Data Exchange with Semantic Interoperability</title>
+      <link>/posts/pryv-and-hes-so-team-up-to-extend-hl7-fhir-data-exchange-with-semantic-interoperability/</link>
+      <pubDate>Sun, 21 Jan 2018 09:56:00 +0000</pubDate>
+      <guid>/posts/pryv-and-hes-so-team-up-to-extend-hl7-fhir-data-exchange-with-semantic-interoperability/</guid>
+      <description>&lt;p&gt;Lausanne, Jan 22, 2018 — Pryv, the leading provider of privacy and personal data management software, today announced an R&amp;amp;D collaboration with the eHealth unit of HES-SO Valais- Wallis in Sierre (University of Applied Sciences and Arts Western Switzerland), to automate semantization of healthcare data for effective discovery and exchange across the patient’s continuum of care. The initiative aims to build (up) a common vocabulary and taxonomy that will pave the way for accurate and reliable data communication that can rationalize disparate Electronic Healthcare Records, augment the health level 7 (HL7) series of standards and ensure meaningful use of patient data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataintegrity on Pryv</title>
+    <link>/tags/dataintegrity/</link>
+    <description>Recent content in Dataintegrity on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Oct 2021 13:53:39 +0000</lastBuildDate>
+    <atom:link href="/tags/dataintegrity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Data Integrity” is key to safeguard data, trust and business reputation</title>
+      <link>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</link>
+      <pubDate>Thu, 14 Oct 2021 13:43:03 +0000</pubDate>
+      <guid>/posts/data-integrity-is-key-to-safeguard-data-trust-and-business-reputation/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Whether intentionally or not, when data integrity has been compromised, it can not only result in serious risks for the data subjects concerned, but also make the company appear untrustworthy. Data with compromised integrity can not only create risks for the data subject itself, but also position the entire company’s reputation and operations at risk.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Once lost, trust cannot be easily found, or not at all.&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;Data tampering attacks are a serious threat. And as recent news indicates an upsurge of cyber-attacks against personal data-fueled businesses worldwide, one that should be taken seriously. Imagine the repercussions of a clinical trial results based on data altered by an attacker.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

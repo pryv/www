@@ -1,0 +1,58 @@
+/* Pryv Design Tokens — shared across www.pryv.com and dev-site */
+:root {
+  /* Brand colors */
+  --pryv-red: #be2834;
+  --pryv-red-alt: #C63130;
+  --pryv-red-dark: #BD1026;
+  --pryv-cyan: #30BCED;
+  --pryv-cyan-hover: #2ca8d4;
+
+  /* Text */
+  --pryv-text-dark: #1a1d26;
+  --pryv-text-medium: #454955;
+  --pryv-text-body: #5a5d6b;
+  --pryv-text-meta: #8e919d;
+
+  /* Backgrounds */
+  --pryv-bg-light: #f6f7f9;
+  --pryv-bg-card: #FBF3F4;
+  --pryv-bg-white: #ffffff;
+  --pryv-bg-subtle: #fafbfc;
+
+  /* Borders */
+  --pryv-border: #e8eaef;
+  --pryv-border-medium: #d0d2d9;
+
+  /* Typography */
+  --pryv-font-display: 'DM Sans', sans-serif;
+  --pryv-font-body: 'DM Sans', sans-serif;
+  --pryv-fw-regular: 400;
+  --pryv-fw-medium: 500;
+  --pryv-fw-semibold: 600;
+  --pryv-fw-bold: 700;
+
+  /* Shadows — layered for depth */
+  --pryv-shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --pryv-shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --pryv-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+  --pryv-shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --pryv-shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+
+  /* Radii */
+  --pryv-radius-sm: 6px;
+  --pryv-radius-md: 10px;
+  --pryv-radius-lg: 16px;
+
+  /* Spacing scale */
+  --pryv-gutter: 24px;
+  --pryv-space-xs: 4px;
+  --pryv-space-sm: 8px;
+  --pryv-space-md: 16px;
+  --pryv-space-lg: 32px;
+  --pryv-space-xl: 48px;
+  --pryv-space-2xl: 80px;
+
+  /* Transitions */
+  --pryv-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --pryv-duration: 0.3s;
+}

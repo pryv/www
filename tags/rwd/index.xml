@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rwd on Pryv</title>
+    <link>/tags/rwd/</link>
+    <description>Recent content in Rwd on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 13:31:07 +0000</lastBuildDate>
+    <atom:link href="/tags/rwd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy-centric eCRF for RWD and Informed Consent</title>
+      <link>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</link>
+      <pubDate>Sat, 13 Jul 2019 14:03:22 +0000</pubDate>
+      <guid>/posts/privacy-ecrf-to-capture-patients-rwd-and-informed-consent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The innovative RWD eConsent solution is ideal for enhancing clinical trials with Real-World Data (RWD), achieving privacy compliance and improving patients’ engagement.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Switzerland, Morges, 12 June 2019 – Pryv, the leading Swiss provider of privacy and personal data management software, and BGO Software, a Bulgaria-based leading software services and product development company, have announced the launch of an innovative eCRF solution to manage Real-World Data (RWD) and informed electronic consent (eConsent).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

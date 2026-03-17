@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Are developers the new lawyers to be?  Embedding privacy into software apps - Pryv</title>
+  <meta name="description" content="Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications.">
+  <meta property="og:url" content="/posts/embedding-privacy-into-software-applications/">
+  <meta property="og:site_name" content="Pryv">
+  <meta property="og:title" content="Are developers the new lawyers to be?  Embedding privacy into software apps">
+  <meta property="og:description" content="Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2020-07-28T07:57:17+00:00">
+    <meta property="article:modified_time" content="2020-07-28T08:12:14+00:00">
+    <meta property="article:tag" content="Datacompliance">
+    <meta property="article:tag" content="Dataprivacy">
+    <meta property="article:tag" content="Dataprotection">
+    <meta property="article:tag" content="Softwaredevelopment">
+
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Are developers the new lawyers to be?  Embedding privacy into software apps">
+  <meta name="twitter:description" content="Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications.">
+      <meta name="twitter:site" content="@https://x.com/pryv">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
+  <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+  <link rel="stylesheet" href="/css/style.css">
+  
+</head>
+<body class="type-posts">
+
+  <header class="site-header">
+  <div class="container header-inner">
+    <div class="logo-area">
+      <a href="/">
+        <img src="/img/Logo-Pryv@3x.svg" alt="Pryv">
+      </a>
+      <span class="tagline">Data &amp; Privacy, <span class="red">Managed.</span></span>
+    </div>
+    <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+    <nav class="main-nav">
+      <ul>
+        
+          
+            <li class="has-children">
+              <a href="">Product</a>
+              <ul class="sub-menu">
+                
+                  <li><a href="/open-pryv/">Open Pryv.io</a></li>
+                
+                  <li><a href="/tags/features/">Features</a></li>
+                
+                  <li><a href="https://pryv.github.io/data-in-pryv/">White Paper</a></li>
+                
+              </ul>
+            </li>
+          
+        
+          
+            <li><a href="/posts/">Posts</a></li>
+          
+        
+          
+            <li><a href="https://pryv.github.io/">Developers</a></li>
+          
+        
+          
+            <li><a href="/about-pryv/">About Pryv</a></li>
+          
+        
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+  <div class="site-content">
+    
+<article class="single-article">
+  <header>
+    
+      <p class="entry-meta">
+        By Evelina on 
+        July 28, 2020
+         &middot; 3 minutes
+      </p>
+    
+    <h1 class="entry-title">Are developers the new lawyers to be?  Embedding privacy into software apps</h1>
+  </header>
+
+  
+    <div class="featured-image">
+      <img src="/img/articles/christian-erfurt-sxQz2VfoFBE-unsplash-scaled.jpg" alt="Are developers the new lawyers to be?  Embedding privacy into software apps">
+    </div>
+  
+
+  <div class="entry-content">
+    
+<p><strong>Embedding privacy into software apps.</strong></p>
+<p>Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications. But ask a thousand people to define what privacy is and you’ll get a thousand different answers.</p>
+<p>For some, privacy is nothing more than secrecy. For others, it is everything related to their lives. Yet somehow, we expect developers to know what<a href="/posts/10-facts-developers-should-know-when-developing-personal-data-collecting-apps/"> the “right” answer is for everyone. Arguing that all they have to do is to “respect users’ privacy” when developing personal data collecting apps.</a> But how exactly? This is the part that we never talk about: how privacy should effectively be embedded into existing and forthcoming designs.</p>
+<p><b>Hacking the privacy principles: turning legal requirements into 1s and 0s</b></p>
+<p>If it is easy to say that developers should respect users’ privacy, hardcoding these principles into software systems is certainly not. Still, that is precisely what is expected from them, as the <a href="/posts/gdpr-swiss-dpa-e-privacy/">GDPR provides numerous privacy principles for developers to implement.</a> What it does not provide though, is a clear guidance on how these principles should be implemented.</p>
+<p>As a result, we observe that GDPR concepts like “data minimisation” are still a blur for lots of people. Indeed, according to the regulation, “Personal data shall be: adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’)”. But what is adequate and relevant to someone might be interpreted in many different ways. So how can developers know that they have it right?</p>
+<p>Mostly, they don’t. In their study <a href="https://arxiv.org/ftp/arxiv/papers/1805/1805.09485.pdf"><i>Why developers cannot embed privacy into software systems – an empirical investigation</i></a>, researchers Senarath and Arachchilage specifically recognize this fact as one of the main problems developers face when attempting to embed privacy into their designs: they simply don’t know how to verify that they’ve done it right.</p>
+<p>Now if they would go deeper into the GDPR, developers would know that: “appropriate technical and organisational measures, such as pseudonymisation […] are designed to implement data-protection principles, such as data minimisation” (art. 25 § 1 GDPR). The thing is: do you know many developers who actually have read the 88 pages of the GDPR? Certainly not. And even if they did, would they be able to keep track of all the data protection principles that it refers to and understand how to interpret them?</p>
+<p>We don’t expect lawyers to be able to implement technical solutions. So why expecting developers to be able to understand and navigate the law?</p>
+<p><b>Minding the gap between tech and privacy experts: a collaborative approach</b></p>
+<p>Clearly, this situation requires a collaboration between all these different subject-matter experts – lawyers and developers – so that they can build digital solutions that are both legally rightful and technically feasible.</p>
+<p>At Pryv, we understand the burning need for such solutions, which is why we provide any developers with <a href="/posts/data-lifecyle-management/">a ready-to-use software foundation on which they can build their own personal data collecting apps.</a> Call it GDPR, CCPA, PIPEDA or any other existing of forthcoming regulation that regulates privacy and individuals’ rights, our software was built to help developers address the complexity of such privacy-by-design legal requirements and meet business constraints such as short-term deadlines and restricted resources.</p>
+<p><b>Expectations can equal Reality</b></p>
+<p>Today, we have set-up high expectations to have everything available on a click away. While it is easy to blame why privacy is not respected, it is yet difficult to challenge the reality of the situation…</p>
+<p>So really? Are developers lawyers to be? Might be not, as solutions are there to help: </p>
+<p>Check out our work at Pryv: embedding privacy into software apps 👇</p>
+<p>Now available for free in open source: <a href="https://github.com/pryv/open-pryv.io">[github-link].</a></p>
+<p><a href="/">https://pryv.github.io/www</a></p>
+<p>Stephanie &amp; Evelina @ Pryv</p>
+<p>Sources:</p>
+<ul>
+<li style="font-weight: 400;"><a href="https://arxiv.org/ftp/arxiv/papers/1805/1805.09485.pdf">https://arxiv.org/ftp/arxiv/papers/1805/1805.09485.pdf</a></li>
+<li style="font-weight: 400;"><a href="https://eur-lex.europa.eu/eli/reg/2016/679/oj">https://eur-lex.europa.eu/eli/reg/2016/679/oj</a></li>
+</ul>
+
+  </div>
+
+  
+    <div class="tag-list">
+      
+        <a href="/tags/datacompliance/">Datacompliance</a>
+      
+        <a href="/tags/dataprivacy/">Dataprivacy</a>
+      
+        <a href="/tags/dataprotection/">Dataprotection</a>
+      
+        <a href="/tags/softwaredevelopment/">Softwaredevelopment</a>
+      
+    </div>
+  
+</article>
+
+  </div>
+
+  <footer class="site-footer">
+  <div class="container footer-inner">
+    <div>&copy; 2012-2026 Pryv</div>
+    <div class="footer-links">
+      <a href="/privacy-policy/">Privacy Policy</a>
+      <a href="/terms-of-use/">Terms of Use</a>
+    </div>
+    <div class="footer-social">
+      <a href="https://www.linkedin.com/company/pryv/" target="_blank" rel="noopener"><img src="/img/linkedin-logo@3x.svg" alt="LinkedIn"></a>
+      <a href="https://x.com/pryv" target="_blank" rel="noopener"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+    </div>
+  </div>
+</footer>
+
+
+  <script>
+    document.querySelector('.nav-toggle')?.addEventListener('click', function() {
+      document.querySelector('.main-nav').classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

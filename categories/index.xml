@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pryv</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2023 10:49:20 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pryv-Updates</title>
+      <link>/categories/pryv-updates/</link>
+      <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
+      <guid>/categories/pryv-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Topnews</title>
+      <link>/categories/topnews/</link>
+      <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
+      <guid>/categories/topnews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncategorized</title>
+      <link>/categories/uncategorized/</link>
+      <pubDate>Thu, 09 Mar 2023 10:46:50 +0000</pubDate>
+      <guid>/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partnership</title>
+      <link>/categories/partnership/</link>
+      <pubDate>Fri, 01 Apr 2022 04:23:15 +0000</pubDate>
+      <guid>/categories/partnership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Press-Book</title>
+      <link>/categories/press-book/</link>
+      <pubDate>Tue, 28 Sep 2021 07:52:06 +0000</pubDate>
+      <guid>/categories/press-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market-Trends</title>
+      <link>/categories/market-trends/</link>
+      <pubDate>Tue, 23 Feb 2021 08:14:42 +0000</pubDate>
+      <guid>/categories/market-trends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications-and-White-Papers</title>
+      <link>/categories/publications-and-white-papers/</link>
+      <pubDate>Sun, 29 Nov 2020 00:28:40 +0000</pubDate>
+      <guid>/categories/publications-and-white-papers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How-to-Use-Pryv</title>
+      <link>/categories/how-to-use-pryv/</link>
+      <pubDate>Wed, 07 Aug 2019 13:29:59 +0000</pubDate>
+      <guid>/categories/how-to-use-pryv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>/categories/events/</link>
+      <pubDate>Tue, 06 Feb 2018 11:07:59 +0000</pubDate>
+      <guid>/categories/events/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>This-Is-My-Pryv</title>
+      <link>/categories/this-is-my-pryv/</link>
+      <pubDate>Wed, 09 Jul 2014 07:26:40 +0000</pubDate>
+      <guid>/categories/this-is-my-pryv/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

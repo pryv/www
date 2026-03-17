@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darkpatterns on Pryv</title>
+    <link>/tags/darkpatterns/</link>
+    <description>Recent content in Darkpatterns on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2020 20:09:49 +0000</lastBuildDate>
+    <atom:link href="/tags/darkpatterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>50 Shades of “Dark Patterns” to deceive privacy regulations</title>
+      <link>/posts/50-shades-of-dark-patterns-to-deceive-privacy-regulations/</link>
+      <pubDate>Mon, 03 Aug 2020 17:49:29 +0000</pubDate>
+      <guid>/posts/50-shades-of-dark-patterns-to-deceive-privacy-regulations/</guid>
+      <description>&lt;h4&gt;&lt;b&gt;Dark Patterns in Action: Privacy-by-design or Deceived-by-design?&lt;/b&gt;&lt;/h4&gt;&#xA;&lt;h3&gt;&lt;b&gt;Enlightenment in Delusion&lt;/b&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The trust in the Internet has been lost. Yet we use technology more than ever before. Every single day, millions of applications are being downloaded and fed by personal data. Whoever knows what it is being used for. We have been promised to be protected. We have heard “privacy-by-design” many times now, but have we understood it? Probably we did not. As we are still being deceived-by-design by many applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

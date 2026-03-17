@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mdr on Pryv</title>
+    <link>/tags/mdr/</link>
+    <description>Recent content in Mdr on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 13:14:06 +0000</lastBuildDate>
+    <atom:link href="/tags/mdr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build38 and Pryv Team Up to Simplify Mobile Security and Privacy for Digital Health Companies</title>
+      <link>/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</link>
+      <pubDate>Tue, 05 May 2020 07:07:16 +0000</pubDate>
+      <guid>/posts/build38-and-pryv-team-up-to-simplify-mobile-security-and-privacy-for-digital-health-companies/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Lausanne/Switzerland, Munich/Germany 5th May, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and Build38 GmbH, the global provider of mobile application protection solutions, announced a strategic collaboration to address the growing demand for security and privacy compliance for the Digital Health and InsurTech Industry. &lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Security with app hardening and privacy-by-design backend are a top priority for &lt;/strong&gt;&lt;strong&gt;Digital Health Providers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fraud, privacy violations, cyberattacks, unauthorized data collection, outlaw processing, and hacking of connected medical devices and mobile applications are just a few of the threats arising from the digitalization of the healthcare industry. A hack, that can be disastrous for individuals, is just as harmful for businesses, who will face regulatory fines and damage to their reputation. Such threats can be minimized by implementing adequate privacy and security measures right from the very start. Protecting digital channels is invaluable on many levels, saves lives and prevents significant financial losses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get your MDR compliance done right: explained in a less than 5 minutes read</title>
+      <link>/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</link>
+      <pubDate>Tue, 25 Feb 2020 09:18:11 +0000</pubDate>
+      <guid>/posts/get-your-mdr-compliance-done-right-explained-in-3-minutes/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Update May 2020: In regards to Covid-19, the European Parliament adopted the European Commission proposal, allowing the application of the Medical Devices Regulation to be postponed by one year until 26 May 2021&lt;/i&gt;&lt;/p&gt;&#xA;&#xA;&lt;p&gt;&lt;i&gt;In May 2021, all companies providing healthcare solutions recognized as “medical devices” under the new EU “Medical Devices Regulation” (MDR) will have to comply with newer, stricter requirements, for which they may not be prepared.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;A number of discussions around MDR and how it might affect our customers and digital health innovators inspired us to write this article: summarizing the “must-knows” of MDR for those of you who are still in doubt about the Regulation, or will have to face it in the future. We hope it will help you get confidence on where to get started, and provide you with the keys to get your MDR compliance done right in a simple yet effective way.&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

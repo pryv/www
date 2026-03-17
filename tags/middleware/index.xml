@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Middleware on Pryv</title>
+    <link>/tags/middleware/</link>
+    <description>Recent content in Middleware on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2020 11:13:01 +0000</lastBuildDate>
+    <atom:link href="/tags/middleware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing trust requires rethinking consent</title>
+      <link>/posts/consent/</link>
+      <pubDate>Thu, 23 Jan 2020 19:43:37 +0000</pubDate>
+      <guid>/posts/consent/</guid>
+      <description>&lt;p style=&#34;text-align: left;&#34;&gt;Another year yet we still hear and read about this same new year’s business resolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h4 style=&#34;text-align: left;&#34;&gt;“2020: Make trust first priority…”&lt;/h4&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p style=&#34;text-align: left;&#34;&gt;So what? Enough with words, actions need to be taken.&lt;/p&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;&lt;b&gt;The loss of trust.&lt;/b&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today, if you’re in the business of collecting sensitive personal data, building trust with your customers is essential for growing your business.&lt;/p&gt;&#xA;&lt;p&gt;For many years now, users have been misguided and left in the dark regarding the processing of their own personal data. As a result, they tend to be more reluctant when it comes to sharing confidential information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pryv introduces Riva Digital oBPM Blood Pressure Monitoring App</title>
+      <link>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</link>
+      <pubDate>Sun, 26 Aug 2018 07:11:14 +0000</pubDate>
+      <guid>/posts/meet-rivadigital-obpm-blood-pressure-monitoring-app/</guid>
+      <description>&lt;p&gt;&lt;span id=&#34;ember6981&#34; class=&#34;ember-view&#34;&gt;Hypertension (High BloodPressure) is the #1 most spread disease in Switzerland- 1 in 5 Swiss is affected.&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;“High BloodPressure is a silent killer, it doesn’t hurt and you do not feel it, until it is too late” says Dr. Thomas Guggi, Project and Technical Lead at &lt;a href=&#34;https://www.rivadigital.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riva Digital&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;a id=&#34;ember6985&#34; class=&#34;tap-target feed-shared-text-view__mention ember-view&#34; href=&#34;/&#34;&gt;&lt;span data-entity-hovercard-id=&#34;urn:li:fs_miniCompany:2981970&#34;&gt;Pryv&lt;/span&gt;&lt;/a&gt;, we are&lt;span id=&#34;ember6989&#34; class=&#34;ember-view&#34;&gt; honoured to support Riva Digital initiative at its mission to increase the health literacy of the Swiss society by providing a solid data management foundation to enable data collection, structure, storage and sharing.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

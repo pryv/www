@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hds on Pryv</title>
+    <link>/tags/hds/</link>
+    <description>Recent content in Hds on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 21:03:28 +0000</lastBuildDate>
+    <atom:link href="/tags/hds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euris Health Cloud &amp; Pryv: GDPR compliance and HDS compliance</title>
+      <link>/posts/euris-and-pryv-simplify-personal-data-management-a-ready-to-use-solution-to-meet-gdpr-and-health-data-hosting-requirements/</link>
+      <pubDate>Wed, 01 Jul 2020 19:28:28 +0000</pubDate>
+      <guid>/posts/euris-and-pryv-simplify-personal-data-management-a-ready-to-use-solution-to-meet-gdpr-and-health-data-hosting-requirements/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Lausanne, Switzerland – Paris, France, July 2nd, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and the leading connected health operator in France, Euris Health Cloud®, announced a strategic partnership for delivering a ready-to-be used solution for rightfully managing and securely storing personal health data.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A ready-to-use data management solution to achieve GDPR compliance and meet health data hosting &lt;/strong&gt;&lt;strong&gt;requirements. &lt;/strong&gt;&lt;br&gt;&#xA;Companies willing to collect and use personal health data can now benefit from a complete, ready-to-use, and scalable solution, offered by Euris Health Cloud® (health data hosting) and Pryv (personal data and privacy compliance middleware). In Europe, the solution combines a certified HDS (*) hosting offer for security and a personal healthcare data management service for privacy, allowing e-health actors to rigorously manage personal health data and quickly create applications that respect the rights of the patient at an attractive cost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pourquoi la Certification HDS ne garantit pas votre conformité au RGPD?</title>
+      <link>/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</link>
+      <pubDate>Sun, 13 Oct 2019 19:54:32 +0000</pubDate>
+      <guid>/posts/pourquoi-la-certification-hds-ne-garantit-pas-votre-conformite-au-rgpd/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Contrairement à ce que des entreprises peuvent croire, la Certification HDS de leur hébergeur n’implique en aucun cas leur conformité au RGPD. Tout ce que cela leur indique, c’est que leur hébergeur offre des garanties suffisantes en matière de protection des données.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;La confusion vient du fait que, malgré tout, faire appel à un sous-traitant certifié HDS pourra souvent aider le Responsable du traitement à se conformer au RGPD… Qu’en est-il donc ?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

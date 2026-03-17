@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clincial-Trials on Pryv</title>
+    <link>/tags/clincial-trials/</link>
+    <description>Recent content in Clincial-Trials on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 09:29:25 +0000</lastBuildDate>
+    <atom:link href="/tags/clincial-trials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy and eConsent Management for Remote Clinical Trials</title>
+      <link>/posts/econsent-management-for-remote-and-decentralized-clinical-trials/</link>
+      <pubDate>Thu, 04 Jun 2020 13:11:58 +0000</pubDate>
+      <guid>/posts/econsent-management-for-remote-and-decentralized-clinical-trials/</guid>
+      <description>&lt;h3&gt;&lt;b&gt;Urgent search to integrate eConsent and provide virtual tools for clinical trial use.&lt;/b&gt;&lt;/h3&gt;&#xA;&lt;p&gt;If traditional clinical trials were already on the spot for a digital upgrade, the pandemic/lockdown situation made it now a top priority for the global healthcare industry. Especially, if researchers want to pursue their studies while keeping participants safe at home, they have to go digital and adopt eConsent.&lt;/p&gt;&#xA;&lt;p&gt;Yet, what can be easily done when meeting in real life can be difficult to achieve technically. This is especially true for consent. &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

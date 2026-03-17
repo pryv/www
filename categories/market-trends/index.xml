@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market-Trends on Pryv</title>
+    <link>/categories/market-trends/</link>
+    <description>Recent content in Market-Trends on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2021 08:17:13 +0000</lastBuildDate>
+    <atom:link href="/categories/market-trends/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Privacy-Preserving Smart Cities: Myth or Reality?</title>
+      <link>/posts/building-privacy-preserving-smart-cities-myth-or-reality/</link>
+      <pubDate>Tue, 23 Feb 2021 08:14:42 +0000</pubDate>
+      <guid>/posts/building-privacy-preserving-smart-cities-myth-or-reality/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Building Privacy-Preserving Smart Cities: Myth or Reality?&lt;/b&gt;&lt;/p&gt;&#xA;&lt;p&gt;From traffic congestion reduction to utility consumption improvement, care services optimization, new environmental and circular economy perspective, smart cities promise to enhance our lives in almost any aspects. Who hasn’t dreamt of such a utopia?&lt;/p&gt;&#xA;&lt;p&gt;For every improvement in the city, though, there are significant risks for privacy that if neglected could lead to very damaging results for us all, if not the ultimate rise of surveillance capitalism, turning utopian intentions into dystopian catastrophe. In this context, solving the underlying privacy issue has become a must-have priority for anyone involved in smart city developments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GDPR, Swiss DPA &amp; ePrivacy – what Swiss companies should know</title>
+      <link>/posts/gdpr-swiss-dpa-e-privacy/</link>
+      <pubDate>Sun, 29 Nov 2020 00:28:40 +0000</pubDate>
+      <guid>/posts/gdpr-swiss-dpa-e-privacy/</guid>
+      <description>&lt;p&gt;&lt;i&gt;SwissDPA, GDPR, ePrivacy and more…&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;As experts of data privacy, at Pryv, we continuously invest our best efforts to deeply investigate how data protection regulations might affect your company and what you should keep in mind when dealing with sensitive personal data.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;While the GDPR has already started to collect its fees from non-compliant companies, the European Union keeps tightening up its digital market standards, and third countries like Switzerland might be left with no choice but to adapt if they want to keep exchanging data with Europe. So where do you stand in the middle of all these regulations?&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy and Health Regulation updates during Covid-19: Must-know updates</title>
+      <link>/posts/privacy-and-health-regulation-updates-during-covid-19-must-know-updates/</link>
+      <pubDate>Mon, 20 Apr 2020 21:38:59 +0000</pubDate>
+      <guid>/posts/privacy-and-health-regulation-updates-during-covid-19-must-know-updates/</guid>
+      <description>&lt;p&gt;&lt;i&gt;The Covid-19 pandemic affected ordinary life in an extraordinary way. Not only it impacted our health, our lifestyle, our economy, but also regulations enforcement. If the governments are still striking to find the right balance between fighting the pandemic and addressing privacy issues, they recognize the urgent need to adapt and are already starting to give updates on existing and forthcoming regulations. Here are the essentials you need to know to navigate the changes (at least for now, we’ll keep you posted!) within regards to managing personal and health data.&lt;/i&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Protecting Patient Information In The Age Of Breached</title>
+      <link>/posts/protecting-patient-information-in-the-age-of-breached/</link>
+      <pubDate>Thu, 26 Jan 2017 09:29:53 +0000</pubDate>
+      <guid>/posts/protecting-patient-information-in-the-age-of-breached/</guid>
+      <description>&lt;p&gt;“Over 1,000 health care organizations have experience data breaches in recent years, causing massive exposure of protected health data. Health care has become a lucrative target for attackers. Learn about the cost of data breaches, how patient data can be compromised and how to reduce risks to patient data…”&lt;/p&gt;&#xA;&lt;p&gt;Source: http://healthinformatics.uic.edu/&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;%e2%80%99http_/healthinformatics.uic.html&#34;&gt;UIC’s Online Health Informatics Degree&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

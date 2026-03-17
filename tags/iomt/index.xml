@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iomt on Pryv</title>
+    <link>/tags/iomt/</link>
+    <description>Recent content in Iomt on Pryv</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Oct 2021 14:21:30 +0000</lastBuildDate>
+    <atom:link href="/tags/iomt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pryv Unleashes IoT Connectivity with High Throughput Data Ingestion</title>
+      <link>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</link>
+      <pubDate>Thu, 22 Mar 2018 13:01:46 +0000</pubDate>
+      <guid>/posts/pryv-unleashes-iot-connectivity-with-high-throughput-data-ingestion/</guid>
+      <description>&lt;p&gt;Lausanne, 20 March 2018 – Pryv, the leading provider of privacy and personal data management solutions, announced today &lt;a href=&#34;http://pryv.io/&#34;&gt;Pryv.io&lt;/a&gt; High Frequency, a new software release capable of ingesting high-throughput IoT data at scale and with optimal storage density. The new release addresses growing customer demand for mission-critical healthcare services with many devices connected. &lt;/p&gt;&#xA;&lt;p&gt;“One of the key challenges of IoT data streams is to handle high volumes of data with fast connectivity without compromising on security.” says Stephan Bachofen, VP Software at Biovotion AG. “Pryv’s high throughput data ingestion will allow medical trackers to cope with future large volumes of telemetry data overcoming surges with guaranteed low-latency at affordable costs.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
