@@ -3,64 +3,89 @@
   .hero {
     display: flex;
     align-items: center;
-    gap: 40px;
-    padding: 60px 0;
+    gap: 64px;
+    padding: 80px 0 100px;
   }
   .hero-image {
     flex: 1;
-    max-width: 50%;
+    max-width: 48%;
   }
   .hero-image img {
     width: 100%;
+    animation: fadeUp 0.7s var(--pryv-ease) both;
   }
   .hero-text {
     flex: 1;
+    animation: fadeUp 0.7s var(--pryv-ease) 0.15s both;
   }
   .hero-text h1 {
-    font-size: 2.2em;
-    line-height: 1.15;
-    margin: 0 0 16px;
+    font-size: 2.8em;
+    line-height: 1.1;
+    margin: 0 0 24px;
+    letter-spacing: -0.03em;
   }
   .hero-text h1 .red {
     color: var(--pryv-red);
   }
-  .hero-text p {
-    font-size: 1.1em;
-    line-height: 1.6;
-    color: var(--pryv-text-body);
-    margin-bottom: 16px;
-  }
-  .hero-text .btn {
-    display: inline-block;
-    padding: 12px 32px;
-    border: 2px solid var(--pryv-cyan);
-    color: var(--pryv-cyan);
+  .hero-text .hero-lead {
+    font-size: 1.15em;
     font-weight: var(--pryv-fw-medium);
-    font-size: 16px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    transition: all 0.2s;
+    line-height: 1.5;
+    color: var(--pryv-text-dark);
+    margin-bottom: 12px;
   }
-  .hero-text .btn:hover {
-    background: var(--pryv-cyan);
-    color: white;
-    text-decoration: none;
+  .hero-text p {
+    font-size: 1.05em;
+    line-height: 1.65;
+    color: var(--pryv-text-body);
+    margin-bottom: 12px;
+  }
+  .hero-actions {
+    display: flex;
+    gap: 16px;
+    margin-top: 32px;
   }
   .banner {
-    background: var(--pryv-bg-card);
-    padding: 40px 0;
+    background: var(--pryv-bg-light);
+    padding: 56px 0;
     text-align: center;
     border-top: 3px solid var(--pryv-red);
+    animation: fadeUp 0.6s var(--pryv-ease) 0.3s both;
   }
   .banner h2 {
-    font-size: 1.5em;
-    font-weight: var(--pryv-fw-bold);
-    max-width: 800px;
+    font-size: 1.4em;
+    font-weight: var(--pryv-fw-semibold);
+    max-width: 780px;
     margin: 0 auto;
+    line-height: 1.45;
+    color: var(--pryv-text-dark);
+  }
+  .section-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  .section-header h2 {
+    margin: 0;
+  }
+  .section-header a {
+    font-size: 15px;
+    font-weight: var(--pryv-fw-medium);
+    color: var(--pryv-text-meta);
+    transition: color var(--pryv-duration) var(--pryv-ease);
+  }
+  .section-header a:hover {
+    color: var(--pryv-red);
+  }
+  .latest-posts {
+    padding: var(--pryv-space-2xl) 0;
   }
   @media (max-width: 768px) {
-    .hero { flex-direction: column; padding: 30px 0; }
+    .hero { flex-direction: column; padding: 40px 0 60px; gap: 40px; }
     .hero-image { max-width: 100%; }
+    .hero-text h1 { font-size: 2em; }
+    .hero-actions { flex-direction: column; }
   }
 </style>
 {{ end }}
@@ -73,10 +98,13 @@
     </div>
     <div class="hero-text">
       <h1>Open-Source Swiss-made <span class="red">Personal Data &amp; Privacy</span> Management Software</h1>
-      <p><strong>A ready-to-use middleware for personal data and consent management</strong></p>
+      <p class="hero-lead">A ready-to-use middleware for personal data and consent management</p>
       <p>Pryv.io is a solid foundation on which you build your own digital solution, so you can collect, store, share and rightfully use personal data.</p>
       <p>It comes with must-have consent and auditing tools to keep you compliant with existing and forthcoming regulations.</p>
-      <a class="btn" href="{{ "open-pryv/" | relURL }}">Read More</a>
+      <div class="hero-actions">
+        <a class="btn-outline" href="{{ "open-pryv/" | relURL }}">Learn More &rarr;</a>
+        <a class="btn-primary" href="https://pryv.github.io/">Developers</a>
+      </div>
     </div>
   </section>
 </div>
@@ -88,15 +116,15 @@
 </div>
 
 <div class="container">
-  <section id="markets" style="margin: 60px 0;">
-    <h2>Latest Posts</h2>
+  <section class="latest-posts">
+    <div class="section-header">
+      <h2>Latest Posts</h2>
+      <a href="{{ "posts/" | relURL }}">View all &rarr;</a>
+    </div>
     <div class="post-list">
       {{ range (first 6 (where .Site.RegularPages "Section" "posts")) }}
         {{ partial "post-card.html" . }}
       {{ end }}
-    </div>
-    <div style="text-align: center; margin: 30px 0;">
-      <a href="{{ "posts/" | relURL }}" style="padding: 12px 24px; background: var(--pryv-red); color: white; border-radius: 4px; font-weight: 500; display: inline-block;">All Posts</a>
     </div>
   </section>
 </div>
