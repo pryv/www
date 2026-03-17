@@ -4,20 +4,25 @@ Corporate website for [Pryv](https://pryv.github.io/) — Open-Source Swiss-made
 
 Built with [Hugo](https://gohugo.io/).
 
-## Quick Start
+## Setup
 
 ```bash
 # Install Hugo (macOS)
 brew install hugo
 
+# Clone the gh-pages branch into dist/ for publishing
+./scripts/setup.sh
+```
+
+## Quick Start
+
+```bash
 # Dev server
 hugo server -D
 
-# Build
+# Build (outputs to dist/)
 hugo
 ```
-
-The site builds to `dist/`.
 
 ## Structure
 
@@ -42,6 +47,8 @@ The site builds to `dist/`.
 │   └── static/css/
 │       ├── style.css              # Main stylesheet
 │       └── pryv-design-tokens.css # Shared design tokens (colors, fonts)
+├── scripts/
+│   └── setup.sh           # Sets up dist/ folder for gh-pages publishing
 ├── layouts/               # Layout overrides (pagination, categories)
 ├── static/
 │   ├── img/               # Images (logos, article images, favicons)
@@ -55,7 +62,23 @@ The site builds to `dist/`.
 
 ## Deployment
 
-The site is configured to publish to `dist/` via GitHub Pages. Push to `master` triggers a build.
+The site publishes to GitHub Pages via the `gh-pages` branch.
+
+```bash
+# First time: set up the dist/ folder
+./scripts/setup.sh
+
+# Build the site
+hugo
+
+# Publish: commit and push inside dist/
+cd dist
+git add -A
+git commit -m "Update site"
+git push origin gh-pages
+```
+
+The `dist/` directory is a separate git clone of the `gh-pages` branch (set up by `scripts/setup.sh`). Hugo builds into it, then you commit and push from there.
 
 ## Content
 
