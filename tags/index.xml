@@ -6,48 +6,55 @@
     <description>Recent content in Tags on Pryv</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="/www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consent</title>
       <link>/www/tags/consent/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/consent/</guid>
       <description></description>
     </item>
     <item>
       <title>Ehealth</title>
       <link>/www/tags/ehealth/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/ehealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Mhealth</title>
       <link>/www/tags/mhealth/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/mhealth/</guid>
       <description></description>
     </item>
     <item>
       <title>Opensource</title>
       <link>/www/tags/opensource/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/opensource/</guid>
       <description></description>
     </item>
     <item>
       <title>Personaldata</title>
       <link>/www/tags/personaldata/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/personaldata/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
       <link>/www/tags/privacy/</link>
-      <pubDate>Tue, 17 Mar 2026 10:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dataprivacy</title>
+      <link>/www/tags/dataprivacy/</link>
+      <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>/www/tags/dataprivacy/</guid>
       <description></description>
     </item>
     <item>
@@ -265,13 +272,6 @@
       <link>/www/tags/dataanalytics/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
       <guid>/www/tags/dataanalytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataprivacy</title>
-      <link>/www/tags/dataprivacy/</link>
-      <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
-      <guid>/www/tags/dataprivacy/</guid>
       <description></description>
     </item>
     <item>
