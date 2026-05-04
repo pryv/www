@@ -1,6 +1,6 @@
 # Pryv Website
 
-Corporate website for [Pryv](https://pryv.github.io/) — Open-Source Swiss-made Personal Data & Privacy Management Software.
+Corporate website for [Pryv](https://pryv.github.io/www) — Open-Source Swiss-made Personal Data & Privacy Management Software.
 
 Built with [Hugo](https://gohugo.io/).
 
