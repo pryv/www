@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/www/posts/</loc>
-    <lastmod>2026-05-19T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/www/</loc>
-    <lastmod>2026-05-19T10:00:00+00:00</lastmod>
+    <loc>/www/categories/blog/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
   </url><url>
     <loc>/www/categories/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
   </url><url>
     <loc>/www/tags/consent/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/posts/cross-account-messaging-and-consent-at-pryv-io/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/dataprivacy/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/features/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/personaldata/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/posts/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/categories/pryv-updates/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/tags/</loc>
+    <lastmod>2026-05-19T07:30:00+00:00</lastmod>
   </url><url>
     <loc>/www/tags/ehealth/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
@@ -29,23 +50,11 @@
     <loc>/www/categories/partnership/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>/www/tags/personaldata/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>/www/tags/privacy/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/www/categories/pryv-updates/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/www/categories/topnews/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/dataprivacy/</loc>
-    <lastmod>2025-04-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/www/posts/pryv-io-recognized-as-digital-public-good/</loc>
     <lastmod>2025-04-01T10:00:00+00:00</lastmod>
@@ -68,9 +77,6 @@
     <loc>/www/integrators/</loc>
     <lastmod>2022-07-18T06:57:43+00:00</lastmod>
   </url><url>
-    <loc>/www/categories/blog/</loc>
-    <lastmod>2022-07-18T06:59:40+00:00</lastmod>
-  </url><url>
     <loc>/www/tags/digitaethics/</loc>
     <lastmod>2022-05-06T07:28:57+00:00</lastmod>
   </url><url>
@@ -85,9 +91,6 @@
   </url><url>
     <loc>/www/posts/in-cooperation-with-the-team-of-pryv-sa-open-web-technology-launches-its-data-privacy-excellence-practice-to-design-digital-solutions-ensuring-personal/</loc>
     <lastmod>2022-07-18T06:59:40+00:00</lastmod>
-  </url><url>
-    <loc>/www/tags/features/</loc>
-    <lastmod>2022-01-19T15:43:18+00:00</lastmod>
   </url><url>
     <loc>/www/posts/pryv-personal-data-mapping-enables-automatic-integration-with-existing-warehouses-bridging-the-gap-for-privacy-compliance-and-managing-data-subject-requests-on-personal-data-access-and-proce/</loc>
     <lastmod>2022-01-19T15:43:18+00:00</lastmod>

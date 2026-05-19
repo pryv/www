@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Pryv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:30:00 +0000</lastBuildDate>
     <atom:link href="/www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consent</title>
       <link>/www/tags/consent/</link>
-      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0000</pubDate>
       <guid>/www/tags/consent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dataprivacy</title>
+      <link>/www/tags/dataprivacy/</link>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0000</pubDate>
+      <guid>/www/tags/dataprivacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>/www/tags/features/</link>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0000</pubDate>
+      <guid>/www/tags/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personaldata</title>
+      <link>/www/tags/personaldata/</link>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0000</pubDate>
+      <guid>/www/tags/personaldata/</guid>
       <description></description>
     </item>
     <item>
@@ -37,24 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Personaldata</title>
-      <link>/www/tags/personaldata/</link>
-      <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
-      <guid>/www/tags/personaldata/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Privacy</title>
       <link>/www/tags/privacy/</link>
       <pubDate>Wed, 05 Nov 2025 10:00:00 +0000</pubDate>
       <guid>/www/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataprivacy</title>
-      <link>/www/tags/dataprivacy/</link>
-      <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
-      <guid>/www/tags/dataprivacy/</guid>
       <description></description>
     </item>
     <item>
@@ -76,13 +83,6 @@
       <link>/www/tags/security/</link>
       <pubDate>Fri, 06 May 2022 07:27:38 +0000</pubDate>
       <guid>/www/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Features</title>
-      <link>/www/tags/features/</link>
-      <pubDate>Wed, 19 Jan 2022 14:41:12 +0000</pubDate>
-      <guid>/www/tags/features/</guid>
       <description></description>
     </item>
     <item>

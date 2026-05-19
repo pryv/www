@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Pryv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 06:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:30:00 +0000</lastBuildDate>
     <atom:link href="/www/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-account Messaging &amp; Consent at Pryv.io: when consent flows between people, not just between apps and users</title>
+      <link>/www/posts/cross-account-messaging-and-consent-at-pryv-io/</link>
+      <pubDate>Tue, 19 May 2026 07:30:00 +0000</pubDate>
+      <guid>/www/posts/cross-account-messaging-and-consent-at-pryv-io/</guid>
+      <description>Pryv.io now makes two end-user accounts able to share data, message each other, and send system-level alerts — directly, in a federated way, with the consent of both parties built into the protocol.&#xA;Personal data only becomes meaningful when it crosses a boundary. A patient sharing readings with a doctor. A study participant sending observations to a research collector. A care recipient letting a family member peek at the latest measurements.</description>
+    </item>
     <item>
       <title>Evelina Georgieva, Pryv: &#34;investing in data privacy is not only about fulfilling a requirement to achieve compliance&#34;</title>
       <link>/www/posts/evelina-georgieva-pryv-investing-in-data-privacy-is-not-only-about-fulfilling-a-requirement-to-achieve-compliance/</link>
