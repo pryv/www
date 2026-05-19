@@ -1,0 +1,72 @@
+---
+title: "Cross-account Messaging & Consent at Pryv.io: when consent flows between people, not just between apps and users"
+date: "2026-05-19T10:00:00+00:00"
+description: "Pryv.io now ships with a built-in protocol for federated consent, chat and system notifications between two end-user accounts — across platforms, with no central registry."
+author: Evelina
+tags:
+  - features
+  - consent
+  - dataprivacy
+  - personaldata
+categories:
+  - pryv-updates
+  - blog
+readingTime: 4 minutes
+slug: cross-account-messaging-and-consent-at-pryv-io
+aliases:
+  - /www/2026/05/19/cross-account-messaging-and-consent-at-pryv-io/
+---
+
+<p><strong>Pryv.io now makes two end-user accounts able to share data, message each other, and send system-level alerts — directly, in a federated way, with the consent of both parties built into the protocol.</strong></p>
+
+<p><i>Personal data only becomes meaningful when it crosses a boundary. A patient sharing readings with a doctor. A study participant sending observations to a research collector. A care recipient letting a family member peek at the latest measurements. In every case, the question is the same: how do you get two people's accounts to talk to each other safely, without inventing a new auth dance, a shared identity provider, or a central registry that everyone has to trust?</i></p>
+
+<p><i>This is exactly the gap that Cross-account Messaging & Consent — CMC for short — closes on Pryv.io.</i></p>
+
+<h2><b>So what is CMC?</b></h2>
+
+<p>CMC is a built-in protocol that lets two Pryv.io accounts agree on a data-sharing relationship and then keep talking to each other — even when the two accounts live on different Pryv.io platforms operated by different organisations.</p>
+
+<p>It handles three things end-to-end:</p>
+
+<ul>
+  <li><b>The consent handshake.</b> One party invites the other; the other accepts (or refuses, or later revokes). At the end, both sides hold an access token to a precisely-scoped slice of the other's data, and an audit trail of every step is stored on both accounts.</li>
+  <li><b>Conversational messages.</b> A built-in chat channel travels between the same two accounts, so the data exchange comes with the context that makes the data useful — a clinician's note attached to a reading, a participant's question about a study protocol.</li>
+  <li><b>System notifications.</b> When something changes on one side — an access was narrowed, a relationship is being revoked, a permission needs re-confirmation — the other side is told automatically, on the same channel, with the same audit guarantees as the consent flow.</li>
+</ul>
+
+<h2><b>Why a dedicated protocol?</b></h2>
+
+<p>Most app-level consent flows assume one user and one app: the user clicks "Allow", the app gets a token. That model breaks the moment the recipient of the data is another person with their own account. Do you build a custom federation layer? Stand up a shared identity broker? Force both sides onto the same hosting? Every workaround pushes complexity (and trust) into the wrong place.</p>
+
+<p>CMC removes that pressure. The two parties' accounts authenticate the exchange themselves — the peer's existing Pryv.io API endpoint, with its existing access token, is the entire surface. No mutual TLS to set up, no shared certificate authority, no federation auth, no central registry. Each side is in full control of its own account, can revoke at any moment, and never has to extend trust beyond the specific relationship being established.</p>
+
+<h2><b>What does it look like in practice?</b></h2>
+
+<p>Picture a patient using a health-monitoring app on platform A and a clinician using a doctor-dashboard application on platform B. The patient initiates a sharing relationship from inside their app. CMC mints a one-shot capability link and embeds it in a consent-request event that's delivered to the clinician's account on the other platform — even though the two platforms are operated by different organisations and have never spoken to each other before.</p>
+
+<p>The clinician opens the link in their dashboard, reviews the scope being granted (which streams, which permissions, for how long), and accepts. CMC immediately creates two reciprocal accesses — one in each direction — and writes them into a small, structured area of each account dedicated to cross-account relationships. The patient sees a confirmation; the clinician can now read the consented data and send chat messages back; either side can revoke at any moment.</p>
+
+<p>And it all stays inside Pryv.io's existing model: events, streams, accesses. No new storage primitive, no separate service to deploy, no parallel auth system to maintain.</p>
+
+<h2><b>What you get out of the box</b></h2>
+
+<ul>
+  <li><b>Per-relationship audit history</b> on both accounts — every request, accept, refuse, scope change and revoke is a regular Pryv.io event you can query like any other.</li>
+  <li><b>Granular scoping</b> — sharing happens under a dedicated stream subtree per app and per counterparty, so an access token can be cleanly scoped to a single relationship or to all relationships within an app, with the same flexibility you already have for app-level accesses.</li>
+  <li><b>Server-stamped counterparty identity</b> on inbox writes — the recipient's account doesn't have to trust the sender's claim of who they are; the platform stamps it.</li>
+  <li><b>Automatic retry queue</b> for cross-platform deliveries, with exponential backoff — if the peer is briefly offline, the message keeps trying without any orchestration code on your side.</li>
+  <li><b>Auto-propagated scope updates</b> — if you change the permissions of a shared access, the peer is notified on the system channel, so the relationship's understanding of "what's shared" stays consistent on both sides.</li>
+</ul>
+
+<h2><b>For developers</b></h2>
+
+<p>CMC ships as part of Open-Pryv.io and is enabled by default on Pryv Lab. The JavaScript library exposes a dedicated <code>@pryv/cmc</code> package that wraps the protocol — invite, accept, refuse, send a chat, send a system alert, revoke a relationship — so your app talks to the building blocks at the level of intent, not at the level of stream-id strings.</p>
+
+<p>The full guide is on our developer site: <a href="https://pryv.github.io/guides/cross-account-messaging/" target="_blank" rel="noopener">Cross-account messaging (CMC) guide</a>. It walks through the handshake step by step with a worked example, lists the reserved streams and event types, and shows the lib-js helpers in action.</p>
+
+<h3><b>Want more?</b></h3>
+
+<p>CMC is the latest step in Pryv.io's continued effort to make personal-data flows reflect the real-world relationships behind them — not just the technical accident of which app happens to hold the access token at the moment. If your platform connects people, not just users and services, CMC is for you.</p>
+
+<p>Open-source, federation-friendly, audited end-to-end. The way consent between two people should work.</p>
