@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/www/posts/</loc>
+    <lastmod>2026-05-19T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/www/</loc>
+    <lastmod>2026-05-19T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>/www/categories/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
   </url><url>
@@ -26,13 +32,7 @@
     <loc>/www/tags/personaldata/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>/www/posts/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>/www/tags/privacy/</loc>
-    <lastmod>2025-11-05T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/www/</loc>
     <lastmod>2025-11-05T10:00:00+00:00</lastmod>
   </url><url>
     <loc>/www/categories/pryv-updates/</loc>

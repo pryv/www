@@ -4,7 +4,7 @@
     <title>Swissdpa on Pryv</title>
     <link>/www/tags/swissdpa/</link>
     <description>Recent content in Swissdpa on Pryv</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2020 12:08:08 +0000</lastBuildDate>
     <atom:link href="/www/tags/swissdpa/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>/www/posts/gdpr-swiss-dpa-e-privacy/</link>
       <pubDate>Sun, 29 Nov 2020 00:28:40 +0000</pubDate>
       <guid>/www/posts/gdpr-swiss-dpa-e-privacy/</guid>
-      <description>&lt;p&gt;&lt;i&gt;SwissDPA, GDPR, ePrivacy and more…&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;As experts of data privacy, at Pryv, we continuously invest our best efforts to deeply investigate how data protection regulations might affect your company and what you should keep in mind when dealing with sensitive personal data.&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i&gt;While the GDPR has already started to collect its fees from non-compliant companies, the European Union keeps tightening up its digital market standards, and third countries like Switzerland might be left with no choice but to adapt if they want to keep exchanging data with Europe. So where do you stand in the middle of all these regulations?&lt;/i&gt;&lt;/p&gt;</description>
+      <description>SwissDPA, GDPR, ePrivacy and more…&#xA;As experts of data privacy, at Pryv, we continuously invest our best efforts to deeply investigate how data protection regulations might affect your company and what you should keep in mind when dealing with sensitive personal data.&#xA;While the GDPR has already started to collect its fees from non-compliant companies, the European Union keeps tightening up its digital market standards, and third countries like Switzerland might be left with no choice but to adapt if they want to keep exchanging data with Europe.</description>
     </item>
   </channel>
 </rss>

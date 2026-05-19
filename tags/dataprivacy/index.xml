@@ -4,7 +4,7 @@
     <title>Dataprivacy on Pryv</title>
     <link>/www/tags/dataprivacy/</link>
     <description>Recent content in Dataprivacy on Pryv</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="/www/tags/dataprivacy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,28 @@
       <link>/www/posts/pryv-io-recognized-as-digital-public-good/</link>
       <pubDate>Tue, 01 Apr 2025 10:00:00 +0000</pubDate>
       <guid>/www/posts/pryv-io-recognized-as-digital-public-good/</guid>
-      <description>&lt;video autoplay loop muted playsinline style=&#34;width:100%; max-width:800px;&#34;&gt;&#xA;  &lt;source src=&#34;/www/img/articles/pryv-full-open-source-video.mp4&#34; type=&#34;video/mp4&#34;&gt;&#xA;&lt;/video&gt;&#xA;&#xA;&lt;p&gt;Pryv.io software is now fully open-sourced and recognized as a &lt;b&gt;Digital Public Good&lt;/b&gt; by the &lt;a href=&#34;https://www.digitalpublicgoods.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Digital Public Goods Alliance&lt;/a&gt;, a UN-endorsed initiative promoting open-source technologies that advance the Sustainable Development Goals.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Over the past decade, Pryv.io has evolved through collaborations with hospitals, pharmaceutical companies, medtech, biotech, and insurtech sectors, serving as a catalyst for patient-centric, data-driven healthcare solutions.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;With Pryv.io now fully open-source, we&#39;re not just sharing technology — we&#39;re sharing the values of privacy, trust, and empowerment. This journey is about more than healthcare; it&#39;s about building tools that respect individuals in every aspect of life, across industries and borders.&lt;/p&gt;</description>
+      <description>Pryv.io software is now fully open-sourced and recognized as a Digital Public Good by the Digital Public Goods Alliance, a UN-endorsed initiative promoting open-source technologies that advance the Sustainable Development Goals.&#xA;Over the past decade, Pryv.io has evolved through collaborations with hospitals, pharmaceutical companies, medtech, biotech, and insurtech sectors, serving as a catalyst for patient-centric, data-driven healthcare solutions.&#xA;With Pryv.io now fully open-source, we&#39;re not just sharing technology — we&#39;re sharing the values of privacy, trust, and empowerment.</description>
     </item>
     <item>
       <title>Open Banking: Mastering privacy &amp; consent  to unlock the personal data superpower</title>
       <link>/www/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</link>
       <pubDate>Tue, 15 Sep 2020 08:50:03 +0000</pubDate>
       <guid>/www/posts/open-banking-mastering-privacy-consent-to-unlock-the-personal-data-superpower/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Open banking: Whereas initially seen as a way to enable exchanges between financial institutions, it is now spreading faster and even beyond expectations.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;&lt;i&gt;Once upon a time &lt;/i&gt;&lt;/b&gt;&lt;i&gt;we&lt;/i&gt; &lt;i&gt;used to think of banking as private safes and white collars. Today, it is certainly one of the most promising areas for data-driven innovation. Each time a user pays online, it leaves behind a digital trail of information, allowing for infinite data-fueled possibilities. Yet just like banknotes, personal financial data needs to be kept safely. This means in this case: in compliance with the GDPR, Swiss DPA or any other relevant data protection regulation.&lt;/i&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;</description>
+      <description>Open banking: Whereas initially seen as a way to enable exchanges between financial institutions, it is now spreading faster and even beyond expectations.&#xA;Once upon a time we used to think of banking as private safes and white collars. Today, it is certainly one of the most promising areas for data-driven innovation. Each time a user pays online, it leaves behind a digital trail of information, allowing for infinite data-fueled possibilities.</description>
     </item>
     <item>
       <title>Are developers the new lawyers to be?  Embedding privacy into software apps</title>
       <link>/www/posts/embedding-privacy-into-software-applications/</link>
       <pubDate>Tue, 28 Jul 2020 07:57:17 +0000</pubDate>
       <guid>/www/posts/embedding-privacy-into-software-applications/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Embedding privacy into software apps.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications. But ask a thousand people to define what privacy is and you’ll get a thousand different answers.&lt;/p&gt;&#xA;&lt;p&gt;For some, privacy is nothing more than secrecy. For others, it is everything related to their lives. Yet somehow, we expect developers to know what&lt;a href=&#34;/www/posts/10-facts-developers-should-know-when-developing-personal-data-collecting-apps/&#34;&gt; the “right” answer is for everyone. Arguing that all they have to do is to “respect users’ privacy” when developing personal data collecting apps.&lt;/a&gt; But how exactly? This is the part that we never talk about: how privacy should effectively be embedded into existing and forthcoming designs.&lt;/p&gt;</description>
+      <description>Embedding privacy into software apps.&#xA;Since the adoption of the GDPR, we all expect developers to embed privacy into existing and forthcoming software applications. But ask a thousand people to define what privacy is and you’ll get a thousand different answers.&#xA;For some, privacy is nothing more than secrecy. For others, it is everything related to their lives. Yet somehow, we expect developers to know what the “right” answer is for everyone.</description>
     </item>
     <item>
       <title>Pryv joins The Pistoia Alliance</title>
       <link>/www/archive/pryv-joins-the-pistoia-alliance/</link>
       <pubDate>Thu, 04 May 2017 09:43:30 +0000</pubDate>
       <guid>/www/archive/pryv-joins-the-pistoia-alliance/</guid>
-      <description>&lt;h3&gt;As a new member at Pistoia Alliance, Pryv joins with the mission to address the growing needs for improving the adoption of innovative technologies for patient and real-world data.&lt;/h3&gt;&#xA;&lt;p&gt;Positioning itself as the next industry standard for personal and real-world data standard, Pryv is looking forward to participating in the Pistoia Alliance Community to promote collaboration as many organisations would benefit significantly from industry-wide pre-competitive collaboration.&lt;/p&gt;&#xA;&lt;p&gt;Still, one of the biggest challenges the industry has, is transforming the growing number of collected data sets into meaningful insights via developing and implementing machine and deep learning systems.&lt;/p&gt;</description>
+      <description>As a new member at Pistoia Alliance, Pryv joins with the mission to address the growing needs for improving the adoption of innovative technologies for patient and real-world data. Positioning itself as the next industry standard for personal and real-world data standard, Pryv is looking forward to participating in the Pistoia Alliance Community to promote collaboration as many organisations would benefit significantly from industry-wide pre-competitive collaboration.&#xA;Still, one of the biggest challenges the industry has, is transforming the growing number of collected data sets into meaningful insights via developing and implementing machine and deep learning systems.</description>
     </item>
   </channel>
 </rss>
