@@ -2,7 +2,7 @@
 
 Corporate website for [Pryv](https://pryv.github.io/www) — Open-Source Swiss-made Personal Data & Privacy Management Software.
 
-Built with [Hugo](https://gohugo.io/).
+Built with [Hugo](https://gohugo.io/) — **requires Hugo ≥ 0.158** (the config uses the `locale` key and a `security.allowContent` policy for the raw-HTML content pages).
 
 ## Setup
 
