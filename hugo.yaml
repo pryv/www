@@ -1,7 +1,7 @@
 theme: pryv
 baseURL: /www/
 publishDir: dist
-languageCode: en-us
+locale: en-us
 title: Pryv
 description: "Data & Privacy, Managed."
 
