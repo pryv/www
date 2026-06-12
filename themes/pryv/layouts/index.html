@@ -81,6 +81,26 @@
   .latest-posts {
     padding: var(--pryv-space-2xl) 0;
   }
+  .sponsors {
+    padding: var(--pryv-space-2xl) 0;
+    text-align: center;
+    border-top: 1px solid var(--pryv-bg-light);
+  }
+  .sponsors h2 {
+    margin: 0 0 24px;
+  }
+  .sponsors p {
+    color: var(--pryv-text-body);
+    margin-bottom: 24px;
+  }
+  .sponsors .sponsor-logo img {
+    width: 240px;
+    max-width: 80%;
+    transition: opacity var(--pryv-duration) var(--pryv-ease);
+  }
+  .sponsors .sponsor-logo:hover img {
+    opacity: 0.8;
+  }
   @media (max-width: 768px) {
     .hero { flex-direction: column; padding: 40px 0 60px; gap: 40px; }
     .hero-image { max-width: 100%; }
@@ -126,6 +146,16 @@
         {{ partial "post-card.html" . }}
       {{ end }}
     </div>
+  </section>
+</div>
+
+<div class="container">
+  <section class="sponsors">
+    <h2>Sponsors</h2>
+    <p>Open Pryv.io development is supported by:</p>
+    <a class="sponsor-logo" href="https://www.healthdatasafe.org" target="_blank" rel="noopener">
+      <img src="{{ "img/hds-logo.svg" | relURL }}" alt="Health Data Safe">
+    </a>
   </section>
 </div>
 {{ end }}

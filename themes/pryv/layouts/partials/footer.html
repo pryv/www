@@ -4,6 +4,21 @@
     <div class="footer-links">
       <a href="{{ "privacy-policy/" | relURL }}">Privacy Policy</a>
       <a href="{{ "terms-of-use/" | relURL }}">Terms of Use</a>
+      <span id="footer-contact"></span>
+      <script>
+        (function () {
+          // email assembled at runtime to evade address harvesters
+          var p = ['moc', 'vyrp', 'ofni'].map(function (s) {
+            return s.split('').reverse().join('');
+          });
+          var addr = p[2] + '@' + p[1] + '.' + p[0];
+          var a = document.createElement('a');
+          a.href = 'mail' + 'to:' + addr;
+          a.textContent = 'Contact';
+          a.title = addr;
+          document.getElementById('footer-contact').replaceChildren(a);
+        })();
+      </script>
     </div>
     <div class="footer-social">
       {{ with .Site.Params.social.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener"><img src="{{ "img/linkedin-logo@3x.svg" | relURL }}" alt="LinkedIn"></a>{{ end }}

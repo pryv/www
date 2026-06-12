@@ -5,6 +5,11 @@ languageCode: en-us
 title: Pryv
 description: "Data & Privacy, Managed."
 
+# content pages are raw HTML; Hugo >= 0.163 blocks text/html content by default
+security:
+  allowContent:
+    - '^text/(html|markdown)$'
+
 taxonomies:
   tag: tags
   category: categories
