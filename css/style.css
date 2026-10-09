@@ -503,3 +503,23 @@ h3 { font-size: 1.25em; font-weight: var(--pryv-fw-semibold); }
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(48, 188, 237, 0.25);
 }
+
+/* Homepage sponsors */
+.sponsors {
+  text-align: center;
+  padding: 48px 0;
+}
+.sponsor-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  margin: 24px 0;
+}
+.sponsor-logo img {
+  display: block;
+  height: 72px;
+  width: auto;
+  max-width: 100%;
+}

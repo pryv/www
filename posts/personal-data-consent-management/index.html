@@ -5,17 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Open-source software for Personal, Health Data &amp; Consent Management - Pryv</title>
   <meta name="description" content="Build personal data &amp; digital health apps with the open-source Pryv.io: personal data consent management. Free, full production, easy-to-install">
-  <meta property="og:title" content="Open-source software for Personal, Health Data &amp; Consent Management" />
-<meta property="og:description" content="Build personal data &amp; digital health apps with the open-source Pryv.io: personal data consent management. Free, full production, easy-to-install" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="/www/posts/personal-data-consent-management/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2020-06-22T22:15:03+00:00" />
-<meta property="article:modified_time" content="2020-06-23T13:41:01+00:00" />
+  <meta property="og:url" content="/www/posts/personal-data-consent-management/">
+	<meta property="og:site_name" content="Pryv">
+	<meta property="og:title" content="Open-source software for Personal, Health Data & Consent Management">
+	<meta property="og:description" content="Build personal data &amp; digital health apps with the open-source Pryv.io: personal data consent management. Free, full production, easy-to-install">
+	<meta property="og:locale" content="en_us">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="posts">
+		<meta property="article:published_time" content="2020-06-22T22:15:03+00:00">
+		<meta property="article:modified_time" content="2020-06-23T13:41:01+00:00">
 
-
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Open-source software for Personal, Health Data &amp; Consent Management"/>
-<meta name="twitter:description" content="Build personal data &amp; digital health apps with the open-source Pryv.io: personal data consent management. Free, full production, easy-to-install"/>
-<meta name="twitter:site" content="@https://x.com/pryv"/>
+  
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Open-source software for Personal, Health Data & Consent Management">
+	<meta name="twitter:description" content="Build personal data &amp; digital health apps with the open-source Pryv.io: personal data consent management. Free, full production, easy-to-install">
+			<meta name="twitter:site" content="@https://x.com/pryv">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/www/img/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/www/img/favicons/favicon-32x32.png">
@@ -130,6 +134,21 @@ It is not only a small portion of people who have access to the code, but litera
     <div class="footer-links">
       <a href="/www/privacy-policy/">Privacy Policy</a>
       <a href="/www/terms-of-use/">Terms of Use</a>
+      <span id="footer-contact"></span>
+      <script>
+        (function () {
+          
+          var p = ['moc', 'vyrp', 'ofni'].map(function (s) {
+            return s.split('').reverse().join('');
+          });
+          var addr = p[2] + '@' + p[1] + '.' + p[0];
+          var a = document.createElement('a');
+          a.href = 'mail' + 'to:' + addr;
+          a.textContent = 'Contact';
+          a.title = addr;
+          document.getElementById('footer-contact').replaceChildren(a);
+        })();
+      </script>
     </div>
     <div class="footer-social">
       <a href="https://www.linkedin.com/company/pryv/" target="_blank" rel="noopener"><img src="/www/img/linkedin-logo@3x.svg" alt="LinkedIn"></a>

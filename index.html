@@ -1,20 +1,23 @@
 <!doctype html>
 <html lang="en-us">
 <head>
-	<meta name="generator" content="Hugo 0.123.7">
+	<meta name="generator" content="Hugo 0.163.1">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pryv</title>
   <meta name="description" content="Data &amp; Privacy, Managed.">
-  <meta property="og:title" content="Pryv" />
-<meta property="og:description" content="Data &amp; Privacy, Managed." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="/www/" />
+  <meta property="og:url" content="/www/">
+	<meta property="og:site_name" content="Pryv">
+	<meta property="og:title" content="Pryv">
+	<meta property="og:description" content="Data &amp; Privacy, Managed.">
+	<meta property="og:locale" content="en_us">
+	<meta property="og:type" content="website">
 
-
-  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Pryv"/>
-<meta name="twitter:description" content="Data &amp; Privacy, Managed."/>
-<meta name="twitter:site" content="@https://x.com/pryv"/>
+  
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="Pryv">
+	<meta name="twitter:description" content="Data &amp; Privacy, Managed.">
+			<meta name="twitter:site" content="@https://x.com/pryv">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/www/img/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/www/img/favicons/favicon-32x32.png">
@@ -103,6 +106,26 @@
   }
   .latest-posts {
     padding: var(--pryv-space-2xl) 0;
+  }
+  .sponsors {
+    padding: var(--pryv-space-2xl) 0;
+    text-align: center;
+    border-top: 1px solid var(--pryv-bg-light);
+  }
+  .sponsors h2 {
+    margin: 0 0 24px;
+  }
+  .sponsors p {
+    color: var(--pryv-text-body);
+    margin-bottom: 24px;
+  }
+  .sponsors .sponsor-logo img {
+    width: 240px;
+    max-width: 80%;
+    transition: opacity var(--pryv-duration) var(--pryv-ease);
+  }
+  .sponsors .sponsor-logo:hover img {
+    opacity: 0.8;
   }
   @media (max-width: 768px) {
     .hero { flex-direction: column; padding: 40px 0 60px; gap: 40px; }
@@ -324,6 +347,22 @@
   </section>
 </div>
 
+<div class="container">
+  <section class="sponsors">
+    <h2>Sponsors</h2>
+    <p>Open Pryv.io development is supported by:</p>
+    <div class="sponsor-logos">
+      <a class="sponsor-logo" href="https://www.healthdatasafe.org" target="_blank" rel="noopener">
+        <img src="/www/img/hds-logo.svg" alt="Health Data Safe">
+      </a>
+      <a class="sponsor-logo" href="https://www.exoscale.com" target="_blank" rel="noopener">
+        <img src="/www/img/exoscale-logo.svg" alt="Exoscale">
+      </a>
+    </div>
+    <p>Want to support the project? <a href="/www/about-pryv/">Become a sponsor</a>.</p>
+  </section>
+</div>
+
   </div>
 
   <footer class="site-footer">
@@ -332,6 +371,21 @@
     <div class="footer-links">
       <a href="/www/privacy-policy/">Privacy Policy</a>
       <a href="/www/terms-of-use/">Terms of Use</a>
+      <span id="footer-contact"></span>
+      <script>
+        (function () {
+          
+          var p = ['moc', 'vyrp', 'ofni'].map(function (s) {
+            return s.split('').reverse().join('');
+          });
+          var addr = p[2] + '@' + p[1] + '.' + p[0];
+          var a = document.createElement('a');
+          a.href = 'mail' + 'to:' + addr;
+          a.textContent = 'Contact';
+          a.title = addr;
+          document.getElementById('footer-contact').replaceChildren(a);
+        })();
+      </script>
     </div>
     <div class="footer-social">
       <a href="https://www.linkedin.com/company/pryv/" target="_blank" rel="noopener"><img src="/www/img/linkedin-logo@3x.svg" alt="LinkedIn"></a>
