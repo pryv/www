@@ -20,20 +20,39 @@ slug: exoscale-supports-open-pryv
 
 <h3>Open Pryv.io on the Exoscale Marketplace</h3>
 
-<p>Open Pryv.io is available as a ready-made template on the Exoscale Marketplace. You launch an instance with a single setting, your server's host name, and a few minutes later it runs Open Pryv.io with its own HTTPS certificate, ready to register users. The template uses the official Open Pryv.io Docker image on Ubuntu 24.04 LTS and is available in every Exoscale zone, in Switzerland, Germany, Austria, Bulgaria and Croatia.</p>
+<p>Open Pryv.io is now available as a ready-made template on the Exoscale Marketplace.</p>
 
-<p>Every template is built and tested end to end on Exoscale before it is published: launch from the Marketplace settings, certificate issuance, user registration, sign-in from a third-party app, restart and reboot. The setup guide is here: <a href="https://pryv.github.io/ops-image-exoscale-open-pryv.io/">Open Pryv.io on Exoscale</a>.</p>
+<p>Launching an instance requires just a single configuration setting: your server's hostname.</p>
 
-<h3>What else we run on Exoscale</h3>
+<p>Within minutes, the system deploys Open Pryv.io with an automated HTTPS certificate, fully prepared to register users. Built on the official Open Pryv.io Docker image running on Ubuntu 24.04 LTS, the template is available across all Exoscale zones: Switzerland, Germany, Austria, Bulgaria, and Croatia.</p>
+
+<p>To ensure production reliability, every template is built and tested end-to-end on Exoscale before release:</p>
 
 <ul>
-<li><b>The European core of pryv.me</b>, our public demonstration platform, runs in Exoscale's Geneva zone. Each Pryv.io core is fully independent and keeps its users' data where it runs, so the platform offers a Swiss hosting option next to its US one.</li>
-<li><b>A release canary</b>: every Open Pryv.io release is deployed and tested on an Exoscale instance before it reaches pryv.me.</li>
-<li><b>Build and test machines</b> for the Marketplace template and for tests that need a server reachable from the internet.</li>
+<li>Automated deployment using Marketplace settings</li>
+<li>SSL/TLS certificate issuance</li>
+<li>User registration and authentication flows via third-party apps</li>
+<li>System reboot and service recovery resilience</li>
 </ul>
 
-<h3>Why it fits</h3>
+<p>For step-by-step instructions, visit the Open Pryv.io <a href="https://pryv.github.io/ops-image-exoscale-open-pryv.io/">Setup Guide</a>.</p>
 
-<p>Open Pryv.io is Swiss-made software for keeping personal data under control: where it is stored, who may access it, and for what purpose. Running our reference instances with a European provider headquartered in Switzerland, with the choice of the country where each server runs, puts that principle into practice for our own deployments too.</p>
+<h3>What we run on Exoscale</h3>
 
-<p>Exoscale now appears next to the <a href="https://www.healthdatasafe.org" target="_blank" rel="noopener">Health Data Safe Foundation</a> among the sponsors of Open Pryv.io.</p>
+<p>Beyond the marketplace image, Exoscale powers:</p>
+
+<ul>
+<li><b>European Demonstration Platform:</b> The European core of pryv.me is hosted in Exoscale's Geneva zone. Because each Pryv.io core operates independently and stores user data locally, users have a sovereign Swiss hosting option alongside our US instance.</li>
+<li><b>Release Canary:</b> Every Open Pryv.io release is deployed and validated on an Exoscale staging instance before rolling out to production.</li>
+<li><b>Automated CI/CD:</b> Build and testing instances for Marketplace template and tests requiring publicly accessible network endpoints.</li>
+</ul>
+
+<h3>Why This Partnership Fits</h3>
+
+<p>Open Pryv.io is Swiss-made software for keeping personal data under control: where it is stored, who may access it, and for what purpose.</p>
+
+<p>Partnering with Exoscale, a European provider headquartered in Switzerland with localised regional data zones, allows us to practice what we preach. We can guarantee data sovereignty and geographic boundaries directly at the infrastructure level.</p>
+
+<h3>Ready to get started?</h3>
+
+<p>Deploy Open Pryv.io from the <a href="https://www.exoscale.com/marketplace/listing/open-pryv-io/" target="_blank" rel="noopener">Exoscale Marketplace</a> or explore our <a href="https://github.com/pryv/open-pryv.io" target="_blank" rel="noopener">open-source repository</a> on GitHub.</p>
