@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Swiss on Pryv</title>
+		<link>/www/tags/swiss/</link>
+		<description>Recent content in Swiss on Pryv</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Oct 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/www/tags/swiss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Thank you, Exoscale: Swiss cloud infrastructure for Open Pryv.io</title>
+				<link>/www/posts/exoscale-supports-open-pryv/</link>
+				<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+				<guid>/www/posts/exoscale-supports-open-pryv/</guid>
+				<description>&lt;p&gt;We are happy to announce that &lt;a href=&#34;https://www.exoscale.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exoscale&lt;/a&gt;, the Swiss cloud provider, now supports Open Pryv.io on its infrastructure. A warm thank you to the Exoscale team for backing an open-source project dedicated to personal data and consent management.&lt;/p&gt;&#xA;&#xA;&lt;h3&gt;Open Pryv.io on the Exoscale Marketplace&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Open Pryv.io is now available as a ready-made template on the Exoscale Marketplace.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Launching an instance requires just a single configuration setting: your server&#39;s hostname.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Within minutes, the system deploys Open Pryv.io with an automated HTTPS certificate, fully prepared to register users. Built on the official Open Pryv.io Docker image running on Ubuntu 24.04 LTS, the template is available across all Exoscale zones: Switzerland, Germany, Austria, Bulgaria, and Croatia.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cloud on Pryv</title>
-    <link>/www/tags/cloud/</link>
-    <description>Recent content in Cloud on Pryv</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 09:15:54 +0000</lastBuildDate>
-    <atom:link href="/www/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pryv.io Open Source Solution now available on Exoscale Cloud Platform</title>
-      <link>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
-      <guid>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</guid>
-      <description>&lt;p&gt;&lt;i&gt;Lausanne, Switzerland, December 8th, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and the European alternative cloud platform, Exoscale, announced the deployment of Pryv.io Open Source Solution on Exoscale cloud platform which will empower developers to start creating personal data collecting apps in one click in a privacy-compliant way. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Open Pryv.io software ready-to-go on Exoscale marketplace, allowing you to deploy Open Pryv instantaneously &lt;/b&gt;&lt;b&gt;with minimal start-up configuration.&lt;/b&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Cloud on Pryv</title>
+		<link>/www/tags/cloud/</link>
+		<description>Recent content in Cloud on Pryv</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Oct 2026 10:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="/www/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Thank you, Exoscale: Swiss cloud infrastructure for Open Pryv.io</title>
+				<link>/www/posts/exoscale-supports-open-pryv/</link>
+				<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+				<guid>/www/posts/exoscale-supports-open-pryv/</guid>
+				<description>&lt;p&gt;We are happy to announce that &lt;a href=&#34;https://www.exoscale.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exoscale&lt;/a&gt;, the Swiss cloud provider, now supports Open Pryv.io on its infrastructure. A warm thank you to the Exoscale team for backing an open-source project dedicated to personal data and consent management.&lt;/p&gt;&#xA;&#xA;&lt;h3&gt;Open Pryv.io on the Exoscale Marketplace&lt;/h3&gt;&#xA;&#xA;&lt;p&gt;Open Pryv.io is now available as a ready-made template on the Exoscale Marketplace.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Launching an instance requires just a single configuration setting: your server&#39;s hostname.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Within minutes, the system deploys Open Pryv.io with an automated HTTPS certificate, fully prepared to register users. Built on the official Open Pryv.io Docker image running on Ubuntu 24.04 LTS, the template is available across all Exoscale zones: Switzerland, Germany, Austria, Bulgaria, and Croatia.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pryv.io Open Source Solution now available on Exoscale Cloud Platform</title>
+				<link>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</link>
+				<pubDate>Tue, 08 Dec 2020 00:00:28 +0000</pubDate>
+				<guid>/www/posts/pryv-io-open-source-solution-now-available-on-exoscale-cloud-platform/</guid>
+				<description>&lt;p&gt;&lt;i&gt;Lausanne, Switzerland, December 8th, 2020 – The Swiss leading provider of privacy and personal data management software, Pryv, and the European alternative cloud platform, Exoscale, announced the deployment of Pryv.io Open Source Solution on Exoscale cloud platform which will empower developers to start creating personal data collecting apps in one click in a privacy-compliant way. &lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Open Pryv.io software ready-to-go on Exoscale marketplace, allowing you to deploy Open Pryv instantaneously &lt;/b&gt;&lt;b&gt;with minimal start-up configuration.&lt;/b&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
