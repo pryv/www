@@ -28,7 +28,11 @@ if [ ! -d dist/.git ]; then
   exit 1
 fi
 
-# 4. Build
+# 4. Clear the previous build, keeping the gh-pages checkout: Hugo only adds and
+#    overwrites files, so without this a removed page or file would stay live.
+find dist -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+
+# 5. Build
 echo "Building site..."
 hugo
 if [ $? -ne 0 ]; then
@@ -38,7 +42,7 @@ fi
 
 echo "Build successful."
 
-# 5. Publish
+# 6. Publish
 cd dist
 git add -A
 if [ -z "$(git status --porcelain)" ]; then
