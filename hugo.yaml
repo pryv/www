@@ -40,6 +40,10 @@ menu:
       parent: Product
       url: https://pryv.github.io/data-in-pryv/
       weight: 3
+    - name: Compliance Matrix
+      parent: Product
+      url: https://pryv.github.io/compliance-matrix/
+      weight: 4
     - name: Posts
       url: /posts/
       weight: 2
