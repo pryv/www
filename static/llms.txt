@@ -1,0 +1,31 @@
+# Pryv
+
+> Website of the Pryv association (Switzerland) and of Open Pryv.io, open-source middleware (BSD-3-Clause) to collect, store and share personal and health data with consent, access control and audit. This site presents the project; the documentation is on the developer site, which has its own agent index: https://pryv.github.io/llms.txt
+
+Use the developer documentation, not the articles of this site, for anything technical: the articles are dated, several describe earlier versions, and the software they describe is now fully open source.
+
+## Documentation
+
+- [Developer documentation, agent index](https://pryv.github.io/llms.txt): API reference, concepts, guides, setup
+- [Developer documentation, full API reference in one file](https://pryv.github.io/llms-full.txt)
+- [For AI agents and automation](https://pryv.github.io/agents/): how a client discovers a platform and its API
+- [Event types](https://pryv.github.io/event-types/): the catalogue; machine-readable at https://pryv.github.io/event-types/flat.json
+
+## Compliance
+
+- [Compliance matrix, agent index](https://pryv.github.io/compliance-matrix/llms.txt): GDPR, HIPAA, Swiss nLPD, ISO 27001 and others mapped onto what the software does and what stays with the implementer
+- [Compliance matrix, all in one file](https://pryv.github.io/compliance-matrix/llms-full.txt)
+
+## Source code
+
+- [open-pryv.io](https://github.com/pryv/open-pryv.io): the server; start with its [AGENTS.md](https://github.com/pryv/open-pryv.io/blob/master/AGENTS.md)
+- [lib-js](https://github.com/pryv/lib-js): JavaScript client library, `pryv` on npm
+- [Issues](https://github.com/pryv/open-pryv.io/issues): single tracker for the Pryv projects
+
+## This site
+
+- [Open Pryv.io](https://pryv.github.io/www/open-pryv/)
+- [About Pryv](https://pryv.github.io/www/about-pryv/): the association and its purpose
+- [Posts](https://pryv.github.io/www/posts/) ([RSS](https://pryv.github.io/www/index.xml)): dated articles
+- [Privacy policy](https://pryv.github.io/www/privacy-policy/)
+- [Pryv Lab privacy notice](https://pryv.github.io/www/pryvlab-privacy/) and [terms of use](https://pryv.github.io/www/terms-of-use/): the pryv.me demonstration platform
